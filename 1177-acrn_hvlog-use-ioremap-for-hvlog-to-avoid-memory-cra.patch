@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 50086cb4071235dfd81cec29b6c4a386b65e3bd6 Mon Sep 17 00:00:00 2001
 From: Fu YanX <yanx.fu@intel.com>
 Date: Mon, 13 May 2019 18:25:32 +0800
 Subject: [PATCH] acrn_hvlog:use ioremap for hvlog to avoid memory crash

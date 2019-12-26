@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e2b4825795c4bf8921d55e2c7d85b65408475774 Mon Sep 17 00:00:00 2001
 From: Zhipeng Gong <zhipeng.gong@intel.com>
 Date: Tue, 23 Oct 2018 11:02:11 +0800
 Subject: [PATCH] drm/i915/gvt: rebase gvtbuffer to use upstream functions.

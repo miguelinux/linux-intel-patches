@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 26c7e88c788f8d70da78b0ed2b508ee876973839 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Tue, 23 Apr 2019 03:36:36 +0000
 Subject: [PATCH] drm/i915/gvt: disable the preemption timeout in GVT-g guest

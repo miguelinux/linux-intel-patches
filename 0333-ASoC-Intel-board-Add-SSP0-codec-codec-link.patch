@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 43c1b2cb690123f73080fb8e92cf509e98f08d9a Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Wed, 12 Apr 2017 16:07:43 +0530
 Subject: [PATCH] ASoC: Intel: board: Add SSP0 codec-codec link

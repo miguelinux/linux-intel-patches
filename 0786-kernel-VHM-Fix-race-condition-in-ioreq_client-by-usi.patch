@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a0776e6b54019d2d7a575c59628ce5a5845154a1 Mon Sep 17 00:00:00 2001
 From: Zhao Yakui <yakui.zhao@intel.com>
 Date: Thu, 29 Nov 2018 13:58:15 +0800
 Subject: [PATCH] kernel/VHM: Fix race condition in ioreq_client by using

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From eab0eb27c15d60e9af3fa6dd6ec8a51f4fd0b41c Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Tue, 6 Mar 2018 10:43:45 +0200
 Subject: [PATCH] tpm: factor out tpm1_get_random into tpm1-cmd.c

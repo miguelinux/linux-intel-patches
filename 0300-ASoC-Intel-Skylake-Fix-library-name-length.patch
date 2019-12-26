@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a77634959c9f7c6b60934c72ef4ca70144235629 Mon Sep 17 00:00:00 2001
 From: Shreyas NC <shreyas.nc@intel.com>
 Date: Wed, 15 Feb 2017 06:04:04 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Fix library name length

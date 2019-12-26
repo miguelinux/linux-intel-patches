@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ee333f1ea665a19c85c69e2aaba0d1e46189ba70 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Tue, 1 Nov 2016 02:02:52 +0200
 Subject: [PATCH] mei: hw: add dma ring control block

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 5b61764df6b831824533403e582d0d4210d4bbdd Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Tue, 27 Nov 2018 19:32:13 +0800
 Subject: [PATCH] media: ov2775: update register setting

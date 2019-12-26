@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9b82c3e5f3ccaf9017ae6ad87c0d9a604f3f5b62 Mon Sep 17 00:00:00 2001
 From: Fei Yang <fei.yang@intel.com>
 Date: Mon, 29 Oct 2018 11:45:11 -0700
 Subject: [PATCH] Fix warnings introduced by acrn

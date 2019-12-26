@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6570cbed7b20741a3433c3192ed93ac0fea6c554 Mon Sep 17 00:00:00 2001
 From: Chen Meng J <meng.j.chen@intel.com>
 Date: Tue, 17 Sep 2019 15:53:37 +0800
 Subject: [PATCH] media: intel-ipu4: ov495: frame description for 4 streams

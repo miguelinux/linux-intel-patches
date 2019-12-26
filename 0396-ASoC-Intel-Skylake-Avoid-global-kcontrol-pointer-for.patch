@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 0851c2cd32e83a9dbc936bcbc9fb44a12b010dcd Mon Sep 17 00:00:00 2001
 From: "Sinha, Mohit" <mohit.sinha@intel.com>
 Date: Thu, 26 Oct 2017 14:52:16 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Avoid global kcontrol pointer for event

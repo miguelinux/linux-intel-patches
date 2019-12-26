@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 92605693cdebeed989560dc8bd0cf847a9b4af87 Mon Sep 17 00:00:00 2001
 From: "Pan, Kris" <kris.pan@intel.com>
 Date: Tue, 8 Jan 2019 20:28:45 -0700
 Subject: [PATCH] Revert "igb_avb: back port an upstream patch and add debug

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From bb6046f3245b73c08d4057b27b39c22284bd233c Mon Sep 17 00:00:00 2001
 From: Kaige Fu <kaige.fu@intel.com>
 Date: Thu, 13 Dec 2018 11:15:37 +0000
 Subject: [PATCH] ACRNTrace: Refine acrn trace module to remove the limitation

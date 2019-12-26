@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a832c1dbcda48124f38f627e82d3768741e2827b Mon Sep 17 00:00:00 2001
 From: "Panwar, Ashish" <ashish.panwar@intel.com>
 Date: Mon, 22 Feb 2016 17:16:57 +0530
 Subject: [PATCH] ASoC: Intel: Boards: FW logging DAI-links for BXT-P

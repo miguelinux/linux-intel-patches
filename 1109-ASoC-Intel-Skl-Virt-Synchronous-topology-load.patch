@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 23ce88e0aa214c8e308ea0fcf7591a2996f96015 Mon Sep 17 00:00:00 2001
 From: Wojciech Jablonski <wojciech.jablonski@intel.com>
 Date: Tue, 19 Mar 2019 15:09:22 +0100
 Subject: [PATCH] ASoC: Intel: Skl: Virt: Synchronous topology load

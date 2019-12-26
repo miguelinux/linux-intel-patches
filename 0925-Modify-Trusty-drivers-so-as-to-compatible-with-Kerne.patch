@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b43a50228a4b5869f5df6d46ee722755f4db35cc Mon Sep 17 00:00:00 2001
 From: weideng <wei.a.deng@intel.com>
 Date: Tue, 28 Mar 2017 01:40:53 +0000
 Subject: [PATCH] Modify Trusty drivers so as to compatible with Kernel 4.11

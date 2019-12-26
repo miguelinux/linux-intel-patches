@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b40aa2172896248b8b1dd549adf0fea6c595c6ff Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Mon, 26 Nov 2018 09:43:26 +0800
 Subject: [PATCH] Revert "Integration of CBC line discipline kernel module"

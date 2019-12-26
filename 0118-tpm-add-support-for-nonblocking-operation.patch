@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3940ee88f4900e856c192c2f3a11116bf012a595 Mon Sep 17 00:00:00 2001
 From: Tadeusz Struk <tadeusz.struk@intel.com>
 Date: Mon, 10 Sep 2018 10:18:33 -0700
 Subject: [PATCH] tpm: add support for nonblocking operation

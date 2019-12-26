@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2331bf24a14c576fa7236c6406162303e4654b62 Mon Sep 17 00:00:00 2001
 From: yangz1x <zhonghuax.yang@intel.com>
 Date: Sat, 9 Mar 2019 12:36:58 +0800
 Subject: [PATCH] media: intel-ipu4: [VIRT] Fix psys mediation build

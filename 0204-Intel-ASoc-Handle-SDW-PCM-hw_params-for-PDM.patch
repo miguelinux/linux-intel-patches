@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 662669a1a84bd4c256cfb8ec38f6c4d831b86f75 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Sat, 23 Apr 2016 18:15:06 +0530
 Subject: [PATCH] Intel:ASoc: Handle SDW PCM hw_params for PDM.

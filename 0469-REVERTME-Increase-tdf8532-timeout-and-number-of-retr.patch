@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 5459cc50366f63f32e639d5b057b3ec2b466ec1a Mon Sep 17 00:00:00 2001
 From: Gustaw Lewandowski <gustaw.lewandowski@intel.com>
 Date: Mon, 17 Sep 2018 11:27:02 +0200
 Subject: [PATCH] REVERTME: Increase tdf8532 timeout and number of retries for

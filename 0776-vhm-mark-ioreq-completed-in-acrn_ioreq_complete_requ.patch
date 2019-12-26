@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a4c6f837463b9f54d8ca04c4abaa246e4c0e564d Mon Sep 17 00:00:00 2001
 From: Shuo Liu <shuo.a.liu@intel.com>
 Date: Mon, 24 Sep 2018 21:58:10 +0800
 Subject: [PATCH] vhm: mark ioreq completed in acrn_ioreq_complete_request

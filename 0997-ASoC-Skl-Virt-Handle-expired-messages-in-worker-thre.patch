@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 106f1eae091804a76b0955bfd71c71ef154716e7 Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Wed, 30 Jan 2019 09:32:09 +0100
 Subject: [PATCH] ASoC: Skl: Virt: Handle expired messages in worker thread

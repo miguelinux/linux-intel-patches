@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b758eac75b04cdf7778cfd67b9d4aae67daa507e Mon Sep 17 00:00:00 2001
 From: Yin Fengwei <fengwei.yin@intel.com>
 Date: Thu, 17 Jan 2019 22:09:22 +0800
 Subject: [PATCH] vhm: remove the flooding log from vhm

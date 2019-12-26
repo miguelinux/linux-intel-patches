@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2a39719b10d04a102d4c900fc961a9e6bb48aa5a Mon Sep 17 00:00:00 2001
 From: Cezary Rojewski <cezary.rojewski@intel.com>
 Date: Thu, 4 Oct 2018 12:17:27 +0200
 Subject: [PATCH] ASoC: Intel: Skylake: Restore static SSP5 BE declaration.

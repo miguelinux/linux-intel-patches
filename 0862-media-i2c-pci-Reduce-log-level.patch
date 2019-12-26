@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 47ddfd92c6adfb8250d52e8f68cbabb58bc917f1 Mon Sep 17 00:00:00 2001
 From: khaiwenn <khai.wen.ng@intel.com>
 Date: Thu, 3 Jan 2019 10:55:36 +0800
 Subject: [PATCH] media: i2c & pci: Reduce log level

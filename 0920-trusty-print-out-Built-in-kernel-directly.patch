@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c0872dfda14d7c0176374f5de92555ab302cd142 Mon Sep 17 00:00:00 2001
 From: "Yan, Shaoou" <shaopu.yan@intel.com>
 Date: Thu, 8 Dec 2016 04:58:55 +0000
 Subject: [PATCH] trusty: print out "Built: " in kernel directly.

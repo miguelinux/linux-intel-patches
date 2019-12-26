@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b7062cf3557e02e461525a34c758b3582c18ade8 Mon Sep 17 00:00:00 2001
 From: Jon Moeller <jon.moeller@intel.com>
 Date: Tue, 13 Nov 2018 13:31:51 -0600
 Subject: [PATCH] Fix for socwatch build error that occurs if

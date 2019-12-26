@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a50cac2804d84b0fc7fb5216a0a6ebbc25989a28 Mon Sep 17 00:00:00 2001
 From: Aviad Nissel <aviad.nissel@intel.com>
 Date: Sun, 16 Dec 2018 14:16:11 +0200
 Subject: [PATCH] mei: virtio: fix queue flush with non empty vtag list

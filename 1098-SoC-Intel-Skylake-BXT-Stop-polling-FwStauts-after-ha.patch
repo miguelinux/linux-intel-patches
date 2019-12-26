@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 21eaea0e45966e2ac46fc06b176324bf5fcd326c Mon Sep 17 00:00:00 2001
 From: Dominik Bozek <dominikx.bozek@intel.com>
 Date: Fri, 17 May 2019 10:47:00 +0200
 Subject: [PATCH] SoC: Intel: Skylake: BXT: Stop polling FwStauts after halt

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From cf02cc68fd6bea3e286b77993d2999ad18a96297 Mon Sep 17 00:00:00 2001
 From: Li Zhijian <lizhijian@cn.fujitsu.com>
 Date: Fri, 31 Aug 2018 10:59:04 +0800
 Subject: [PATCH] vhm: fix client use-after-free

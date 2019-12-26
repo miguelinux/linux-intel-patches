@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From bf10f31cd6d0a10b958820a9d01d3d95bc3d058c Mon Sep 17 00:00:00 2001
 From: Vivek Kasireddy <vivek.kasireddy@intel.com>
 Date: Thu, 8 Mar 2018 15:10:34 -0800
 Subject: [PATCH] INTERNAL [IOTG] drm/i915: Decouple pipe and crtc index

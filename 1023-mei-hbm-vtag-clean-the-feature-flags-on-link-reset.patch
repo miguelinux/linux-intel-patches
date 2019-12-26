@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 69cc07e5906877bd963af3abfa961324c81a0f34 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Wed, 20 Feb 2019 17:56:04 +0200
 Subject: [PATCH] mei: hbm: vtag: clean the feature flags on link reset

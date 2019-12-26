@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c6d4bb3def7cb9608fa04efcfd72ce10438d9c5e Mon Sep 17 00:00:00 2001
 From: "R, Dharageswari" <dharageswari.r@intel.com>
 Date: Mon, 25 Dec 2017 03:03:35 +0530
 Subject: [PATCH] ASoC: Intel: SKL: Implement the timer to trigger firmware

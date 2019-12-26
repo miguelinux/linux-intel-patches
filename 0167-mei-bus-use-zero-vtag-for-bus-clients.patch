@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 7c89da38ddd04e30b1e771fb06a1e8924475e91a Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Wed, 24 Oct 2018 14:30:40 +0300
 Subject: [PATCH] mei: bus: use zero vtag for bus clients.

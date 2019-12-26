@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e903106b60ec35e9f23a6b64a9728fadda9c7cd1 Mon Sep 17 00:00:00 2001
 From: Dominik Bozek <dominikx.bozek@intel.com>
 Date: Fri, 17 May 2019 10:56:20 +0200
 Subject: [PATCH] ASoC: Intel: Skylake: BXT: read FwStatus and ErrorCode before

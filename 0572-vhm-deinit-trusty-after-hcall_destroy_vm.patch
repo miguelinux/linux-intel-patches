@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 49e8d1cd099b7dfba29e44208db4c770e76eda11 Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Sat, 8 Sep 2018 15:37:38 +0800
 Subject: [PATCH] vhm: deinit trusty after hcall_destroy_vm

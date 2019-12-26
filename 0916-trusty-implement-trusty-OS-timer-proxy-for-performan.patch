@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f6b0b5eec92045246641c89022f043466d4d44fb Mon Sep 17 00:00:00 2001
 From: "Zhu, Bing" <bing.zhu@intel.com>
 Date: Fri, 15 Jul 2016 13:24:42 +0800
 Subject: [PATCH] trusty: implement trusty OS timer proxy for performance

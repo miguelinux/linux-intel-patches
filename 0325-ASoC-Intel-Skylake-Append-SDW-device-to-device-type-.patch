@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ec180effe2db06799c8f99248fc1eaaff55dfa6f Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 27 Apr 2017 14:32:17 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Append SDW device to device type enum

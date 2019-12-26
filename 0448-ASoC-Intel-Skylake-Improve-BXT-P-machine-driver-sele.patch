@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From dbfffc6082d315d51d075b0d55070c88db278443 Mon Sep 17 00:00:00 2001
 From: Kareem Shaik <kareem.m.shaik@intel.com>
 Date: Wed, 29 Nov 2017 15:38:20 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Improve BXT-P machine driver selection

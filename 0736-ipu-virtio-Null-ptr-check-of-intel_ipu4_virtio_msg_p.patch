@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9ef652042d3ea227d81d59cec476fda9ed66cf93 Mon Sep 17 00:00:00 2001
 From: "Yew, Chang Ching" <chang.ching.yew@intel.com>
 Date: Fri, 16 Nov 2018 09:39:50 +0800
 Subject: [PATCH] ipu: virtio: Null ptr check of intel_ipu4_virtio_msg_parse()

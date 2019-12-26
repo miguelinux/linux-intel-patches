@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 33e559020837b5384c5fcfe30d5593cf1c2b6d82 Mon Sep 17 00:00:00 2001
 From: Dominik Bozek <dominikx.bozek@intel.com>
 Date: Tue, 6 Nov 2018 14:48:11 +0100
 Subject: [PATCH] ASoC: Intel: Fix generation of crash dump info from DSP

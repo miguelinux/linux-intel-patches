@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6ab14c2856979902373a85bb166299eaba192cd5 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 9 Jun 2016 17:35:39 +0530
 Subject: [PATCH] ASoC: Intel: SKL: Remove SDW aggregation hardcode data

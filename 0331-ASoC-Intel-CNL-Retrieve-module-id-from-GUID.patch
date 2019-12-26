@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 126e121fe084c4dd7dd3d25a5e8bdeab980629c2 Mon Sep 17 00:00:00 2001
 From: "Mallikarjun, chippalkatti" <mallikarjunx.chippalkatti@intel.com>
 Date: Mon, 24 Apr 2017 14:43:23 +0530
 Subject: [PATCH] ASoC: Intel: CNL: Retrieve module id from GUID

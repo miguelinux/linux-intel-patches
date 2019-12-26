@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 517e8abf371bf7a9f9caa96d1a207ee6caa25f7c Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Fri, 31 Aug 2018 10:58:57 +0800
 Subject: [PATCH] VHM: check HV api version for VHM module init

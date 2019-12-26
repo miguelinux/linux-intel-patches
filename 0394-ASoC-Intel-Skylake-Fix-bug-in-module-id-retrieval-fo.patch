@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From daca5af2f7f86ce1dba4667d36060df7cc58483c Mon Sep 17 00:00:00 2001
 From: "Mallikarjun, chippalkatti" <mallikarjunx.chippalkatti@intel.com>
 Date: Mon, 19 Jun 2017 09:33:05 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Fix bug in module id retrieval for link

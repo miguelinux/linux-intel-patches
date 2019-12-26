@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d2bca6ebcf183ee6ba5804021f38d110c6f837e3 Mon Sep 17 00:00:00 2001
 From: Fei Yang <fei.yang@intel.com>
 Date: Fri, 21 Sep 2018 09:52:17 +0800
 Subject: [PATCH] VHM: Add EXPORT_SYMBOL for VHM API function so that it can be

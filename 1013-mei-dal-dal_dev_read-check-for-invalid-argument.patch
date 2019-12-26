@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 71e55b08a113f9fa7276fb6bfaa18ce081f6b0bd Mon Sep 17 00:00:00 2001
 From: Yael Samet <yael.samet@intel.com>
 Date: Mon, 7 Jan 2019 09:01:24 +0200
 Subject: [PATCH] mei: dal: dal_dev_read() - check for invalid argument

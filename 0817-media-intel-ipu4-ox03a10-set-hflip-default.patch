@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From eb975c6a293e503d919dd080d8a192bd8b73a0bd Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Tue, 27 Nov 2018 19:32:03 +0800
 Subject: [PATCH] media: intel-ipu4: ox03a10: set hflip default

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 001815792b6fc725b50e68f5471d3360325746cb Mon Sep 17 00:00:00 2001
 From: Shuo Liu <shuo.a.liu@intel.com>
 Date: Tue, 30 Oct 2018 18:07:25 +0800
 Subject: [PATCH] vhm: support polling mode of ioreq completion

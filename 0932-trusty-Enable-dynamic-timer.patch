@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 5ed35ccd440c1ec4b7a79830e89301c9aa68bcdb Mon Sep 17 00:00:00 2001
 From: "Zhong,Fangjian" <fangjian.zhong@intel.com>
 Date: Tue, 6 Jun 2017 00:15:01 +0000
 Subject: [PATCH] trusty: Enable dynamic timer

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 34243838cfa8312c05e5730b1d981ce4398a87a9 Mon Sep 17 00:00:00 2001
 From: Yin Fengwei <fengwei.yin@intel.com>
 Date: Fri, 12 Apr 2019 13:23:19 +0800
 Subject: [PATCH] ACRN: hvlog: check whether it's ACRN before init hvlog

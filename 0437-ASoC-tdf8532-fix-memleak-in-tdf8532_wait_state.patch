@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 98d699a450e6eb6f97cfceb396d681514529bf1a Mon Sep 17 00:00:00 2001
 From: Liu Changcheng <changcheng.liu@intel.com>
 Date: Fri, 11 May 2018 17:24:01 +0800
 Subject: [PATCH] ASoC: tdf8532: fix memleak in tdf8532_wait_state

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b4906dff23dae875d8f1894527bef1bfb62b7d1a Mon Sep 17 00:00:00 2001
 From: Zhao Yakui <yakui.zhao@intel.com>
 Date: Thu, 10 Jan 2019 15:18:03 +0800
 Subject: [PATCH] drivers/hyper_dmabuf: Remove the imported dma_buf with closed

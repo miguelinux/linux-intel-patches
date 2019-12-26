@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2efb5d6d6a3cd6081c21dd50ae6dc59a7c210001 Mon Sep 17 00:00:00 2001
 From: Zhao Yakui <yakui.zhao@intel.com>
 Date: Wed, 21 Aug 2019 11:15:55 +0800
 Subject: [PATCH] Revert "drm/i915/gvt: release the handle to avoid panic"

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c4ee370cc6f4c405b426f6d9e0f486ed9e078376 Mon Sep 17 00:00:00 2001
 From: Wojciech Jablonski <wojciech.jablonski@intel.com>
 Date: Mon, 18 Mar 2019 11:38:35 +0100
 Subject: [PATCH] ASoC: Intel: Skl: Virt: Check NULL ptr on virual FE attach

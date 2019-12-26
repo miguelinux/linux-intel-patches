@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From deda03c904cd9c3a525e6e083e1a5aa5daf1aabe Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Sat, 23 Apr 2016 18:58:44 +0530
 Subject: [PATCH] ASoC:Intel: Add machine driver for SoundWire SV PDM Codec.

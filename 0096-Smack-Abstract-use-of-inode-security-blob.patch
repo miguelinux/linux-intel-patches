@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 543ae98e59501a4bd31dfddc32111f52bb480cbe Mon Sep 17 00:00:00 2001
 From: Casey Schaufler <casey@schaufler-ca.com>
 Date: Wed, 20 Jun 2018 14:07:16 -0700
 Subject: [PATCH] Smack: Abstract use of inode security blob

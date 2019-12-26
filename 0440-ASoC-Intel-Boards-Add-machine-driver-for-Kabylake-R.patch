@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From bc70b359a098561386871eb51ac2a987de6970d2 Mon Sep 17 00:00:00 2001
 From: Puneeth Prabhu <puneethx.prabhu@intel.com>
 Date: Wed, 31 Jan 2018 12:31:27 +0530
 Subject: [PATCH] ASoC: Intel: Boards: Add machine driver for Kabylake R

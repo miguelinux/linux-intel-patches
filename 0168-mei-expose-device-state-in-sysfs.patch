@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4301d0785167ed3c4d7bcbd243d62aaf9dae6c6d Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Thu, 20 Apr 2017 10:02:34 +0300
 Subject: [PATCH] mei: expose device state in sysfs

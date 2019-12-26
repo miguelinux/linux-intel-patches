@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 0f753aa4a31394d4dba3b83f9e5e88a573a1674c Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Sun, 25 Nov 2018 17:32:28 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Add support for Virtio SST

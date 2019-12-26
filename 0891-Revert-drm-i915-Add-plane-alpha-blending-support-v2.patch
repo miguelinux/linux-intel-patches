@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e5694a1de4aca022b985c4d0c0ac05af304caf64 Mon Sep 17 00:00:00 2001
 From: "Pan, Kris" <kris.pan@intel.com>
 Date: Thu, 17 Jan 2019 01:02:42 -0800
 Subject: [PATCH] Revert "drm/i915: Add plane alpha blending support, v2."

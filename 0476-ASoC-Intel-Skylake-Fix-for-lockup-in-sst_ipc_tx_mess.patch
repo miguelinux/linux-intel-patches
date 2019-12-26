@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e5cfb2843d016cb0cbaace603856df8b0f1f961d Mon Sep 17 00:00:00 2001
 From: Gustaw Lewandowski <gustaw.lewandowski@intel.com>
 Date: Wed, 17 Oct 2018 12:14:39 +0200
 Subject: [PATCH] ASoC: Intel: Skylake: Fix for lockup in

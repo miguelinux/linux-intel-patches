@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 66c19edf25e950e058f280e81278f883b6edefa6 Mon Sep 17 00:00:00 2001
 From: Chen Meng J <meng.j.chen@intel.com>
 Date: Tue, 26 Mar 2019 13:49:58 +0800
 Subject: [PATCH] media: intel-ipu4: ti960: split ti953 code

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9b32cd11f2fce923e1505cfd1553d68e96ad8e6a Mon Sep 17 00:00:00 2001
 From: yingbinx <yingbinx.zeng@intel.com>
 Date: Wed, 22 Feb 2017 14:28:03 +0800
 Subject: [PATCH] Limit to output trusty/lk log on debug version

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 0eed4122c738b1b721209df5578f183cebfe3e84 Mon Sep 17 00:00:00 2001
 From: Yin Fengwei <fengwei.yin@intel.com>
 Date: Thu, 23 Aug 2018 07:29:24 +0000
 Subject: [PATCH] sos: vhm: add hypercall to set guest vcpu registers

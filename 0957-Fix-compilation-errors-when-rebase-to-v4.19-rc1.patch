@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 13b8b11fca401f2ef7d25e4063e76667172a66aa Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Mon, 27 Aug 2018 15:15:51 +0800
 Subject: [PATCH] Fix compilation errors when rebase to v4.19-rc1.

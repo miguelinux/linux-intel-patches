@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9aad5564f3440d373fae4319aa0e1c7b2d638681 Mon Sep 17 00:00:00 2001
 From: Kuppuswamy Sathyanarayanan <sathyanarayanan.kuppuswamy@linux.intel.com>
 Date: Wed, 10 Oct 2018 14:08:56 -0700
 Subject: [PATCH] usb: dwc3: Fix NULL pointer exception in dwc3_pci_remove()

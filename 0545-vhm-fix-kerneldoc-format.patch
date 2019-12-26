@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d6e4bd5f741cc43c08c093a0b63a491800249b6c Mon Sep 17 00:00:00 2001
 From: Xinyun Liu <xinyun.liu@intel.com>
 Date: Fri, 31 Aug 2018 10:59:01 +0800
 Subject: [PATCH] vhm: fix kerneldoc format

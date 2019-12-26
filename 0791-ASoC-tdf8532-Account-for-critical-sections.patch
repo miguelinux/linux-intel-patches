@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4706c8775ecd8ac7123c848290cc515c2314a9b5 Mon Sep 17 00:00:00 2001
 From: Cezary Rojewski <cezary.rojewski@intel.com>
 Date: Tue, 4 Dec 2018 05:21:48 +0100
 Subject: [PATCH] ASoC: tdf8532: Account for critical sections.

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 83360c703ab965d5f8e1e95bab19129793539a95 Mon Sep 17 00:00:00 2001
 From: Felipe Balbi <felipe.balbi@linux.intel.com>
 Date: Wed, 1 Aug 2018 13:15:05 +0300
 Subject: [PATCH] usb: dwc3: gadget: combine unaligned and zero flags

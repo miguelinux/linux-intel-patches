@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 266247e55650dd0f4707a3006940418aa2342505 Mon Sep 17 00:00:00 2001
 From: Jaikrishna Nemallapudi <jaikrishnax.nemallapudi@intel.com>
 Date: Wed, 14 Dec 2016 17:12:45 +0530
 Subject: [PATCH] ASoC: Intel: Fix build warning for unused variables

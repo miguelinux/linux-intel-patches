@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 0af4fedf1a9c3fc19ef8abdfeb50f9db126681bb Mon Sep 17 00:00:00 2001
 From: "Li, Fei1" <fei1.li@intel.com>
 Date: Fri, 31 Aug 2018 10:59:02 +0800
 Subject: [PATCH] sos: vhm: remove set guest memory map by CMA

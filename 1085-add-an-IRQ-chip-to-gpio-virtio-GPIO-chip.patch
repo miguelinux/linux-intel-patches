@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 570496f965aeb865f49c2cbb35e1f8bf41dc2140 Mon Sep 17 00:00:00 2001
 From: Yuan Liu <yuan1.liu@intel.com>
 Date: Wed, 27 Feb 2019 15:54:46 +0800
 Subject: [PATCH] add an IRQ chip to gpio-virtio GPIO chip.

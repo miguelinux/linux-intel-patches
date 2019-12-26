@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b4757a88d88f1df9fb6a89a0342ca66c0da5024e Mon Sep 17 00:00:00 2001
 From: "Romli, Khairul Anuar" <khairul.anuar.romli@intel.com>
 Date: Wed, 21 Nov 2018 10:09:42 +0800
 Subject: [PATCH] drm/i915: Add missing decryption bit implementation

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 848fe97198483b1f05f432f40ea2adcd0847cee0 Mon Sep 17 00:00:00 2001
 From: "R, Dharageswari" <dharageswari.r@intel.com>
 Date: Mon, 25 Dec 2017 07:07:11 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Fix the is_dsp_running() to return

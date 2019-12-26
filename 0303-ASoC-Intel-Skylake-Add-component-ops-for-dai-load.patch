@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 0e3485be244edba0cc5c7ae1166c7fffe443b58f Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Mon, 6 Mar 2017 09:56:10 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Add component ops for dai load

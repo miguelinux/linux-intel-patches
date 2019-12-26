@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4ba44360ee460fb87e4e13ebcf12ad78c89f94be Mon Sep 17 00:00:00 2001
 From: Zhao Yakui <yakui.zhao@intel.com>
 Date: Fri, 14 Sep 2018 16:10:16 +0800
 Subject: [PATCH] Kernel/VHM: Rename acpi_generic_address in acrn_common.h to

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From cf9cae10426453c1e86a8010d0ef47e4f760fa1b Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 9 Jun 2016 17:33:01 +0530
 Subject: [PATCH] ASoC: Intel: CNL: Enable SDW aggregation support from ITT

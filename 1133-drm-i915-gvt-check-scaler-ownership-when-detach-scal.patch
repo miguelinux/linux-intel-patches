@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 53e254f491c0f92920ca6ef7aa3e66e6649ce9b2 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Wed, 12 Jun 2019 06:38:26 +0000
 Subject: [PATCH] drm/i915/gvt: check scaler ownership when detach scaler

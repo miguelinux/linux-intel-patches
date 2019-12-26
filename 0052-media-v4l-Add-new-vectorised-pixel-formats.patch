@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ef9b9ad26c2e2a09c2031f0275e6eed01ac3ace2 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Fri, 26 Oct 2018 09:52:32 +0800
 Subject: [PATCH] media: v4l: Add new vectorised pixel formats

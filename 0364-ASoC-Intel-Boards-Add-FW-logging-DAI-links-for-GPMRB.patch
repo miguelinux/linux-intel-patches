@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 1b80b8d1023cacbbf750bef7fbb0639bb4a83047 Mon Sep 17 00:00:00 2001
 From: "Sinha, Mohit" <mohit.sinha@intel.com>
 Date: Thu, 6 Jul 2017 16:21:19 +0530
 Subject: [PATCH] ASoC: Intel: Boards: Add FW logging DAI-links for GPMRB

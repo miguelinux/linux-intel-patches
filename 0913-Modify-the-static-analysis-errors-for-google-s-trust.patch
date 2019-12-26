@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a2eff07c8e39df1f81b1ef20c78167172e92e1ab Mon Sep 17 00:00:00 2001
 From: weideng <wei.a.deng@intel.com>
 Date: Fri, 13 May 2016 10:36:16 +0800
 Subject: [PATCH] Modify the static analysis errors for google's trusty driver

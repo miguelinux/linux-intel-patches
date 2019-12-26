@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4824fbc6a3c2902fced1dd1401cb0adf36b7b7a1 Mon Sep 17 00:00:00 2001
 From: Gustaw Lewandowski <gustaw.lewandowski@intel.com>
 Date: Fri, 21 Sep 2018 16:09:53 +0200
 Subject: [PATCH] REVERTME: Fix no audio output after resume from S3

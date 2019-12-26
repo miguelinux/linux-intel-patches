@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 7c027755f07f7037e3a18f7cc33764eedc7e3033 Mon Sep 17 00:00:00 2001
 From: Zhipeng Gong <zhipeng.gong@intel.com>
 Date: Tue, 8 Jan 2019 10:55:55 +0800
 Subject: [PATCH] drm/i915/gvt: allocate memory for vreg mmio during boot time

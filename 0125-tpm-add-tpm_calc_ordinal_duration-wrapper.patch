@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d9283f517f7e85c33baf51514803acc6d90e7220 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Sun, 11 Mar 2018 09:55:27 +0200
 Subject: [PATCH] tpm: add tpm_calc_ordinal_duration() wrapper

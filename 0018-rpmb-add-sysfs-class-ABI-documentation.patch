@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ca819334b50ae10bad0a57c68f10075efdb4b63e Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Sun, 13 Mar 2016 13:36:52 +0200
 Subject: [PATCH] rpmb: add sysfs-class ABI documentation

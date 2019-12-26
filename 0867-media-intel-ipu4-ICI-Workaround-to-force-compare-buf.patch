@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9975a2a79f304f5134915224ffe6969f2af4b764 Mon Sep 17 00:00:00 2001
 From: "Yang, Zhonghua" <zhonghuax.yang@intel.com>
 Date: Thu, 27 Dec 2018 16:14:42 +0800
 Subject: [PATCH] media: intel-ipu4: [ICI] Workaround to force compare buffer

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 44dd4a7c8f122c6f5c821e4d2edfa8116b1eae98 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Mon, 14 Jan 2019 10:29:30 +0800
 Subject: [PATCH] media: intel-ipu4: enable OV495 multiport

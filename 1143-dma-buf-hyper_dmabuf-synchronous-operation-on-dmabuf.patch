@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 8e257ad12c4f3b0d4d1a495a6a43cd23d529de92 Mon Sep 17 00:00:00 2001
 From: Dongwon Kim <dongwon.kim@intel.com>
 Date: Mon, 17 Jun 2019 23:14:08 -0700
 Subject: [PATCH] dma-buf/hyper_dmabuf: synchronous operation on dmabuf-release

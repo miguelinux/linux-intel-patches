@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 20e26613fc2490b229f527b9af15a9e62114a4a9 Mon Sep 17 00:00:00 2001
 From: "Yew, Chang Ching" <chang.ching.yew@intel.com>
 Date: Thu, 1 Aug 2019 04:25:50 +0800
 Subject: [PATCH] Revert "media: ici: Fix warning when stream_start fails."

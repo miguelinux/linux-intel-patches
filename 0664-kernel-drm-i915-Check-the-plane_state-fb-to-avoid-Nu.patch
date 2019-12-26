@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3c2335fcc624848ee2d5648900701ac7a71f88a1 Mon Sep 17 00:00:00 2001
 From: Zhao Yakui <yakui.zhao@intel.com>
 Date: Thu, 26 Jul 2018 15:17:00 +0800
 Subject: [PATCH] kernel/drm/i915: Check the plane_state->fb to avoid Null

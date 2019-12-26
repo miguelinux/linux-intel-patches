@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6ab089ff745621323eece2a091ebac00d6031d0d Mon Sep 17 00:00:00 2001
 From: Yang Zhonghua <zhonghuax.yang@intel.com>
 Date: Wed, 28 Nov 2018 18:21:51 +0800
 Subject: [PATCH] media: ici: Change ici_isys_pixelformat parameter with

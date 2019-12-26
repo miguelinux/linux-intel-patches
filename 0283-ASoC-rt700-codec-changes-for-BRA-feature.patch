@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 64caaba04aab3477f8a6b34f6ccf44598a738871 Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Thu, 27 Oct 2016 12:04:26 +0530
 Subject: [PATCH] ASoC: rt700: codec changes for BRA feature

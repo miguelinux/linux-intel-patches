@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b0c8272a1721f8448bcfa2cc4988c9adef3e97fa Mon Sep 17 00:00:00 2001
 From: Imed BEN ROMDHANE <imedx.ben.romdhane@intel.com>
 Date: Tue, 12 Sep 2017 20:44:07 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Return default sampling rate for Trace

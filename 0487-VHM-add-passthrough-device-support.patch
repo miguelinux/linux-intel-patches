@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From eabb35462914eac0ddb081c263f09350e58b9527 Mon Sep 17 00:00:00 2001
 From: Binbin Wu <binbin.wu@intel.com>
 Date: Fri, 31 Aug 2018 10:58:55 +0800
 Subject: [PATCH] VHM: add passthrough device support

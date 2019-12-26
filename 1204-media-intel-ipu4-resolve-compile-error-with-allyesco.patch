@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 01dc0c50c38aded0f6b9b1b978960c1d35652971 Mon Sep 17 00:00:00 2001
 From: qianmenx <qianx.meng@intel.com>
 Date: Thu, 25 Jul 2019 10:40:28 +0800
 Subject: [PATCH] media: intel-ipu4: resolve compile error with allyesconfig

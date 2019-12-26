@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9f5dd5588df6ab7cf93ba5350c6801596ccf4639 Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Wed, 14 Feb 2018 15:14:20 +0800
 Subject: [PATCH] Remove unused label to depress compile warning

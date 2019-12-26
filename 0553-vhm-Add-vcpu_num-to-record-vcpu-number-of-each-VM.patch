@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 1dbfec1a5f7d67f1d6788ef94f396838978671a5 Mon Sep 17 00:00:00 2001
 From: Shuo Liu <shuo.a.liu@intel.com>
 Date: Fri, 31 Aug 2018 10:59:02 +0800
 Subject: [PATCH] vhm: Add vcpu_num to record vcpu number of each VM

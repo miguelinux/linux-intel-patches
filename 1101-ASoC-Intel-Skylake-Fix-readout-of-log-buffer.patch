@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a76c1d04aec3871acd4bf540519629f65018c8eb Mon Sep 17 00:00:00 2001
 From: Dominik Bozek <dominikx.bozek@intel.com>
 Date: Fri, 23 Nov 2018 11:33:01 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Fix readout of log buffer

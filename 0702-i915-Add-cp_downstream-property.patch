@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 028519bc101ada1dd7b5201db523557867125dca Mon Sep 17 00:00:00 2001
 From: "Romli, Khairul Anuar" <khairul.anuar.romli@intel.com>
 Date: Tue, 16 Oct 2018 11:38:41 +0800
 Subject: [PATCH] i915: Add cp_downstream property

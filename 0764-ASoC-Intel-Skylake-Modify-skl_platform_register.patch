@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d1fc8d7d3bc3785a1fdc004451083b3ec6a75fe2 Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Sun, 25 Nov 2018 17:04:36 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Modify skl_platform_register

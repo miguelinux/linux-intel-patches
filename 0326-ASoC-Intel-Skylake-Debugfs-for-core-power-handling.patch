@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3437d8cae7b72b89a3a3e3c291f8170caecf4538 Mon Sep 17 00:00:00 2001
 From: Jayachandran B <jayachandran.b@intel.com>
 Date: Wed, 27 Jan 2016 09:30:16 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Debugfs for core power handling

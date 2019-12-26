@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a04f07d0d0e6f871efb04806d338aee535101ad5 Mon Sep 17 00:00:00 2001
 From: Wei Liu <weix.w.liu@intel.com>
 Date: Thu, 26 Jul 2018 11:24:55 +0800
 Subject: [PATCH] hyper_dmabuf: Fix array length check issue in

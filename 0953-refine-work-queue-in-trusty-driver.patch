@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ad5afeb4e97d5dff983257a3362605c33acd71bd Mon Sep 17 00:00:00 2001
 From: "Zhang, Qi" <qi1.zhang@intel.com>
 Date: Tue, 17 Jul 2018 21:16:53 +0800
 Subject: [PATCH] refine work queue in trusty driver

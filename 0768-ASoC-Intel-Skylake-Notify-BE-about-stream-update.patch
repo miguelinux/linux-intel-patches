@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2665897dca084683427990e5cbbdc0a3d6df5dd7 Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Sun, 25 Nov 2018 17:46:17 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Notify BE about stream update

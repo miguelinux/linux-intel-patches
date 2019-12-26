@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From bfa7fab8b7740947c6f1c30a0425f0c5c3f26b86 Mon Sep 17 00:00:00 2001
 From: Anil Bhawangirkar <anil.k.bhawangirkar@intel.com>
 Date: Wed, 17 Aug 2016 12:23:35 +0530
 Subject: [PATCH] ASoC: Intel: CNL: Define DPN package for SDW1.

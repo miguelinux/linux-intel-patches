@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a3361322c56bd22c7fb87ae8c341353a08e7eecc Mon Sep 17 00:00:00 2001
 From: yangz1x <zhonghuax.yang@intel.com>
 Date: Wed, 11 Sep 2019 09:53:09 +0800
 Subject: [PATCH] media: intel-ipu4: css: scci_IPU4_master_20190813 fw release

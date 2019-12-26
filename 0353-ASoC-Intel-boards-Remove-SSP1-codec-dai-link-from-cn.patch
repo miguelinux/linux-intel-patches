@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 1424a3c6bfdf5a56460bd775e578b4d4051bcaf8 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 15 Jun 2017 15:08:06 +0530
 Subject: [PATCH] ASoC: Intel: boards: Remove SSP1-codec dai link from

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c3fc157b7bc37d2063dfe83014b853594b533778 Mon Sep 17 00:00:00 2001
 From: "Shaik, ShahinaX" <shahinax.shaik@intel.com>
 Date: Mon, 2 Apr 2018 23:37:54 +0530
 Subject: [PATCH] ASoC: tdf8532: Fix Audio memory leakage at boot time

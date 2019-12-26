@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 888b529fa81909361bfd17c16684389ac48861e0 Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Wed, 19 Dec 2018 13:20:56 +0530
 Subject: [PATCH] ASoc: Intel: Skylake: Fix build issue in skl virtio driver

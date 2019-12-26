@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From aaea06318569965f6f969bb23dd320764d2396a4 Mon Sep 17 00:00:00 2001
 From: Divya Prakash <divya1.prakash@intel.com>
 Date: Thu, 7 Apr 2016 10:32:45 +0530
 Subject: [PATCH] ALSA: hda: Enhance HD audio framework to support compress

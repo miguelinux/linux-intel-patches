@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6d13c8f0dd5213dbae5dc9c056af2d228616235e Mon Sep 17 00:00:00 2001
 From: Jayachandran B <jayachandran.b@intel.com>
 Date: Tue, 14 Jun 2016 10:39:48 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Probe-Limit the bytes to copy

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 370bed3604b8e1a8767f4fc2b259c5ca926d6ca4 Mon Sep 17 00:00:00 2001
 From: Fei Jiang <fei.jiang@intel.com>
 Date: Mon, 27 Aug 2018 09:34:15 +0200
 Subject: [PATCH] hyper_dmabuf: fix map failure issue when assign 4G memory to

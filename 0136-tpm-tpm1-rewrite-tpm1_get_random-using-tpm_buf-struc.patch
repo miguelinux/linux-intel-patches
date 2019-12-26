@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 56966a39f58de2d468b3167e96a65657feab3d1d Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Sat, 15 Sep 2018 23:36:29 +0300
 Subject: [PATCH] tpm: tpm1: rewrite tpm1_get_random() using tpm_buf structure

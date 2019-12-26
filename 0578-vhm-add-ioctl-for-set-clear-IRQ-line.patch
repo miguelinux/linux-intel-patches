@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d3736bdad02ca2c0b8a597340764505983228b59 Mon Sep 17 00:00:00 2001
 From: Yonghua Huang <yonghua.huang@intel.com>
 Date: Thu, 27 Sep 2018 00:24:18 +0800
 Subject: [PATCH] vhm: add ioctl for set/clear IRQ line

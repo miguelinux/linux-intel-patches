@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 506809b50f16363ebb5a34435180157e1da4c9d6 Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Fri, 21 Apr 2017 12:21:17 +0530
 Subject: [PATCH] SoundWire: Select default frame shape based on platform

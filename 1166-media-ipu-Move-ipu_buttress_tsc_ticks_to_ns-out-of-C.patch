@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 926c63c25a1921af2e862c740de893803ea65f11 Mon Sep 17 00:00:00 2001
 From: Puunithaaraj Gopal <puunithaaraj.gopal@intel.com>
 Date: Wed, 26 Jun 2019 21:54:43 +0800
 Subject: [PATCH] media: ipu: Move ipu_buttress_tsc_ticks_to_ns out of

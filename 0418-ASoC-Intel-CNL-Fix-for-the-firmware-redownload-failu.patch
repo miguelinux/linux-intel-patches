@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c9d4b432db28688c834352c8692d7fa3a71ff477 Mon Sep 17 00:00:00 2001
 From: "R, Dharageswari" <dharageswari.r@intel.com>
 Date: Mon, 25 Dec 2017 04:48:41 +0530
 Subject: [PATCH] ASoC: Intel: CNL: Fix for the firmware redownload failure on

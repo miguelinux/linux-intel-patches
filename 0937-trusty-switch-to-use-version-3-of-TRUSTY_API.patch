@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9e34cc73dda291057df4cfba8580a1c16aba2d93 Mon Sep 17 00:00:00 2001
 From: "Zhong,Fangjian" <fangjian.zhong@intel.com>
 Date: Tue, 11 Jul 2017 04:44:59 +0000
 Subject: [PATCH] trusty: switch to use version 3 of TRUSTY_API

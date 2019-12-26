@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From bc0dcf57f7b5dbe5be00eb31deaaed696e9301c3 Mon Sep 17 00:00:00 2001
 From: "Romli, Khairul Anuar" <khairul.anuar.romli@intel.com>
 Date: Thu, 1 Nov 2018 14:06:30 +0800
 Subject: [PATCH] MUST_REBASE: Enable plane decryption bit

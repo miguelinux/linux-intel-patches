@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 92d6bf251263e9c40cc4a373f25a11939a980aa8 Mon Sep 17 00:00:00 2001
 From: "Yew, Chang Ching" <chang.ching.yew@intel.com>
 Date: Mon, 18 Mar 2019 11:07:57 +0800
 Subject: [PATCH] media: i2c ici & platform: Fix for build warning

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 0793cebfdb2eae1d6f62ac9bf8c83c93bc9970ce Mon Sep 17 00:00:00 2001
 From: "Li, Fei1" <fei1.li@intel.com>
 Date: Fri, 31 Aug 2018 10:59:02 +0800
 Subject: [PATCH] sos: vhm: refine set memory region API

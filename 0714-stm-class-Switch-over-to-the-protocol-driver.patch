@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6734441e7cf9eb7e11a6f816480513faa0c8ef94 Mon Sep 17 00:00:00 2001
 From: Alexander Shishkin <alexander.shishkin@linux.intel.com>
 Date: Fri, 5 Oct 2018 15:42:57 +0300
 Subject: [PATCH] stm class: Switch over to the protocol driver

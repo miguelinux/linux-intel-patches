@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 706366a0b72af09562df57b629f963599d894011 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Fri, 29 Apr 2016 14:59:48 +0530
 Subject: [PATCH] SDW: Change log level to error from debug.

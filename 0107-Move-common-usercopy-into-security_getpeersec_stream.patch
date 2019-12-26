@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a70034e56fb02c3fcc4fdae7f4305f94512925df Mon Sep 17 00:00:00 2001
 From: Casey Schaufler <casey@schaufler-ca.com>
 Date: Thu, 5 Jul 2018 11:37:39 -0700
 Subject: [PATCH] Move common usercopy into security_getpeersec_stream

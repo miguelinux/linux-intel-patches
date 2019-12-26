@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3e433ff8e68072b3b4f5abc11420ac6ce3bcc296 Mon Sep 17 00:00:00 2001
 From: Alexander Shishkin <alexander.shishkin@linux.intel.com>
 Date: Tue, 16 Oct 2018 14:13:40 +0300
 Subject: [PATCH] lib: Fix ia64 bootloader linkage

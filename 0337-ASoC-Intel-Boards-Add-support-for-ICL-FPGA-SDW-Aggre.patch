@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f392a8a970f38024fa4b43f744f470efb1827123 Mon Sep 17 00:00:00 2001
 From: Leoni Prodduvaka <leoni.prodduvaka@intel.com>
 Date: Tue, 18 Apr 2017 23:02:32 +0530
 Subject: [PATCH] ASoC: Intel: Boards: Add support for ICL FPGA SDW Aggregation

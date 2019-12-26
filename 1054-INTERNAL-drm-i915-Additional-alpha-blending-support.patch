@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 476b133a825b4b447dacdf938ba24fd59eff25cc Mon Sep 17 00:00:00 2001
 From: kimsehun <se.hun.kim@intel.com>
 Date: Thu, 7 Mar 2019 03:25:42 -0500
 Subject: [PATCH] INTERNAL drm/i915: Additional alpha blending support

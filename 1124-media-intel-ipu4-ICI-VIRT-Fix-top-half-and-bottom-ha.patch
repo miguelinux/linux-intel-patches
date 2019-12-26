@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f5d16e237c7630c3e6e80f77fa8acbe806cb409a Mon Sep 17 00:00:00 2001
 From: Ong Hock Yu <ong.hock.yu@intel.com>
 Date: Thu, 16 May 2019 06:05:30 +0000
 Subject: [PATCH] media: intel-ipu4: [ICI/VIRT] Fix top half and bottom half

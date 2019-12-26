@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 330c6b250d55c31a93f39da0f24fbf92a1c12068 Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Thu, 28 Mar 2019 19:18:26 +0100
 Subject: [PATCH] ASoC: Intel: Skl: FE: Atomic period elapsed implementation

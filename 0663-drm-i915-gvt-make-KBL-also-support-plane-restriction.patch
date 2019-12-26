@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From fdba5cfd5df81a0569ddd1f88c24ee8831031d3c Mon Sep 17 00:00:00 2001
 From: Fei Jiang <fei.jiang@intel.com>
 Date: Tue, 26 Jun 2018 08:49:50 +0800
 Subject: [PATCH] drm/i915/gvt: make KBL also support plane restriction feature

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f790e1d4afaf04266f0d9ec0eddacbc39868e4df Mon Sep 17 00:00:00 2001
 From: "Shaik, Kareem M" <kareem.m.shaik@intel.com>
 Date: Sat, 18 Nov 2017 03:34:50 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Support multiple format configs

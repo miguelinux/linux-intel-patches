@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 130ab3e837bfe0d631cf578384d82c99dfaa6a28 Mon Sep 17 00:00:00 2001
 From: "Lewandowski, Gustaw" <gustaw.lewandowski@intel.com>
 Date: Wed, 11 Jul 2018 13:52:39 +0200
 Subject: [PATCH] ASoC: Intel: Fix race condition in IPC rx list

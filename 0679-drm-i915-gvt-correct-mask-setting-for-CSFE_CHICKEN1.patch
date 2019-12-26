@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 27c05f3d163d63d07ff8eb97eae5408b49fba48e Mon Sep 17 00:00:00 2001
 From: Xinyun Liu <xinyun.liu@intel.com>
 Date: Wed, 19 Sep 2018 15:28:53 +0800
 Subject: [PATCH] drm/i915/gvt: correct mask setting for CSFE_CHICKEN1

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ab07cfdf001f42dcfc1183cd5153fbe86bfe0396 Mon Sep 17 00:00:00 2001
 From: Badiuzzaman Iskhandar <badiuzzaman.azzarfan.bin.iskhandar@intel.com>
 Date: Tue, 9 Oct 2018 15:51:18 +0800
 Subject: [PATCH] MUST_REBASE [IOTG]: drm/i915: Allow late GuC/HuC loading

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3940f6c729b0d89fcfef76a8db814cf9ee7daa3e Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 10 Mar 2016 12:55:38 +0530
 Subject: [PATCH] ASoC: Intel: Add support to bypass NHLT reading for SDW link.

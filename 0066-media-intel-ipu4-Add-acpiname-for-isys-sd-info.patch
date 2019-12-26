@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 27b66c518f0aafa742af19970022c84e0d6efe60 Mon Sep 17 00:00:00 2001
 From: "Yew, Chang Ching" <chang.ching.yew@intel.com>
 Date: Tue, 23 Oct 2018 17:03:22 +0800
 Subject: [PATCH] media: intel-ipu4: Add acpiname for isys sd info

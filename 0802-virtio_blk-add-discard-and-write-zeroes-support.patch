@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d5d79e9298a7011cf4e4e1729e78241a9e054c94 Mon Sep 17 00:00:00 2001
 From: Conghui Chen <conghui.chen@intel.com>
 Date: Sat, 8 Dec 2018 08:11:50 +0800
 Subject: [PATCH] virtio_blk: add discard and write zeroes support

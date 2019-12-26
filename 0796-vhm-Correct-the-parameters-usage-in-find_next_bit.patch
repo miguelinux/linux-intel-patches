@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 185e8ff64214b7421f11b920d4d71069cbaf32ed Mon Sep 17 00:00:00 2001
 From: Shuo A Liu <shuo.a.liu@intel.com>
 Date: Tue, 11 Dec 2018 11:49:17 +0800
 Subject: [PATCH] vhm: Correct the parameters usage in find_next_bit

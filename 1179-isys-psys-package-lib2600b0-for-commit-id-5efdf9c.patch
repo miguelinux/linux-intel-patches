@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d76c80a8bb1752797c9b515fbd3c8d817d050545 Mon Sep 17 00:00:00 2001
 From: icg_intg <icg_intg@intel.com>
 Date: Thu, 11 Apr 2019 12:23:19 +0800
 Subject: [PATCH] isys & psys package lib2600b0 for commit-id 5efdf9c

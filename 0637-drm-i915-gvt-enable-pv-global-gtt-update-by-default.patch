@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6cc27f0c1a33816a0371b21bdc21ab4c753b0b6e Mon Sep 17 00:00:00 2001
 From: Zhipeng Gong <zhipeng.gong@intel.com>
 Date: Thu, 26 Jul 2018 10:03:02 +0800
 Subject: [PATCH] drm/i915/gvt: enable pv global gtt update by default

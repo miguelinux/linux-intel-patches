@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 787871b6e74884c38468653516761af0b72466f1 Mon Sep 17 00:00:00 2001
 From: Alexander Shishkin <alexander.shishkin@linux.intel.com>
 Date: Fri, 5 Oct 2018 15:43:05 +0300
 Subject: [PATCH] lib: Add memcat_p(): paste 2 pointer arrays together

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b3bdb270261603ec1c77f216182582207b4ff0c7 Mon Sep 17 00:00:00 2001
 From: Anamika Lal <anamikax.lal@intel.com>
 Date: Thu, 10 Aug 2017 12:28:20 +0530
 Subject: [PATCH] ASoC: rt700: Remove unused variables.

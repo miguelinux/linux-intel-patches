@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 78ff1793ccfe0e1f3c046f1d35e7f784edf82d75 Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Fri, 31 Aug 2018 10:58:59 +0800
 Subject: [PATCH] update MEM_ATTR_WRITE_PROT with WB policy

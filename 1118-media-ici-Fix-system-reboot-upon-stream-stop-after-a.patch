@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2a1e2281f5e35c51c90ad7b11d3571aa5d59e8e3 Mon Sep 17 00:00:00 2001
 From: "Poluri, Sarat Chandra" <sarat.chandra.poluri@intel.com>
 Date: Tue, 9 Apr 2019 22:28:30 +0000
 Subject: [PATCH] media: ici: Fix system reboot upon stream stop after a fatal

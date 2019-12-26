@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3b5170e91dc84f5d2f02741465e314a5ba4367a1 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Mon, 14 Jan 2019 10:29:14 +0800
 Subject: [PATCH] media: intel-ipu4: pdata for OV495 multiport

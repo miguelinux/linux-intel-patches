@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a3b3089d7051d887a8f2b0b523d9ce2d654d3f42 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Tue, 19 Mar 2019 11:13:56 +0800
 Subject: [PATCH] media: intel-ipu4: ti960: ov495 frame sync setting

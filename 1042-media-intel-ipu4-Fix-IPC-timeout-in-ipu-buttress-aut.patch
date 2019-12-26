@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From db93795dd7e3461b944d89569a448506be200a31 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Mon, 11 Feb 2019 10:04:24 +0800
 Subject: [PATCH] media: intel-ipu4: Fix IPC timeout in ipu buttress

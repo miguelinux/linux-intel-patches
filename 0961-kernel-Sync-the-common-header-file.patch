@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 604852a2d12b3c68061677b2cde994996614f343 Mon Sep 17 00:00:00 2001
 From: Mingqiang Chi <mingqiang.chi@intel.com>
 Date: Thu, 10 Jan 2019 15:00:41 +0800
 Subject: [PATCH] kernel: Sync the common header file

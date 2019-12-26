@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 91ade4201cd621a5aabe589e19a7ed097ece1924 Mon Sep 17 00:00:00 2001
 From: khaiwenn <khai.wen.ng@intel.com>
 Date: Thu, 28 Feb 2019 16:38:18 +0800
 Subject: [PATCH] [ICI]Adding delay after initializing OV10635

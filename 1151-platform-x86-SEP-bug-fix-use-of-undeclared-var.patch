@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 57801c0e4a8d347351858d12c55a8f8b779fcbcc Mon Sep 17 00:00:00 2001
 From: Manisha Chinthapally <manisha.chinthapally@intel.com>
 Date: Tue, 2 Jul 2019 18:15:44 +0000
 Subject: [PATCH] platform/x86: SEP bug fix, use of undeclared var

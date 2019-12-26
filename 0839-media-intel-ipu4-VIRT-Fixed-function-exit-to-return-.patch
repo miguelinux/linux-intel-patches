@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ce08e638084caed1ad7b854f2432cdd4c3d637ef Mon Sep 17 00:00:00 2001
 From: Ong Hock Yu <ong.hock.yu@intel.com>
 Date: Sun, 25 Nov 2018 18:44:06 +0000
 Subject: [PATCH] media: intel-ipu4: [VIRT] Fixed function exit to return error

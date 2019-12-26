@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f800dffb5c8d03aa8fe9f859a2ccb277e3e0400f Mon Sep 17 00:00:00 2001
 From: "Furtak, Pawel" <pawel.furtak@intel.com>
 Date: Thu, 21 Mar 2019 14:13:30 -0800
 Subject: [PATCH] ASoC: Intel: Skl: Virt: FE: snd card registration

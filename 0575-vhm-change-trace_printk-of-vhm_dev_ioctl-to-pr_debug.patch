@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 396ef0acf645352066419975325c79ffbf5fd0e9 Mon Sep 17 00:00:00 2001
 From: Shuo Liu <shuo.a.liu@intel.com>
 Date: Sat, 29 Sep 2018 11:00:46 +0800
 Subject: [PATCH] vhm: change trace_printk of vhm_dev_ioctl to pr_debug

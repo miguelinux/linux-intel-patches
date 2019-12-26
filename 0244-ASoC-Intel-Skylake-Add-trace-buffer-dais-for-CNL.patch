@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 85040b5ea756738ecc7da88c604eeb06cdc90a7e Mon Sep 17 00:00:00 2001
 From: "Panwar, Ashish" <ashish.panwar@intel.com>
 Date: Fri, 18 Mar 2016 16:02:19 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Add trace buffer dais for CNL

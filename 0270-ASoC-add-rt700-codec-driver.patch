@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d590cec537b0124587834106dcecc9b9d1cb1f20 Mon Sep 17 00:00:00 2001
 From: bardliao <bardliao@realtek.com>
 Date: Tue, 28 Jun 2016 16:33:32 +0800
 Subject: [PATCH] ASoC: add rt700 codec driver

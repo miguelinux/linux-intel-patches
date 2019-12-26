@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 8de89d9b9af6757372e6225a371ffbee0480fc99 Mon Sep 17 00:00:00 2001
 From: Jarkko Sakkinen <jarkko.sakkinen@linux.intel.com>
 Date: Mon, 3 Sep 2018 04:01:26 +0300
 Subject: [PATCH] tpm: fix response size validation in tpm_get_random()

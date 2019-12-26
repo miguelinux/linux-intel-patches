@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4f4be08b3f4bdaae6e0e24ba8294bbb48c39af2d Mon Sep 17 00:00:00 2001
 From: "Yew, Chang Ching" <chang.ching.yew@intel.com>
 Date: Sun, 4 Aug 2019 20:08:23 -0700
 Subject: [PATCH] media: intel-ipu4: Squashed of 4 reverted patches

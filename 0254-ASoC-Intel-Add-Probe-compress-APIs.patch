@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From aaa3c084f70060563ff7e26891387a8fd4b14eb9 Mon Sep 17 00:00:00 2001
 From: Divya Prakash <divya1.prakash@intel.com>
 Date: Wed, 20 Apr 2016 10:08:03 +0530
 Subject: [PATCH] ASoC: Intel: Add Probe compress APIs

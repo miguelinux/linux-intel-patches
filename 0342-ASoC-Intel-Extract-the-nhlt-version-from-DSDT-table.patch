@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4bc1fdc504e6d0ae3b205788b326c4f1f43494f4 Mon Sep 17 00:00:00 2001
 From: Leoni Prodduvaka <leoni.prodduvaka@intel.com>
 Date: Thu, 18 May 2017 21:56:06 +0530
 Subject: [PATCH] ASoC: Intel: Extract the "nhlt-version" from DSDT table

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 734f302e62f4c81a8c393f4202e7e00044491b59 Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Thu, 17 Jan 2019 12:42:23 +0100
 Subject: [PATCH] ASoC: Intel: Skl: Virt: Fix PCI dev initialization

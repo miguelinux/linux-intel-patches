@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e94879398a5692daad04b939544cf96e117ddf50 Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Sun, 25 Nov 2018 16:58:08 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Export skylake functions for virtio.

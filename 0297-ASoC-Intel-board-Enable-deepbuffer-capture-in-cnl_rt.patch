@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2f16ca4aefba6d8ba31da5ffe56fb5835903ca14 Mon Sep 17 00:00:00 2001
 From: Dharageswari R <dharageswari.r@intel.com>
 Date: Sun, 13 Mar 2016 22:22:47 +0530
 Subject: [PATCH] ASoC: Intel: board: Enable deepbuffer capture in cnl_rt274

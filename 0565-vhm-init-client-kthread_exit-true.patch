@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9f2a99d663e43b712b74349690e54f7fc8f4423b Mon Sep 17 00:00:00 2001
 From: Li Zhijian <lizhijian@cn.fujitsu.com>
 Date: Wed, 22 Aug 2018 16:12:20 +0000
 Subject: [PATCH] vhm: init client->kthread_exit true

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6de5355604a07618632cfcd35a0e3104698a558d Mon Sep 17 00:00:00 2001
 From: Kaige Fu <kaige.fu@intel.com>
 Date: Thu, 21 Feb 2019 14:15:44 +0000
 Subject: [PATCH] acrn: fix used uninitialized warning

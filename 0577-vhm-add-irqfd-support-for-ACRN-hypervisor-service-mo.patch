@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From bdef63e3212db1c4a141c9cc57b528bbf5c5db88 Mon Sep 17 00:00:00 2001
 From: Shuo Liu <shuo.a.liu@intel.com>
 Date: Thu, 12 Jul 2018 15:40:52 +0800
 Subject: [PATCH] vhm: add irqfd support for ACRN hypervisor service module

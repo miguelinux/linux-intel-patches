@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 7cd3b397d3812eff94dc85cf0f1674f1746fbceb Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Mon, 2 May 2016 15:12:59 +0530
 Subject: [PATCH] ASoC:CNL: Add DAIS for SoundWire masters.

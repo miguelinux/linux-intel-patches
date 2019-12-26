@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 769951d0b7ade3a5d03e6976563fad1885fc1013 Mon Sep 17 00:00:00 2001
 From: "Furtak, Pawel" <pawel.furtak@intel.com>
 Date: Thu, 20 Dec 2018 15:32:00 +0100
 Subject: [PATCH] ASoC: Intel: Skl: Virt: Choose topology based on GOS domain

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d8cd380e0e405151a85658a790fb7127433f11b7 Mon Sep 17 00:00:00 2001
 From: Cezary Rojewski <cezary.rojewski@intel.com>
 Date: Fri, 26 Oct 2018 15:48:27 +0200
 Subject: [PATCH] ASoC: Intel: Skylake: Generic firmware recovery on IPC

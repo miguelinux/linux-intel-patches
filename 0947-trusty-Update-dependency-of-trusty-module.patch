@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 00d0b95041439ce0ec8996382880c5d6183a70e4 Mon Sep 17 00:00:00 2001
 From: "Qi, Yadong" <yadong.qi@intel.com>
 Date: Fri, 23 Feb 2018 14:12:07 +0800
 Subject: [PATCH] trusty: Update dependency of trusty module

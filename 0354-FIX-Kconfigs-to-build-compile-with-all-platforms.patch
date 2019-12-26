@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c115f79d304dc41242c0be1a711b598ef4e9bace Mon Sep 17 00:00:00 2001
 From: Anamika Lal <anamikax.lal@intel.com>
 Date: Thu, 29 Jun 2017 11:57:13 +0530
 Subject: [PATCH] FIX Kconfigs to build compile with all platforms

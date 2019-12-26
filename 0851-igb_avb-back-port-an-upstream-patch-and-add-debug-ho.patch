@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a6f07e044413a7ae1f47a55f4c30cadf3228adc4 Mon Sep 17 00:00:00 2001
 From: Feng Tang <feng.tang@intel.com>
 Date: Mon, 7 Jan 2019 15:12:21 +0800
 Subject: [PATCH] igb_avb: back port an upstream patch and add debug hook.

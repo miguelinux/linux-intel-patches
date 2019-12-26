@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From dc0a1f0d8abbc8aeaa9d286ea2b112f92fd525d8 Mon Sep 17 00:00:00 2001
 From: "R, Dharageswari" <dharageswari.r@intel.com>
 Date: Mon, 25 Dec 2017 07:17:03 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Avoid sending IPCs during the crash

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 98350d4fb2a7b3dbd74f9e235dff94dc803499e9 Mon Sep 17 00:00:00 2001
 From: Leoni Prodduvaka <leoni.prodduvaka@intel.com>
 Date: Tue, 18 Apr 2017 22:57:51 +0530
 Subject: [PATCH] ASoC: Intel: CNL: Add support for ICL FPGA SDW Aggregation

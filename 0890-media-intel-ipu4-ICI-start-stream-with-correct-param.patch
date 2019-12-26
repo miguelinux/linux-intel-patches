@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e102f78a18d6bfdbf9b469eb84c3a8de24f4047e Mon Sep 17 00:00:00 2001
 From: "Yin, Zhiye" <zhiyex.yin@intel.com>
 Date: Tue, 15 Jan 2019 09:55:42 +0800
 Subject: [PATCH] media: intel-ipu4: [ICI] start stream with correct parameters

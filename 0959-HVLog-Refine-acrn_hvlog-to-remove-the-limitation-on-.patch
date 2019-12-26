@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ea8f7911fecb2fda9cf183bdb45f2326fb817fdc Mon Sep 17 00:00:00 2001
 From: Kaige Fu <kaige.fu@intel.com>
 Date: Wed, 12 Dec 2018 13:54:20 +0000
 Subject: [PATCH] HVLog: Refine acrn_hvlog to remove the limitation on fixed

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f1679a8492454ef802fe0d64f550f0c2ba77da8c Mon Sep 17 00:00:00 2001
 From: Ong Hock Yu <ong.hock.yu@intel.com>
 Date: Tue, 2 Oct 2018 08:50:23 +0800
 Subject: [PATCH] media: intel-ipu4: [VIRT] Add multi streaming support on

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b51328674c656fb371b728daed647e3e8d34dda6 Mon Sep 17 00:00:00 2001
 From: Yang Zhonghua <zhonghuax.yang@intel.com>
 Date: Wed, 14 Aug 2019 13:57:09 +0800
 Subject: [PATCH] media: ici: fix close stream, pipeline_set_power was called

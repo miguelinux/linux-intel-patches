@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6f89a38c1a9de165fae48a8afd64c98265f470ef Mon Sep 17 00:00:00 2001
 From: Kaige Fu <kaige.fu@intel.com>
 Date: Thu, 6 Dec 2018 16:18:06 +0000
 Subject: [PATCH] VHM: Add one hypercall to query hardware info

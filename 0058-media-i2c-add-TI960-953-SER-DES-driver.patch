@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4c4e69e94cc17da8f8f727f4e982ef8113c541cf Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Fri, 26 Oct 2018 09:52:57 +0800
 Subject: [PATCH] media: i2c: add TI960/953 SER/DES driver

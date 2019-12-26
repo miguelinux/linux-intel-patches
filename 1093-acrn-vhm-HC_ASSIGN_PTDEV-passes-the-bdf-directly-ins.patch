@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a83f3b1f8af56dd2ae2b3199a403e8a02f6b72b1 Mon Sep 17 00:00:00 2001
 From: Zhao Yakui <yakui.zhao@intel.com>
 Date: Tue, 23 Apr 2019 13:14:35 +0800
 Subject: [PATCH] acrn/vhm: HC_ASSIGN_PTDEV passes the bdf directly instead of

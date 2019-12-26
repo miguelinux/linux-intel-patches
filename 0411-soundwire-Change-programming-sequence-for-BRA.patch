@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9d2173c2014429431599a2b1298599f976bfb97f Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Mon, 4 Dec 2017 15:05:59 +0530
 Subject: [PATCH] soundwire: Change programming sequence for BRA

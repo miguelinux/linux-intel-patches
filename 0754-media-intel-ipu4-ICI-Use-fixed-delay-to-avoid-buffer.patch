@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f389c8e5ddcd9a4a520a093412a3dbc34de86146 Mon Sep 17 00:00:00 2001
 From: Ong Hock Yu <ong.hock.yu@intel.com>
 Date: Wed, 28 Nov 2018 04:47:28 +0000
 Subject: [PATCH] media: intel-ipu4: [ICI] Use fixed delay to avoid buffer

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ca43a601836bfe41115c943f3a0ae58fbb659e6c Mon Sep 17 00:00:00 2001
 From: Puunithaaraj Gopal <puunithaaraj.gopal@intel.com>
 Date: Thu, 11 Apr 2019 16:42:32 +0800
 Subject: [PATCH] media: ici: Calculate sequence id and timestamp for each

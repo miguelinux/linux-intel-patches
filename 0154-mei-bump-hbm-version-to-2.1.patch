@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3cc5dd4eb2b78e82f938a344c481090f7461869c Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Tue, 15 Nov 2016 11:47:04 +0200
 Subject: [PATCH] mei: bump hbm version to 2.1

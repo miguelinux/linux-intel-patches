@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e9237d1679e7452bcadb26d14a6257a88b0ceb3e Mon Sep 17 00:00:00 2001
 From: Alexander Shishkin <alexander.shishkin@linux.intel.com>
 Date: Fri, 5 Oct 2018 15:43:03 +0300
 Subject: [PATCH] stm class: SPDX-ify the documentation

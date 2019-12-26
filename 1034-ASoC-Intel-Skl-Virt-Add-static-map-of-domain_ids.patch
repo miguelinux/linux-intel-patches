@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2a22a1d93dd53d1c05dc88b4401924917859e04b Mon Sep 17 00:00:00 2001
 From: Wojciech Jablonski <wojciech.jablonski@intel.com>
 Date: Mon, 11 Feb 2019 13:47:35 +0100
 Subject: [PATCH] ASoC: Intel: Skl: Virt: Add static map of domain_ids

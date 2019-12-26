@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 576089d368c4deef29484db1a290acbc8984e785 Mon Sep 17 00:00:00 2001
 From: Rodrigo Vivi <rodrigo.vivi@intel.com>
 Date: Fri, 3 Aug 2018 16:27:21 -0700
 Subject: [PATCH] drm/i915/cfl: Add a new CFL PCI ID.

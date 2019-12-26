@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3ef3fc137f800aeab0c326bee48082b74b36d6a2 Mon Sep 17 00:00:00 2001
 From: Xinyun Liu <xinyun.liu@intel.com>
 Date: Tue, 23 Oct 2018 11:31:17 +0800
 Subject: [PATCH] drm/i915/gvt: use snprintf instead of sprintf

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d82ab3b4861efafa09e1eb7ad5785751dced9908 Mon Sep 17 00:00:00 2001
 From: Ramesh Babu <ramesh.babu@intel.com>
 Date: Thu, 30 Apr 2015 12:36:21 +0530
 Subject: [PATCH] ASoC: mfd: Intel changes for WM8281 integration on K4.0

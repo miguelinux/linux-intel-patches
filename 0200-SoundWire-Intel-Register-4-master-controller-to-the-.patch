@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f2c2e15a44bad9f4e4a30b5d9983a54e4eab723b Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 17 Mar 2016 10:17:13 +0530
 Subject: [PATCH] SoundWire:Intel: Register 4 master controller to the bus.

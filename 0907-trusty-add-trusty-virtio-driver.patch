@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9af4e528fb0ebdad6e7b8f5bd5ac534f203b9e6c Mon Sep 17 00:00:00 2001
 From: Michael Ryleev <gmar@google.com>
 Date: Mon, 30 Mar 2015 12:43:59 -0700
 Subject: [PATCH] trusty: add trusty virtio driver

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From bb1a4a27e2d158793b9890a8f47e126374ea139d Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Mon, 25 Mar 2019 10:10:16 +0800
 Subject: [PATCH] media: intel-ipu4: Fixing static analysis issue in common

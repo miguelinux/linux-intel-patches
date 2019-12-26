@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 1b306c6bcb9bea2631777a2fd8d3be57854f3493 Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Wed, 11 Oct 2017 10:41:43 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Fix incorrect in_fmt and out_fmt

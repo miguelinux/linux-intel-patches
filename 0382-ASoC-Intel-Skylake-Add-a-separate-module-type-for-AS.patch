@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 87de95b719e64eeecbdd098ee6612b4faf4577b0 Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Mon, 21 Aug 2017 22:03:10 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Add a separate module type for ASRC

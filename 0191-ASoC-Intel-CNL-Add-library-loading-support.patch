@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d31ddf0d463fa5317b6af2867ffdff74e1138761 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Mon, 22 Aug 2016 12:13:36 +0530
 Subject: [PATCH] ASoC: Intel: CNL: Add library loading support

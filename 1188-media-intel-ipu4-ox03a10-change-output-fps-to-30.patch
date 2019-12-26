@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 79166e4a9fa33e91e00805b5b59889dff34567ab Mon Sep 17 00:00:00 2001
 From: qianmenx <qianx.meng@intel.com>
 Date: Mon, 20 May 2019 16:17:34 +0800
 Subject: [PATCH] media: intel-ipu4: ox03a10: change output fps to 30

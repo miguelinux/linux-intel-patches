@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From de1c5e1955795dfb7d6e8411f3f49ee54c601916 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Tue, 27 Nov 2018 19:31:45 +0800
 Subject: [PATCH] media: intel-ipu4: add timestamp info in driver

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 643af15d6b2b70c9dbd5a96cc9de9a8a214680b0 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Mon, 17 Dec 2018 12:22:56 +0800
 Subject: [PATCH] media: intel-ipu4: remove redundant assignment in csi-be

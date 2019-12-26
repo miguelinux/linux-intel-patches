@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From cbd5c29775106d2080498dcfb9f0c07baf0b453a Mon Sep 17 00:00:00 2001
 From: Jon Moeller <jon.moeller@intel.com>
 Date: Mon, 26 Nov 2018 15:10:46 -0600
 Subject: [PATCH] platform/x86: Fix SEP driver license header, SoCWatch

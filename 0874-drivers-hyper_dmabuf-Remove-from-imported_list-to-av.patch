@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 151279cb5afe5a87c09e5c6ce355533930351fcb Mon Sep 17 00:00:00 2001
 From: Zhao Yakui <yakui.zhao@intel.com>
 Date: Thu, 10 Jan 2019 15:18:07 +0800
 Subject: [PATCH] drivers/hyper_dmabuf: Remove from imported_list to avoid

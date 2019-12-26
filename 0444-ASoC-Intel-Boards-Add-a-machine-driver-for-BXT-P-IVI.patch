@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ebaf444b54d9bfa98481fa3c685fdd93a83512e5 Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Wed, 3 Jan 2018 19:52:29 +0530
 Subject: [PATCH] ASoC: Intel: Boards: Add a machine driver for BXT-P IVI M3

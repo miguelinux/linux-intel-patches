@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 92a0f11af472a8a1ead5b1aeb01010e2484b5c5d Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Sat, 12 Jan 2019 14:10:44 +0100
 Subject: [PATCH] ASoC: Skl: Virt: Fix incorrect virt msg response handling

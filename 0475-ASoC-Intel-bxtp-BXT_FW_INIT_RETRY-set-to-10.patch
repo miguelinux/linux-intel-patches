@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c87e2fa8d70a434b11a7de8f7490da4a36622a63 Mon Sep 17 00:00:00 2001
 From: Gustaw Lewandowski <gustaw.lewandowski@intel.com>
 Date: Sat, 13 Oct 2018 13:49:20 +0200
 Subject: [PATCH] ASoC: Intel: bxtp: BXT_FW_INIT_RETRY set to 10

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d362a6135c317b5dc4c86bdbc141c7d82444cb03 Mon Sep 17 00:00:00 2001
 From: Badiuzzaman Iskhandar <badiuzzaman.azzarfan.bin.iskhandar@intel.com>
 Date: Tue, 9 Oct 2018 15:31:22 +0800
 Subject: [PATCH] REVERTME [IOTG]: drm/i915/: Add GuC v9.29 and HuC v1.07

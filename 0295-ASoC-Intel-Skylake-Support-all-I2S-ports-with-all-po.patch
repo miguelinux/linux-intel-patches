@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From bcd7f676d7a9a7a649a242919a39ee661a3b98cf Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Wed, 18 Jan 2017 15:53:24 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Support all I2S ports with all possible

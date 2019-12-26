@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 585013ebb35df818ef348393a683437e2b47caf0 Mon Sep 17 00:00:00 2001
 From: qianmenx <qianx.meng@intel.com>
 Date: Thu, 16 May 2019 11:22:03 +0800
 Subject: [PATCH] media: intel-ipu4: fix frame counter(x3a) can't work issue

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d60eac4ac8a5fed2b164897b515eece9565f4041 Mon Sep 17 00:00:00 2001
 From: Xinyun Liu <xinyun.liu@intel.com>
 Date: Mon, 29 Oct 2018 10:02:48 +0800
 Subject: [PATCH] drm/i915/gvt: not to touch undefined MOCS registers

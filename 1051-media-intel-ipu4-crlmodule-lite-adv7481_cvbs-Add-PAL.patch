@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 672b75fa129256fdab99ad5db334766adbfea0f5 Mon Sep 17 00:00:00 2001
 From: kgopala2 <karthik.l.gopalakrishnan@intel.com>
 Date: Fri, 4 Jan 2019 02:26:39 +0800
 Subject: [PATCH] media: intel-ipu4: crlmodule-lite: adv7481_cvbs: Add PAL size

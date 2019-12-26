@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a5f1556474d7d9dc975b8f751f314ce52ff1da49 Mon Sep 17 00:00:00 2001
 From: Liu Xinyun <xinyun.liu@intel.com>
 Date: Wed, 29 May 2019 21:51:16 +0800
 Subject: [PATCH] dma-buf/hyper_dmabuf: check pointer before use it

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From bfddad93903b049a33f7a7865cc4fe9bc4ef3e35 Mon Sep 17 00:00:00 2001
 From: Zhao Yakui <yakui.zhao@intel.com>
 Date: Fri, 2 Aug 2019 11:05:31 +0800
 Subject: [PATCH] i915/gvt: obtain power domain to take the snapshot of gvt

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From cc0f69976361ea60cb1f4e8214cbbc0f21980cff Mon Sep 17 00:00:00 2001
 From: Alexander Shishkin <alexander.shishkin@linux.intel.com>
 Date: Fri, 5 Oct 2018 15:42:51 +0300
 Subject: [PATCH] stm class: Rework policy node fallback

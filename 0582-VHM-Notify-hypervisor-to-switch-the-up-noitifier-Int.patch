@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 1eb71f5e1941dbfd2fa7437330e71cca2664f975 Mon Sep 17 00:00:00 2001
 From: Zhao Yakui <yakui.zhao@intel.com>
 Date: Tue, 16 Oct 2018 13:38:25 +0800
 Subject: [PATCH] VHM: Notify hypervisor to switch the up-noitifier Interrupt

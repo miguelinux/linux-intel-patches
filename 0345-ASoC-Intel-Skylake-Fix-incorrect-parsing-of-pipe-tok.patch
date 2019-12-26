@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a247e8db81188865d8ea5b580ccdf14ab0a4a398 Mon Sep 17 00:00:00 2001
 From: Shreyas NC <shreyas.nc@intel.com>
 Date: Tue, 30 May 2017 19:37:19 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Fix incorrect parsing of pipe tokens

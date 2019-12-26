@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 55586171cb509ea2bab1303bfa4d6c63b7c55a97 Mon Sep 17 00:00:00 2001
 From: Cezary Rojewski <cezary.rojewski@intel.com>
 Date: Fri, 19 Oct 2018 10:59:29 +0200
 Subject: [PATCH] Revert "ASoC: Intel: Skylake: validate the downloaded

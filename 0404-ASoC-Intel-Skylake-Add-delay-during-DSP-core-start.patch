@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 62928d8194ace74559b7a99cf200bdee26c51c41 Mon Sep 17 00:00:00 2001
 From: Mohit Sinha <mohit.sinha@intel.com>
 Date: Thu, 16 Nov 2017 23:01:21 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Add delay during DSP core start

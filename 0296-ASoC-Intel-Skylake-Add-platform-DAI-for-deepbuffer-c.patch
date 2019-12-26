@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f5abd89c8b098893ff598c23eed94c407402c9ef Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Fri, 10 Feb 2017 20:22:42 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Add platform DAI for deepbuffer capture

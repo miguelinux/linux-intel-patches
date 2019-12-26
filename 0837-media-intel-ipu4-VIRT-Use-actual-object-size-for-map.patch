@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 7f335ef6da90539d9309db4e391c27badc1dfaa9 Mon Sep 17 00:00:00 2001
 From: Ong Hock Yu <ong.hock.yu@intel.com>
 Date: Fri, 23 Nov 2018 23:05:09 +0000
 Subject: [PATCH] media: intel-ipu4: [VIRT] Use actual object size for

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e6557ebb6665a8d4a55629493543e393a9ae9b5d Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Wed, 16 Aug 2017 12:26:31 +0530
 Subject: [PATCH] SoundWire: Perform clock exit by setting clock stop clear

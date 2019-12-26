@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ace50be520a0d0e1050be9922f2f10b8cd74a516 Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Wed, 19 Jul 2017 00:41:43 +0530
 Subject: [PATCH] ALSA: hda: Log HDA Hardware related errors

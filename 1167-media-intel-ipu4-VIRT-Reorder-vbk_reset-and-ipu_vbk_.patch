@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 1cace6a912125df5808b95c0b675712e03474c9f Mon Sep 17 00:00:00 2001
 From: "Yew, Chang Ching" <chang.ching.yew@intel.com>
 Date: Sun, 28 Jul 2019 02:58:49 +0800
 Subject: [PATCH] media: intel-ipu4: [VIRT] Reorder vbk_reset and

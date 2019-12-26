@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 26a164219d6392955f607240cbe4fa47c0261fed Mon Sep 17 00:00:00 2001
 From: Casey Schaufler <casey.schaufler@intel.com>
 Date: Fri, 7 Sep 2018 12:21:46 -0700
 Subject: [PATCH] LSM: Fix secid initialization in security.h

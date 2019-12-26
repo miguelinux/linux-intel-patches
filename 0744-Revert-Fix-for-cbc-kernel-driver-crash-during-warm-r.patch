@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b2f9e0351eb018a407509e6bd268b203efff43d8 Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Mon, 26 Nov 2018 09:42:18 +0800
 Subject: [PATCH] Revert "Fix for cbc kernel driver crash during warm reboot"

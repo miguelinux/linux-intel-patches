@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2a16a58e8029827420de1ce3f8f977014517446a Mon Sep 17 00:00:00 2001
 From: "Fan, Yugang" <yugang.fan@intel.com>
 Date: Wed, 17 Oct 2018 10:39:24 +0800
 Subject: [PATCH] drm/i915: Add interface to set ctm post offset

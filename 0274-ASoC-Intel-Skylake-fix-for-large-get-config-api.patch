@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From caa1b3d853af8ee5965627c818cb26b2a017401f Mon Sep 17 00:00:00 2001
 From: Mousumi Jana <mousumix.jana@intel.com>
 Date: Sun, 8 Nov 2015 19:12:28 +0530
 Subject: [PATCH] ASoC: Intel: Skylake:fix for large get config api

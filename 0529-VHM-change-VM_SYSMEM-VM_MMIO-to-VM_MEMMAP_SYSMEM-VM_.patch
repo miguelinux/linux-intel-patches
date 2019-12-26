@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f1bccc3f3bcea669720d1e59ef931e79911d7bed Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Fri, 31 Aug 2018 10:59:00 +0800
 Subject: [PATCH] VHM: change VM_SYSMEM/VM_MMIO to

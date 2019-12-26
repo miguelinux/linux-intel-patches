@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 77e624181d7190e8494ceaa62a9544607d48ebaa Mon Sep 17 00:00:00 2001
 From: Adam Wulw <adam.wulw@intel.com>
 Date: Tue, 30 Oct 2018 07:08:36 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Add FE and BE DAIs for ULL(Ultra low

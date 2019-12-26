@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6d99b624a2e8915052debf1d5e38547149932e32 Mon Sep 17 00:00:00 2001
 From: Leoni Prodduvaka <leoni.prodduvaka@intel.com>
 Date: Tue, 18 Apr 2017 23:02:20 +0530
 Subject: [PATCH] ASoC: rt700: Added support for ICL FPGA SDW Aggregation

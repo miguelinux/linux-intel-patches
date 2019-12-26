@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 539adf43605f11179677baf40e8b296deb2fcf69 Mon Sep 17 00:00:00 2001
 From: Zhao Yakui <yakui.zhao@intel.com>
 Date: Tue, 16 Oct 2018 13:38:22 +0800
 Subject: [PATCH] VHM: Add one hypercall to configure the up-notifier interrupt

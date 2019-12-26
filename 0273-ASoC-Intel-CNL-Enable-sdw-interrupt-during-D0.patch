@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 22daa165145780e2d989d55cedb06a3cccc19df0 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Mon, 19 Sep 2016 13:59:36 +0530
 Subject: [PATCH] ASoC: Intel: CNL: Enable sdw interrupt during D0

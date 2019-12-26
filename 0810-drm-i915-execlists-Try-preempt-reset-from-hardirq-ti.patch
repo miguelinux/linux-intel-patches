@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From eb77ed8ed86baa3709dfa73fb897b7e2496957b2 Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Mon, 10 Dec 2018 04:32:54 -0500
 Subject: [PATCH] drm/i915/execlists: Try preempt-reset from hardirq timer

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 650a342c9917a69c7060b7268369db7b76b10222 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 10 Mar 2016 11:25:19 +0530
 Subject: [PATCH] ASoC: Intel: Add support for SoundWire link in copier.

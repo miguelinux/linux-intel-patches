@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6b65e86856572d9103ab7266c3d33d0530083075 Mon Sep 17 00:00:00 2001
 From: "Kareem,Shaik" <kareem.m.shaik@intel.com>
 Date: Wed, 30 Aug 2017 16:46:40 +0530
 Subject: [PATCH] ASoC: Intel: Board: Add pm_ops to fix suspend/resume issue

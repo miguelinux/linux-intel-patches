@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d782e569798da9fec06b72c62a868ac02952e6cf Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Sun, 16 Sep 2018 22:29:58 +0300
 Subject: [PATCH] tpm1: reimplement tpm1_continue_selftest() using tpm_buf

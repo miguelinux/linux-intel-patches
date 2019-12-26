@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9bd131ac65376394f7590e4c3c2fb0ec553a50c5 Mon Sep 17 00:00:00 2001
 From: Leoni Prodduvaka <leoni.prodduvaka@intel.com>
 Date: Thu, 16 Mar 2017 21:50:51 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Extract the receive response size

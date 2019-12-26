@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f779917032ada92aeb17562c1c34c5507cf4e690 Mon Sep 17 00:00:00 2001
 From: Cezary Rojewski <cezary.rojewski@intel.com>
 Date: Tue, 14 Aug 2018 12:15:45 +0200
 Subject: [PATCH] ASoC: Intel: Move glk machine drv tables to common directory.

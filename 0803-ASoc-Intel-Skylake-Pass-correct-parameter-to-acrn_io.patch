@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4e24ac82da0c8203913da63dfea2a0b698256650 Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Wed, 19 Dec 2018 18:08:33 +0530
 Subject: [PATCH] ASoc: Intel: Skylake: Pass correct parameter to

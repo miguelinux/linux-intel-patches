@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From fdb755b792baa66e5d7ec415f66d7831bfca6d3b Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Mon, 1 Jul 2019 02:24:33 +0000
 Subject: [PATCH] drm/i915/gvt: release the handle to avoid panic

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 059a2208e69f8150d58fe41a7aeac833716eaeed Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Thu, 13 Jun 2019 03:27:22 +0000
 Subject: [PATCH] drm/i915/gvt: fix some garbage display issue in plane

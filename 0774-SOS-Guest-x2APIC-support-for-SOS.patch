@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 19990a22eba2aaf413c5da3e227693f146df5e27 Mon Sep 17 00:00:00 2001
 From: Sainath Grandhi <sainath.grandhi@intel.com>
 Date: Fri, 2 Nov 2018 16:21:22 -0700
 Subject: [PATCH] SOS: Guest x2APIC support for SOS

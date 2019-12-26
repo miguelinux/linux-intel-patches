@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 98418cc5281ac0b5a935210cb9e7484dd0947a18 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Wed, 2 Jan 2019 11:16:23 +0800
 Subject: [PATCH] media: intel-ipu4: ti960: fix map conflict

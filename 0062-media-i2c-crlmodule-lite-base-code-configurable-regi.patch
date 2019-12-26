@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 56c075d6b2978a0841aaaffaf978874be5295ba8 Mon Sep 17 00:00:00 2001
 From: "Yew, Chang Ching" <chang.ching.yew@intel.com>
 Date: Tue, 23 Oct 2018 13:23:51 +0800
 Subject: [PATCH] media: i2c: crlmodule-lite: base code (configurable register

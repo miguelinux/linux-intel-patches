@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b42ad4ba39bd35fd7431cdc60f7b843bd253409b Mon Sep 17 00:00:00 2001
 From: Mousumi Jana <mousumix.jana@intel.com>
 Date: Thu, 26 Nov 2015 01:28:34 +0530
 Subject: [PATCH] ASoC: Intel: Skylake:Add support to get fw configuration

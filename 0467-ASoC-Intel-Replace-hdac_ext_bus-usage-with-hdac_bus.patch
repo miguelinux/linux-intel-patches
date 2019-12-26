@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 89e84d5be76337dfffdc4dbdc1eccd585529401c Mon Sep 17 00:00:00 2001
 From: Cezary Rojewski <cezary.rojewski@intel.com>
 Date: Mon, 3 Sep 2018 14:42:21 +0200
 Subject: [PATCH] ASoC: Intel: Replace hdac_ext_bus usage with hdac_bus.

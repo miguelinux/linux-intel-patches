@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 57bd1e3a2079c1baa1128171fd956b91750cd8b2 Mon Sep 17 00:00:00 2001
 From: Ramesh Babu <ramesh.babu@intel.com>
 Date: Mon, 23 May 2016 11:39:19 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: add support for spib mode

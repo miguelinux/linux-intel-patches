@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 10f75724f8dd58cbe70ea644e0408c4910da21c9 Mon Sep 17 00:00:00 2001
 From: stelukun <sreedhar.telukuntla@intel.com>
 Date: Mon, 3 Jun 2019 20:25:30 +0530
 Subject: [PATCH] drm/i915: Supress Waddress-of-packed-member warnings

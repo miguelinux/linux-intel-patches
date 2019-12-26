@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 66acff0316b26a0001c03af8ae5e9201254f3558 Mon Sep 17 00:00:00 2001
 From: Liu Xinyun <xinyun.liu@intel.com>
 Date: Tue, 23 Jul 2019 14:09:19 +0800
 Subject: [PATCH] drivers/hyper_dmabuf: fix potential invalid array index

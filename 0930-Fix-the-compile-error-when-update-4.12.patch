@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 66363a6b2c1b451cdb1b63174a20979ffe3ea8d0 Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Thu, 18 May 2017 16:31:32 +0800
 Subject: [PATCH] Fix the compile error when update 4.12

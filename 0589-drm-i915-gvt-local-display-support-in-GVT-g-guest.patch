@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f703d4146283f8ff89becbaeb5550114dfcc3a70 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Thu, 28 Dec 2017 12:21:16 +0800
 Subject: [PATCH] drm/i915/gvt: local display support in GVT-g guest

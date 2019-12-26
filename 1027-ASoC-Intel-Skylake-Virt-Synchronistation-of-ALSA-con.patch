@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 1fd1aa3c0f1b02f7c2b1a6ff6fc5feb65436fcd7 Mon Sep 17 00:00:00 2001
 From: Wojciech Jablonski <wojciech.jablonski@intel.com>
 Date: Mon, 10 Dec 2018 16:34:16 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Virt: Synchronistation of ALSA controls

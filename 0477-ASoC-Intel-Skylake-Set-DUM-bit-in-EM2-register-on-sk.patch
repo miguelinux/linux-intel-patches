@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6d18e9589e34e23e317b954d94cb19e0ab5a112b Mon Sep 17 00:00:00 2001
 From: Michal Wasko <michal.wasko@intel.com>
 Date: Fri, 12 Oct 2018 14:23:43 +0200
 Subject: [PATCH] ASoC: Intel: Skylake: Set DUM bit in EM2 register on skl

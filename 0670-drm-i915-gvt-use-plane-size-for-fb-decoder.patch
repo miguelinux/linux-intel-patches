@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From cf657bfa8f154be13250a50d705881dc60b1bc39 Mon Sep 17 00:00:00 2001
 From: Zhipeng Gong <zhipeng.gong@intel.com>
 Date: Thu, 20 Sep 2018 13:10:45 +0800
 Subject: [PATCH] drm/i915/gvt: use plane size for fb decoder

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 79aeebe4551fd46a1e851b0a4feb82b725446467 Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Fri, 18 Jan 2019 17:49:19 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Virt: Support for entering/exiting S3

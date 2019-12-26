@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 859ffa29c5f9863fb61e677a3a2ba5ac2bf1add2 Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Sun, 2 Jul 2017 11:48:07 +0530
 Subject: [PATCH] ASoC: Intel: CNL: Platform driver implementation for

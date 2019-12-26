@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a7910db5ae195c480be1dd83a0b60afc6721870c Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Mon, 25 Mar 2019 14:30:36 +0100
 Subject: [PATCH] ASoC: Intel: Skl: Virt: Handle VQ callback in thread context

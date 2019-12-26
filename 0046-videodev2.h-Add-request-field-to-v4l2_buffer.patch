@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c3d13eb70f7a5bae3f807b75ef7ea6845f92c3e9 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Fri, 26 Oct 2018 09:52:04 +0800
 Subject: [PATCH] videodev2.h: Add request field to v4l2_buffer

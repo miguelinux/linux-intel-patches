@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4dabcf16df410ab5ce6ba94b95dc9eb52995104e Mon Sep 17 00:00:00 2001
 From: Sameer Sharma <sameerx.sharma@intel.com>
 Date: Mon, 18 Jun 2018 19:54:54 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Enable use_tplg_pcm flag for BXTP

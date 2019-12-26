@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 7fa257ed85ef88420847d7f0fa564e4f2a47ab81 Mon Sep 17 00:00:00 2001
 From: Puunithaaraj Gopal <puunithaaraj.gopal@intel.com>
 Date: Tue, 21 May 2019 23:59:41 +0800
 Subject: [PATCH] media: ici: Add ICI_FORMAT_RGB24 macro for 24 bit RGB

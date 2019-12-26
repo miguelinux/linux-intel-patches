@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 5654cf55c0372ad24fb8a6eb67a997bc84fa4263 Mon Sep 17 00:00:00 2001
 From: Zhao Yakui <yakui.zhao@intel.com>
 Date: Fri, 14 Dec 2018 11:26:39 +0800
 Subject: [PATCH] VHM: Check null-pointer of vhm_req before updating state of

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e0af52f2cd64b49b6dd56bf45f16fec1cbbfb7f6 Mon Sep 17 00:00:00 2001
 From: Pierre-Louis Bossart <pierre-louis.bossart@linux.intel.com>
 Date: Tue, 17 May 2016 14:00:15 +0530
 Subject: [PATCH] ALSA: core: let low-level driver or userspace disable rewinds

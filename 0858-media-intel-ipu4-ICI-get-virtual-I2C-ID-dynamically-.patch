@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 7ab8c65182499584fe95d41b3dc77683cc89eebf Mon Sep 17 00:00:00 2001
 From: kgopala2 <karthik.l.gopalakrishnan@intel.com>
 Date: Sat, 29 Dec 2018 01:07:06 +0800
 Subject: [PATCH] media: intel-ipu4: [ICI]: get virtual I2C ID dynamically if

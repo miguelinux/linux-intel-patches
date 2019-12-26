@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From db79bf65984ed7db93ae59cbb3714d776c1aede1 Mon Sep 17 00:00:00 2001
 From: "Fan, Yugang" <yugang.fan@intel.com>
 Date: Mon, 17 Sep 2018 09:50:43 +0800
 Subject: [PATCH] drm/i915: Sysfs interface to get GFX shmem usage stats per

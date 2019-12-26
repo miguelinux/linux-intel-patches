@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 49ac8042252402d8bbc44dee2cc222b3b2fbe615 Mon Sep 17 00:00:00 2001
 From: Casey Schaufler <casey@schaufler-ca.com>
 Date: Wed, 29 Aug 2018 09:28:59 -0700
 Subject: [PATCH] LSM: Multiple concurrent major security modules

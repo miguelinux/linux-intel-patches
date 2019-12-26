@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 5453f142f6719662862648f62e6d73715400ea39 Mon Sep 17 00:00:00 2001
 From: Ping Gao <ping.a.gao@intel.com>
 Date: Wed, 6 Sep 2017 19:57:57 +0800
 Subject: [PATCH] drm/i915/gvt: Add a module parameter to disable conformance

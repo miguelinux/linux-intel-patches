@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 5c2c32d191c198703ab695165f95c834ee6bf185 Mon Sep 17 00:00:00 2001
 From: Yael Samet <yael.samet@intel.com>
 Date: Mon, 7 Jan 2019 09:12:34 +0200
 Subject: [PATCH] mei: dal: fix size of data copied to user in dal_dev_read()

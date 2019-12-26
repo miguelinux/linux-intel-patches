@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c733c59c1191e6d5c034e1fea84d8c0d80d5bc3a Mon Sep 17 00:00:00 2001
 From: Puunithaaraj Gopal <puunithaaraj.gopal@intel.com>
 Date: Fri, 24 May 2019 20:23:37 +0800
 Subject: [PATCH] media: ici: Use ICI_FORMAT_RGB24 for packed formats

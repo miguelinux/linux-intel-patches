@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b47ae1bededf3cd5bee34a1f48124a116f0e5bbb Mon Sep 17 00:00:00 2001
 From: "Zhong,Fangjian" <fangjian.zhong@intel.com>
 Date: Tue, 11 Jul 2017 05:09:10 +0000
 Subject: [PATCH] trusty: add support for trusty backup timer

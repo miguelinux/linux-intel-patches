@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 5109003ee2755ba94501f1f20cc58f654c9fc6bf Mon Sep 17 00:00:00 2001
 From: "Lulko, KamilX" <kamilx.lulko@intel.com>
 Date: Fri, 22 Mar 2019 12:33:02 +0100
 Subject: [PATCH] ASoC: Intel: read DSP stack dump from specific core only

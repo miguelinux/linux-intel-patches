@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c865efdb00a9ac00d33b957898ecabaf1aa16748 Mon Sep 17 00:00:00 2001
 From: Thinh Nguyen <Thinh.Nguyen@synopsys.com>
 Date: Thu, 2 Aug 2018 20:17:16 -0700
 Subject: [PATCH] usb: dwc3: gadget: Properly check last unaligned/zero chain

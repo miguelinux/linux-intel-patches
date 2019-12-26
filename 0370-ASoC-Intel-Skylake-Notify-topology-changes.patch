@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From cdaa19c7468c51365a5404747ef9ed78a9dc9dd7 Mon Sep 17 00:00:00 2001
 From: Mousumi Jana <mousumix.jana@intel.com>
 Date: Thu, 20 Jul 2017 16:39:00 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Notify topology changes

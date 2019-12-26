@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 44f137cde1ce861d5f54617c2a6340273698732b Mon Sep 17 00:00:00 2001
 From: Mousumi Jana <mousumix.jana@intel.com>
 Date: Tue, 12 Sep 2017 17:18:44 +0530
 Subject: [PATCH] ASoC: Intel: Set all I2S ports to slave mode after DSP power

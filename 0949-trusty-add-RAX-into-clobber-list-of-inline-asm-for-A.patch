@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 5eb1747f0838bf8c082ead96039f35e896fc063a Mon Sep 17 00:00:00 2001
 From: "Qi, Yadong" <yadong.qi@intel.com>
 Date: Fri, 16 Mar 2018 15:42:07 +0800
 Subject: [PATCH] trusty: add RAX into clobber list of inline asm for ACRN

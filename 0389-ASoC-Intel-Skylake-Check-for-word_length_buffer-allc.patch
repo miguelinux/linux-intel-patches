@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4f4a42bd347ed0ae70e4c1eece21a9028bbd24ab Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Wed, 6 Sep 2017 14:04:56 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Check for word_length_buffer allcation

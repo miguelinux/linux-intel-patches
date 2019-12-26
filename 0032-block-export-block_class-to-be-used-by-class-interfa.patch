@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 872b1bb97ac55a011f24ce19e0fc5a065bccecea Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Tue, 29 Mar 2016 16:14:01 +0300
 Subject: [PATCH] block: export block_class to be used by class interfaces

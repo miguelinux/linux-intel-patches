@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e4d487ebc0285636437234195d4fc2be65886e60 Mon Sep 17 00:00:00 2001
 From: Puneeth Prabhu <puneethx.prabhu@intel.com>
 Date: Tue, 15 May 2018 12:01:07 +0530
 Subject: [PATCH] ASoC: topology: Increase SND_SOC_TPLG_NUM_TEXTS to 32

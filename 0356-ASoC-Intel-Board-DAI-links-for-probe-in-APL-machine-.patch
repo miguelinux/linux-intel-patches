@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f2d338cdced6817ced76ad17de7903fdd648ee3c Mon Sep 17 00:00:00 2001
 From: Pramod Kumar Yadav <pramodx.k.yadav@intel.com>
 Date: Tue, 26 Apr 2016 15:49:45 +0530
 Subject: [PATCH] ASoC: Intel: Board: DAI links for probe in APL machine driver

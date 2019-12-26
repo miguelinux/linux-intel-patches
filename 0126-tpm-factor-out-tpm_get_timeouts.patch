@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d4f88ab690f90e028fe0697f9bef5c7353a40e5c Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Mon, 5 Mar 2018 21:48:35 +0200
 Subject: [PATCH] tpm: factor out tpm_get_timeouts()

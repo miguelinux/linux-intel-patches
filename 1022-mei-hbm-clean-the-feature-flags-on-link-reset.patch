@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f4796408499b1ee46c9138c2c4456b92fcf1b0e3 Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Tue, 19 Feb 2019 13:55:02 +0200
 Subject: [PATCH] mei: hbm: clean the feature flags on link reset

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 7b626b403f4d7edd386a03f9b4ed897f1459fad2 Mon Sep 17 00:00:00 2001
 From: Vivek Kasireddy <vivek.kasireddy@intel.com>
 Date: Thu, 8 Mar 2018 11:14:57 -0800
 Subject: [PATCH] INTERNAL [IOTG] drm: Don't assume that the primary plane

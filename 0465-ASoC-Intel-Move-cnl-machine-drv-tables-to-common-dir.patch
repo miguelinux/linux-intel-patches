@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 602e59ef422e326d913f21b719f5fd89516c5ff1 Mon Sep 17 00:00:00 2001
 From: Cezary Rojewski <cezary.rojewski@intel.com>
 Date: Tue, 14 Aug 2018 12:34:29 +0200
 Subject: [PATCH] ASoC: Intel: Move cnl machine drv tables to common directory.

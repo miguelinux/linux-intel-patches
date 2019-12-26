@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f77a92fa7a080410ebd5d090d8340369b9a4815d Mon Sep 17 00:00:00 2001
 From: yingbinx <yingbinx.zeng@intel.com>
 Date: Thu, 10 Aug 2017 06:57:08 +0000
 Subject: [PATCH] trusty kernel driver code refine

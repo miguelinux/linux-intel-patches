@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 16fbc6123ac2cc4b3db3e836fd070be3c64e8d5e Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Fri, 31 Aug 2018 10:59:01 +0800
 Subject: [PATCH] vhm: add sos offline cpu support

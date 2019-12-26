@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 28b346ffb4264bb98782aa13a44bab9ffc5ff5fe Mon Sep 17 00:00:00 2001
 From: Libin Yang <libin.yang@intel.com>
 Date: Tue, 4 Dec 2018 12:03:40 +0800
 Subject: [PATCH] VBS: export vbs symbols

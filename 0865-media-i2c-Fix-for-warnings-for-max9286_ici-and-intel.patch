@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2449c3e4d9f19d9ab4fc843035c5ae0534ce2585 Mon Sep 17 00:00:00 2001
 From: kgopala2 <karthik.l.gopalakrishnan@intel.com>
 Date: Sat, 5 Jan 2019 01:05:37 +0800
 Subject: [PATCH] media: i2c: Fix for warnings for max9286_ici and intel

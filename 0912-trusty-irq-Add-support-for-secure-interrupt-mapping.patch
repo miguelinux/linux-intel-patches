@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 92031cfc73759e629ad0d076411c78d0aec2310c Mon Sep 17 00:00:00 2001
 From: Michael Ryleev <gmar@google.com>
 Date: Fri, 26 Jun 2015 13:47:02 -0700
 Subject: [PATCH] trusty-irq: Add support for secure interrupt mapping

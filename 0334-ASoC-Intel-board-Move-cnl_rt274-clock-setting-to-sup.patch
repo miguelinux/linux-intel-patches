@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2ede760f643829b2f382e256ad263723df47c7ee Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Tue, 4 Apr 2017 08:34:51 +0530
 Subject: [PATCH] ASoC: Intel: board: Move cnl_rt274 clock setting to supply

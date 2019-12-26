@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 725092132d338516562ea277ba22fd4d60b99c7c Mon Sep 17 00:00:00 2001
 From: Javier Martinez Canillas <javierm@redhat.com>
 Date: Thu, 30 Aug 2018 16:40:05 +0200
 Subject: [PATCH] tpm: suppress transmit cmd error logs when TPM 1.2 is

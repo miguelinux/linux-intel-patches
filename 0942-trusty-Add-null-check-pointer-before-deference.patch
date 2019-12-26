@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 58c6384a97ba76ee309534dbdc841a2850244731 Mon Sep 17 00:00:00 2001
 From: "Zhang, Qi" <qi1.zhang@intel.com>
 Date: Mon, 6 Nov 2017 12:35:31 +0800
 Subject: [PATCH] trusty: Add null check pointer before deference

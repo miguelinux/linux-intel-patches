@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 01e6a185695935dc0a75063abbf6807cf838bcfc Mon Sep 17 00:00:00 2001
 From: "Schweikhardt, Markus" <markus.schweikhardt@intel.com>
 Date: Tue, 9 May 2017 23:00:20 +0530
 Subject: [PATCH] ASoC: Intel: Board: Add BXTP MRB machine driver for NXP

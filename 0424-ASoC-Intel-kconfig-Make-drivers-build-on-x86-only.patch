@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9b25c50497a3e8e03363ab14ac2f2a00e0f1dfd6 Mon Sep 17 00:00:00 2001
 From: Vinod Koul <vinod.koul@intel.com>
 Date: Wed, 17 Jan 2018 09:56:04 +0530
 Subject: [PATCH] ASoC: Intel: kconfig: Make drivers build on x86 only

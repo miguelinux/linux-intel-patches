@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 53dabf818a8e54565f9019f781e2860455cf8f0a Mon Sep 17 00:00:00 2001
 From: Casey Schaufler <casey@schaufler-ca.com>
 Date: Tue, 28 Aug 2018 09:49:03 -0700
 Subject: [PATCH] LSM: Allow mount options from multiple security modules

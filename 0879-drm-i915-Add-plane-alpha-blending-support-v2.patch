@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b469be4bbee273ad7e74ebcfca06acaa9b8b4e92 Mon Sep 17 00:00:00 2001
 From: Maarten Lankhorst <maarten.lankhorst@linux.intel.com>
 Date: Wed, 15 Aug 2018 12:34:05 +0200
 Subject: [PATCH] drm/i915: Add plane alpha blending support, v2.

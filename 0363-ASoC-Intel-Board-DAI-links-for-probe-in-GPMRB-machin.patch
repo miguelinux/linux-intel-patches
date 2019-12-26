@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c89c1e9272fc1ea97be6ea09d318529efb70cc59 Mon Sep 17 00:00:00 2001
 From: "Sinha, Mohit" <mohit.sinha@intel.com>
 Date: Thu, 6 Jul 2017 16:10:32 +0530
 Subject: [PATCH] ASoC: Intel: Board: DAI links for probe in GPMRB machine

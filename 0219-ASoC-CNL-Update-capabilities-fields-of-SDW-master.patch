@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2d29229169250927e04426e028ef7a219db439b0 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Mon, 2 May 2016 00:14:23 +0530
 Subject: [PATCH] ASoC:CNL: Update capabilities fields of SDW master

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e84413225cbb61af7aae5614d3cd6c87b807573f Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Fri, 4 Jan 2019 05:05:39 +0000
 Subject: [PATCH] drm/i915: Not wait for fuse registers in guest

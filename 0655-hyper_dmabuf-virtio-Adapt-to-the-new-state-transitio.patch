@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 0b7ea2cecf03e92a495eade8c84f5b04a1d9e037 Mon Sep 17 00:00:00 2001
 From: Mateusz Polrola <mateuszx.potrola@intel.com>
 Date: Thu, 20 Sep 2018 12:12:52 +0200
 Subject: [PATCH] hyper_dmabuf/virtio: Adapt to the new state transition of VHM

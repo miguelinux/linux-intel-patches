@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 82559c3008de8346420b2d9c562777ddad796ea7 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Mon, 3 Dec 2018 16:53:48 +0800
 Subject: [PATCH] media: intel-ipu4: refine ipu_fw_isys_close mutex usage

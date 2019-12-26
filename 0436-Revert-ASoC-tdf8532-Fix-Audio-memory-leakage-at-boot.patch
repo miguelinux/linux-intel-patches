@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3ce31f9c037852a2a589b151cd9ef7d2366bd9fc Mon Sep 17 00:00:00 2001
 From: "Shaik, ShahinaX" <shahinax.shaik@intel.com>
 Date: Tue, 15 May 2018 23:41:08 +0530
 Subject: [PATCH] Revert "ASoC: tdf8532: Fix Audio memory leakage at boot time"

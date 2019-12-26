@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ba2c5a98f2679cea1fd843c00d526401b691f15f Mon Sep 17 00:00:00 2001
 From: Feng Tang <feng.tang@intel.com>
 Date: Thu, 15 Nov 2018 09:45:37 +0800
 Subject: [PATCH] igb_avb: fix kernel panic in S3 process

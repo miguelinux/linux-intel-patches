@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ca73a56eaf1dbf9d9181cdaa0827ab0076449fc7 Mon Sep 17 00:00:00 2001
 From: Chen Meng J <meng.j.chen@intel.com>
 Date: Tue, 26 Mar 2019 10:55:42 +0800
 Subject: [PATCH] media: intel-ipu4: pdata change for sensors connected via

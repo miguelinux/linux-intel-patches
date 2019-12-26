@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 5f81a14032c6dee6db60fc33ff390efa2d52c5d2 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Wed, 7 Mar 2018 09:31:29 +0200
 Subject: [PATCH] tpm: factor out tpm_startup function

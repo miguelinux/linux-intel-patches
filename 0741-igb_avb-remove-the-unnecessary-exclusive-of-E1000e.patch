@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From af98561324ae47e714fab1b0dfe6c1dd56a2c015 Mon Sep 17 00:00:00 2001
 From: Fei Yang <fei.yang@intel.com>
 Date: Mon, 26 Nov 2018 11:14:52 -0800
 Subject: [PATCH] igb_avb: remove the unnecessary exclusive of E1000e

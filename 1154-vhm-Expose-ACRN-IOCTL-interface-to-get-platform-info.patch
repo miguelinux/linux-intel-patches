@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e9e345fae2220e02b0688577bf5e666c2743944c Mon Sep 17 00:00:00 2001
 From: Yonghua Huang <yonghua.huang@intel.com>
 Date: Fri, 24 May 2019 15:33:09 +0800
 Subject: [PATCH] vhm:Expose ACRN IOCTL interface to get platform information

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f8f48b07327f84ee100eaa664de66a5f26385bd5 Mon Sep 17 00:00:00 2001
 From: "Furtak, Pawel" <pawel.furtak@intel.com>
 Date: Mon, 11 Mar 2019 05:11:03 -0800
 Subject: [PATCH] ASoC: Intel: Skl: Virt: Fix logic of vbe_skl_pcm_close_all

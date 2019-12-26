@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c34730a77f95d241d7152066acab70d98c85d4de Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Sun, 25 Nov 2018 17:40:30 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Register virtualization BE service

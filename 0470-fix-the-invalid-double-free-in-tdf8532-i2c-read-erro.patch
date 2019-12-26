@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 24cf09e5381de85df0e0865a483657ab6cdfeec7 Mon Sep 17 00:00:00 2001
 From: "he, bo" <bo.he@intel.com>
 Date: Sat, 29 Sep 2018 14:18:12 +0800
 Subject: [PATCH] fix the invalid double free in tdf8532 i2c read error

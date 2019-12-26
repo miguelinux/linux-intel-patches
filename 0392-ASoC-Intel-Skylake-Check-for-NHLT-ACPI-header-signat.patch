@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6c55f18f1bc3c41129f85010c5b1b44eb9eac154 Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Mon, 18 Sep 2017 16:03:41 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Check for NHLT ACPI header signature

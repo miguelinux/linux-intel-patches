@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 5d904846c5488e2a2e4ee43d9b0920b8fb322190 Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Fri, 7 Dec 2018 12:17:00 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Virt: Virtualization BE as module

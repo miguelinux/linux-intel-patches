@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4211ca76c5f3d7674f6aeb740077a354a783cdd0 Mon Sep 17 00:00:00 2001
 From: Chen Meng J <meng.j.chen@intel.com>
 Date: Fri, 31 May 2019 18:15:53 +0800
 Subject: [PATCH] media: intel-ipu4: ox03a10: ficosa original mode 1920x1280

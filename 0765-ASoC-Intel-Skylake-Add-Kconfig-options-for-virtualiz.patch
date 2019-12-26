@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c65cd19b2c53edbe0786e59f8f60bd6862ca0fcd Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Sun, 25 Nov 2018 17:21:39 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Add Kconfig options for virtualization

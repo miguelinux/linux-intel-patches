@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d3a1999560844f243ca932b8f9b0777ad1478ae2 Mon Sep 17 00:00:00 2001
 From: "Ding,XinX" <xinx.ding@intel.com>
 Date: Wed, 21 Mar 2018 11:09:27 +0800
 Subject: [PATCH] trusty: Update macro SMC_FC_GET_WALL_SIZE from 12 to 20

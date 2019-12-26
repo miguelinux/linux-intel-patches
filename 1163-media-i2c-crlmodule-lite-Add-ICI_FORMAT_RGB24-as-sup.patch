@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From bb00d3061318b29aabcb9eb04c4435ac941f2c07 Mon Sep 17 00:00:00 2001
 From: Puunithaaraj Gopal <puunithaaraj.gopal@intel.com>
 Date: Wed, 29 May 2019 23:25:33 +0800
 Subject: [PATCH] media: i2c: crlmodule-lite: Add ICI_FORMAT_RGB24 as supported

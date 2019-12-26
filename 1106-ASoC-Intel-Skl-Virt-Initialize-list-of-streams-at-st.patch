@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 39cb1d0abaa4ad85774d106f6b6403e029686e8c Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Mon, 25 Mar 2019 13:10:17 +0100
 Subject: [PATCH] ASoC: Intel: Skl: Virt: Initialize list of streams at startup

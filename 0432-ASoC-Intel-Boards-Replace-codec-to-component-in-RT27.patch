@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 982976072e576e46c1bd839a2df7e4285dfbd4d6 Mon Sep 17 00:00:00 2001
 From: Shahina Shaik <shahinax.shaik@intel.com>
 Date: Mon, 30 Apr 2018 18:47:02 +0530
 Subject: [PATCH] ASoC: Intel: Boards: Replace codec to component in RT274

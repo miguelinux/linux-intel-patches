@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3bae0890210824fa5fdec6ede400520f227115f5 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Sun, 13 Jan 2019 14:24:46 +0200
 Subject: [PATCH] mei: dma: silent the reject message

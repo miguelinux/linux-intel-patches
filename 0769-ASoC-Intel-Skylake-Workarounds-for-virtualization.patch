@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e14cdd40291187aedc47075f09eddbdafa133ac0 Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Sun, 25 Nov 2018 17:56:29 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Workarounds for virtualization

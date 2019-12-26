@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2ec3b0b40f554def113f40b8bdad40959deb86be Mon Sep 17 00:00:00 2001
 From: Zhipeng Gong <zhipeng.gong@intel.com>
 Date: Mon, 22 Oct 2018 16:53:59 +0800
 Subject: [PATCH] drm/i915/gvt: Support vgpu workload priority config

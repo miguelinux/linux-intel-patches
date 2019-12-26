@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e349ae201a59f57ab23b9d0f193d5a1adcecd70d Mon Sep 17 00:00:00 2001
 From: Jeeja KP <jeeja.kp@intel.com>
 Date: Tue, 8 Sep 2015 22:16:08 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: NHLT override, check cfg size in

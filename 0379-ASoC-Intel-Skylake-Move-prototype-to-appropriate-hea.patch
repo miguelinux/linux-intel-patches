@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 016a8fcbda68365e37d02d1e64ce48f45e99c750 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 7 Sep 2017 09:59:36 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Move prototype to appropriate header

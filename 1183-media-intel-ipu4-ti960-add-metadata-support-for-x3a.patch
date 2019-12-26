@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 8a7bca39d19855c6358a7225890d92398d9bc191 Mon Sep 17 00:00:00 2001
 From: qianmenx <qianx.meng@intel.com>
 Date: Tue, 23 Apr 2019 16:03:31 +0800
 Subject: [PATCH] media: intel-ipu4: ti960: add metadata support for x3a

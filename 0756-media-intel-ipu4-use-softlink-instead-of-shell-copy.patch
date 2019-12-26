@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 377ee471bb43b01605ab2e277123c2824b29fad7 Mon Sep 17 00:00:00 2001
 From: Hui Xia <hui.xia@intel.com>
 Date: Tue, 4 Dec 2018 22:05:49 -0500
 Subject: [PATCH] media: intel-ipu4: use softlink instead of shell copy

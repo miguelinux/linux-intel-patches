@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4e4331465a293ca745890c61172493ce9a46adbd Mon Sep 17 00:00:00 2001
 From: Dharageswari R <dharageswari.r@intel.com>
 Date: Wed, 3 Jan 2007 09:21:03 +0530
 Subject: [PATCH] ASoC: Intel: board: Add id_table in cnl_rt274

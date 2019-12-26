@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a438c490da78d0eee8865150a3889e0e19d0a71a Mon Sep 17 00:00:00 2001
 From: "Shaik, Kareem M" <kareem.m.shaik@intel.com>
 Date: Fri, 1 Dec 2017 00:46:21 +0530
 Subject: [PATCH] ASoC: Intel: BXT: Retry FW download sequence

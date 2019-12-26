@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a7f6d5474afa13b8b35572f10118156a538a121e Mon Sep 17 00:00:00 2001
 From: "Yew, Chang Ching" <chang.ching.yew@intel.com>
 Date: Fri, 5 Jul 2019 07:38:37 +0800
 Subject: [PATCH] media: intel-ipu4: [VIRT] Remove hash table entry on resume

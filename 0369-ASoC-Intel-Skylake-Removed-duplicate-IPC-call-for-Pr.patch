@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 0914c7af1e90dc68cd578aa97e3de71433811641 Mon Sep 17 00:00:00 2001
 From: "Sinha, Mohit" <mohit.sinha@intel.com>
 Date: Fri, 4 Aug 2017 16:06:57 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Removed duplicate IPC call for Probe

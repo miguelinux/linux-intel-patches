@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e787d6f316b11457b6e1b80b18ff4369962380d0 Mon Sep 17 00:00:00 2001
 From: Qi Yadong <yadong.qi@intel.com>
 Date: Wed, 17 Oct 2018 15:10:41 +0800
 Subject: [PATCH] rpmb: mux: add key retrieval for RPMB multiplexor

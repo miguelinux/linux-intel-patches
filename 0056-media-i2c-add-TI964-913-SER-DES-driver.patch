@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 96f8a5ca01f034dffa48551f555816cbf20ecab4 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Fri, 26 Oct 2018 09:52:48 +0800
 Subject: [PATCH] media: i2c: add TI964/913 SER/DES driver

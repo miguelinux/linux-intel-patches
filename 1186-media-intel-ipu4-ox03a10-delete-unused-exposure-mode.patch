@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f8106755c3f7bf68197d51db6fcd5a8fd47884f5 Mon Sep 17 00:00:00 2001
 From: qianmenx <qianx.meng@intel.com>
 Date: Fri, 17 May 2019 11:31:05 +0800
 Subject: [PATCH] media: intel-ipu4: ox03a10: delete unused exposure mode

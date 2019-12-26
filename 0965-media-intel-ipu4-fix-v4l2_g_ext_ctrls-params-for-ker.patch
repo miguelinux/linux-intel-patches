@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3b5892fce3f768bc31f76d862ad29b8ec306a303 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Tue, 27 Nov 2018 19:32:53 +0800
 Subject: [PATCH] media: intel-ipu4: fix v4l2_g_ext_ctrls params for kernel

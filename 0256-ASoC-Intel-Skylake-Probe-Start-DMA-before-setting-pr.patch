@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c853407262b3159d24b91f66bf45ab664a153197 Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Tue, 14 Jun 2016 18:19:44 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Probe - Start DMA before setting probe

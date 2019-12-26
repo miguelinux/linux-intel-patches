@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6d65fd74af114d2d4bece058ea4c22f95d77ba88 Mon Sep 17 00:00:00 2001
 From: Michael Ryleev <gmar@google.com>
 Date: Wed, 7 Jan 2015 15:47:37 -0800
 Subject: [PATCH] trusty: add trusty-ipc driver

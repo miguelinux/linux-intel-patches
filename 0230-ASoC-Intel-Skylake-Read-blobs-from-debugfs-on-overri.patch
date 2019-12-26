@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 136c333cc91e952d2053b7e098c4cb5d6234579a Mon Sep 17 00:00:00 2001
 From: Vinod Koul <vinod.koul@intel.com>
 Date: Wed, 26 Aug 2015 13:13:56 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Read blobs from debugfs on override

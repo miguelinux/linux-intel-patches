@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 371b542556f3a007d5213b17a63c5d7960ca699d Mon Sep 17 00:00:00 2001
 From: Vinicius Costa Gomes <vinicius.gomes@intel.com>
 Date: Thu, 10 Jan 2019 16:18:59 -0800
 Subject: [PATCH] igb_avb: Fix invalid memory access after S3 suspend/resume

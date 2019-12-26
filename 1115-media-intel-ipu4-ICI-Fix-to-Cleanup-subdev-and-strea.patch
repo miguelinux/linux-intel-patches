@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 07ff65d26ec48927ed6c9926056b68345c2f2bac Mon Sep 17 00:00:00 2001
 From: spoluri <sarat.chandra.poluri@intel.com>
 Date: Wed, 8 May 2019 18:09:20 -0700
 Subject: [PATCH] media: intel-ipu4: [ICI] Fix to Cleanup subdev and stream

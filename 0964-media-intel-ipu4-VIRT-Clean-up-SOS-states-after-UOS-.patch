@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b387bac5c667319c4752b3f0dc7e105cd6dd3ea3 Mon Sep 17 00:00:00 2001
 From: Ong Hock Yu <ong.hock.yu@intel.com>
 Date: Wed, 16 Jan 2019 01:21:27 +0000
 Subject: [PATCH] media: intel-ipu4: [VIRT] Clean up SOS states after UOS

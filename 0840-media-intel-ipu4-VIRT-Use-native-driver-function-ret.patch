@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d90a4647f2944bb8146c0a4c13491faaf651bdc4 Mon Sep 17 00:00:00 2001
 From: Ong Hock Yu <ong.hock.yu@intel.com>
 Date: Sun, 25 Nov 2018 23:16:32 +0000
 Subject: [PATCH] media: intel-ipu4: [VIRT] Use native driver function return

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 71eefb62780eac481cb3af4a13503f7cf7087fc3 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Fri, 5 Aug 2016 16:35:34 +0530
 Subject: [PATCH] ASoC: Intel: Aggregation fixes for masters other than 0 and 1

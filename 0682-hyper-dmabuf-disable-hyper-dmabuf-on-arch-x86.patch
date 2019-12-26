@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 489585815d0fbce2b3da96700f425f4da24d42d1 Mon Sep 17 00:00:00 2001
 From: Wei Liu <weix.w.liu@intel.com>
 Date: Wed, 24 Oct 2018 10:25:38 +0800
 Subject: [PATCH] hyper-dmabuf: disable hyper-dmabuf on arch x86

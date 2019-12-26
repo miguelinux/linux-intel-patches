@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 96ed56c0c9f2eb13516f084b1e545dca490ca0f0 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Tue, 2 Aug 2016 15:37:20 +0530
 Subject: [PATCH] REVERTME: ASoC: Intel: CNL: Load firmware in dsp_init.

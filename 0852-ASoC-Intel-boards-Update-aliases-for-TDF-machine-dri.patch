@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 1116569fd0c65c2d58d0ca5147951660277db49c Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Mateusz=20G=C3=B3rski?= <mateusz.gorski@intel.com>
 Date: Thu, 13 Dec 2018 12:36:24 +0100
 Subject: [PATCH] ASoC: Intel: boards: Update aliases for TDF machine drivers.

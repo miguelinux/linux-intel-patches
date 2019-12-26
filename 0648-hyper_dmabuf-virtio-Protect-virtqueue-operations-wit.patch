@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 15645a11d576299c990d7ac765d4d40dca015e5e Mon Sep 17 00:00:00 2001
 From: Mateusz Polrola <mateuszx.potrola@intel.com>
 Date: Wed, 22 Aug 2018 14:27:16 +0200
 Subject: [PATCH] hyper_dmabuf/virtio: Protect virtqueue operations with

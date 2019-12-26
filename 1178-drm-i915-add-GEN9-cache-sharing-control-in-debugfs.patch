@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 41e80f30058d3ebd9ac3a70aee02d3e2b78bff03 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Wed, 10 Jul 2019 06:59:18 +0000
 Subject: [PATCH] drm/i915: add GEN9 cache sharing control in debugfs

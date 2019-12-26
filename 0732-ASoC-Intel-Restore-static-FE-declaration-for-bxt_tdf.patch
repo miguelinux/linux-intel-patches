@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d78953b90bb3a0920afe509f3b18888ea90fda6a Mon Sep 17 00:00:00 2001
 From: Cezary Rojewski <cezary.rojewski@intel.com>
 Date: Mon, 15 Oct 2018 10:20:13 +0200
 Subject: [PATCH] ASoC: Intel: Restore static FE declaration for bxt_tdf8532.

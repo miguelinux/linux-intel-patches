@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 15ae49c7ea51f64a3ca478bb4ccad24b435025b4 Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Wed, 24 Feb 2016 17:03:16 +0530
 Subject: [PATCH] ASoC: Fix TLV control size in TLV handler

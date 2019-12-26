@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 81622f99a618efed0cf26fa329814851120e02e8 Mon Sep 17 00:00:00 2001
 From: xiao jin <jin.xiao@intel.com>
 Date: Thu, 12 Apr 2018 17:32:04 +0530
 Subject: [PATCH] ASoC: soc-pcm: Fix FE and BE race when accessing

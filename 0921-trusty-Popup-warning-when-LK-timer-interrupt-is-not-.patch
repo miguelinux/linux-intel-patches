@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 8ad151079dd675634e29bfe1cc97cf2352a27c5d Mon Sep 17 00:00:00 2001
 From: "Yan, Shaoou" <shaopu.yan@intel.com>
 Date: Thu, 8 Dec 2016 05:14:48 +0000
 Subject: [PATCH] trusty: Popup warning when LK timer interrupt is not as

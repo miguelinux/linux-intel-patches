@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From eb85e34c60e787018ab549251cd4dad5926d1e46 Mon Sep 17 00:00:00 2001
 From: Ding Xiang <dingxiang@cmss.chinamobile.com>
 Date: Tue, 4 Sep 2018 16:41:39 +0800
 Subject: [PATCH] security: tomoyo: Fix obsolete function

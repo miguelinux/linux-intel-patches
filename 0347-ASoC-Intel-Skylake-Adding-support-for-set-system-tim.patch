@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b481ca35608ae9098320f9f09011a2c1ef4c8100 Mon Sep 17 00:00:00 2001
 From: "Paul, Subhankar" <subhankar.paul@intel.com>
 Date: Wed, 31 Aug 2016 03:24:12 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Adding support for set system time to

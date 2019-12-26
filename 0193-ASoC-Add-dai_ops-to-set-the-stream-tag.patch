@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 0161e67deb520291e0868066f04e43a7946f825a Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 10 Mar 2016 10:16:10 +0530
 Subject: [PATCH] ASoC: Add dai_ops to set the stream tag.

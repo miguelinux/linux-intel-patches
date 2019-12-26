@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 38c8af9d18ac2f40b75895789c7dc99860e175dd Mon Sep 17 00:00:00 2001
 From: Puneeth Prabhu <puneethx.prabhu@intel.com>
 Date: Fri, 12 Jan 2018 15:50:50 +0530
 Subject: [PATCH] ASoC: rt298: Set jack combo for kabylake R

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 766330317ac499c6cdb423fbd331f78f2a09d1df Mon Sep 17 00:00:00 2001
 From: Cezary Rojewski <cezary.rojewski@intel.com>
 Date: Mon, 18 Feb 2019 16:28:37 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Remove MCPS available check.

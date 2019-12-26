@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e19977bee291c9767623de2823c324c793073364 Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Thu, 30 Mar 2017 22:57:48 +0530
 Subject: [PATCH] ASoC: Intel: common: Provide an interface to send IPCs

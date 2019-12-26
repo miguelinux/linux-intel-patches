@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 0b1960cfa4c82f4b6d7f893f17c71a297e09b153 Mon Sep 17 00:00:00 2001
 From: "Gopal, Puunithaaraj" <puunithaaraj.gopal@intel.com>
 Date: Mon, 8 Oct 2018 23:25:42 +0800
 Subject: [PATCH] media: ici: Change value of ICI_FORMAT_RGB565

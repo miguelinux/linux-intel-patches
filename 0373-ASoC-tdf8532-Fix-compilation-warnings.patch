@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 8bcd5e41d15bd610833ea8f12dc1f8f2bd7465ac Mon Sep 17 00:00:00 2001
 From: "Gogineni, GiribabuX" <giribabux.gogineni@intel.com>
 Date: Tue, 15 Aug 2017 16:36:28 +0530
 Subject: [PATCH] ASoC: tdf8532: Fix compilation warnings

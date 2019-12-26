@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a70fd73832501d97a6569c08fc7e8c4207456b7a Mon Sep 17 00:00:00 2001
 From: Jeremy Rocher <jeremy.rocher@intel.com>
 Date: Wed, 20 Jul 2016 10:00:44 +0200
 Subject: [PATCH] reboot: add reboot_panic parameter

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 95ad039848c5d7b5c9419924f51dd4e2c421bddc Mon Sep 17 00:00:00 2001
 From: Peter Huewe <peterhuewe@gmx.de>
 Date: Mon, 3 Sep 2018 21:51:51 +0200
 Subject: [PATCH] tpm: Make SECURITYFS a weak dependency

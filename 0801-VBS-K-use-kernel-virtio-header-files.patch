@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 731aa835c420da80e8ae2ae164718ea956ed5c57 Mon Sep 17 00:00:00 2001
 From: Jian Jun Chen <jian.jun.chen@intel.com>
 Date: Thu, 6 Dec 2018 12:07:14 +0800
 Subject: [PATCH] VBS-K: use kernel virtio header files

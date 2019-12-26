@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 23ad30e71a8173955a451a0d3012f65c095a1f8e Mon Sep 17 00:00:00 2001
 From: Cezary Rojewski <cezary.rojewski@intel.com>
 Date: Mon, 18 Feb 2019 18:57:09 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Remove memory available check.

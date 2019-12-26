@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c8819f8ce71b90e0dfaf81d3b4d6fd35b89b5a1b Mon Sep 17 00:00:00 2001
 From: Alexander Shishkin <alexander.shishkin@linux.intel.com>
 Date: Fri, 5 Oct 2018 15:42:55 +0300
 Subject: [PATCH] stm class: Add a helper for writing data packets

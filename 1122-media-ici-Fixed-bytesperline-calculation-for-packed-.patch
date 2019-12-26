@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a185859f17eb920ff145d1c26c870b34c2423be6 Mon Sep 17 00:00:00 2001
 From: "Gopal, Puunithaaraj" <puunithaaraj.gopal@intel.com>
 Date: Sat, 4 May 2019 00:57:45 +0800
 Subject: [PATCH] media: ici: Fixed bytesperline calculation for packed format

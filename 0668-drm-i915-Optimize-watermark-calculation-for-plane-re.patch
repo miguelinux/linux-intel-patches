@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c7b276c8a117cb09a006bef9d6ca642fcdc21176 Mon Sep 17 00:00:00 2001
 From: Satyeshwar Singh <satyeshwar.singh@intel.com>
 Date: Fri, 5 Oct 2018 13:52:11 -0700
 Subject: [PATCH] drm/i915: Optimize watermark calculation for plane

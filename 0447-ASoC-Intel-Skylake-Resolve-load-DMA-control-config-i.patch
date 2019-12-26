@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f0a361aad333c8ffe205c010730c4ae9337ea482 Mon Sep 17 00:00:00 2001
 From: "Shaik, ShahinaX" <shahinax.shaik@intel.com>
 Date: Wed, 23 May 2018 21:17:13 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Resolve load DMA control config issue

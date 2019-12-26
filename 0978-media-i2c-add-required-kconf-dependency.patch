@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a7f85603532d5ca95ca238ebf7283dec3ff1fffd Mon Sep 17 00:00:00 2001
 From: Chen Meng J <meng.j.chen@intel.com>
 Date: Mon, 3 Dec 2018 16:14:33 +0800
 Subject: [PATCH] media: i2c: add required kconf dependency

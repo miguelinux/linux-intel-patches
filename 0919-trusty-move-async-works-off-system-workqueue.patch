@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 13a0947b13d2388e3b37e90d83baf60e118a6125 Mon Sep 17 00:00:00 2001
 From: Michael Ryleev <gmar@google.com>
 Date: Mon, 12 Dec 2016 14:18:25 +0000
 Subject: [PATCH] trusty: move async works off system workqueue

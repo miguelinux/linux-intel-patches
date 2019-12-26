@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3e659857f77c5b01ece7cd55cf89a0793a0598aa Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Tue, 26 Nov 2013 20:18:35 -0800
 Subject: [PATCH] trusty: Add fiq support

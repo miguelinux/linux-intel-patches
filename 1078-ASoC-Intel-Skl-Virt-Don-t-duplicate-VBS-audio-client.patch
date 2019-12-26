@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 26df9bb80a91c47f91d3d5eef3b9a40bfc86465a Mon Sep 17 00:00:00 2001
 From: Grzegorz Janca <grzegorz.janca@intel.com>
 Date: Mon, 4 Mar 2019 16:49:57 +0100
 Subject: [PATCH] ASoC: Intel: Skl: Virt: Don't duplicate VBS audio client

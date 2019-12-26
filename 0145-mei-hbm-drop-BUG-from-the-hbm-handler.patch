@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From dac894bcbd184a9b6c77f94d03d3de730f0f6fd2 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Mon, 17 Sep 2018 13:12:50 +0000
 Subject: [PATCH] mei: hbm: drop BUG() from the hbm handler

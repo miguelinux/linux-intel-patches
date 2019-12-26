@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 370cb2d5ff28c014f1bd4ad7a779f623a675581b Mon Sep 17 00:00:00 2001
 From: Ong Hock Yu <ong.hock.yu@intel.com>
 Date: Wed, 9 Jan 2019 23:03:09 +0000
 Subject: [PATCH] media: intel-ipu4: [VIRT] Increase the POLL_WAIT timeout &

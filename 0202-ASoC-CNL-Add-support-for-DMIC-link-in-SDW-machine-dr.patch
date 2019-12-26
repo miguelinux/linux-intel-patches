@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6e509f790e6a6dcab642270a49a55e8fcc785ea2 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 17 Mar 2016 17:44:39 +0530
 Subject: [PATCH] ASoC:CNL: Add support for DMIC link in SDW machine driver.

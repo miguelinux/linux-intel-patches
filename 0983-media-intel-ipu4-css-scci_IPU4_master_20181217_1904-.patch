@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e8a262d153f4dee475db7ed7fb25fc3d80960f41 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Mon, 24 Dec 2018 11:56:13 +0800
 Subject: [PATCH] media: intel-ipu4: css: scci_IPU4_master_20181217_1904 fw

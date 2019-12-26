@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From cf273de9d09a6653eaa6710a499ac96f304ea4e1 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Thu, 5 Nov 2015 10:22:44 +0200
 Subject: [PATCH] scsi: ufs: connect to RPMB subsystem

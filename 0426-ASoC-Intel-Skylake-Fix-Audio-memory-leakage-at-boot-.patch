@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f1d59cb731671f460ac8b2b6a9e090adf90c6cd1 Mon Sep 17 00:00:00 2001
 From: "Shaik, ShahinaX" <shahinax.shaik@intel.com>
 Date: Thu, 29 Mar 2018 21:40:15 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Fix Audio memory leakage at boot time

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 97a9cdf677c64c6f60ea1387128e81ac3c09eee1 Mon Sep 17 00:00:00 2001
 From: Kamil Kulesza <kamil.kulesza@intel.com>
 Date: Wed, 7 Nov 2018 14:01:13 +0100
 Subject: [PATCH] ASoC: Intel: Skylake Acquire irq after RIRB allocation

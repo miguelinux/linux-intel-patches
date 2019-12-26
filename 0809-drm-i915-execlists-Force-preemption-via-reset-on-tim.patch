@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6bf56018294d9f721e15757c8854bbc54254730d Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Mon, 10 Dec 2018 04:31:54 -0500
 Subject: [PATCH] drm/i915/execlists: Force preemption via reset on timeout

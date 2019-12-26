@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From fd0a5356025da88d1a0f190a3c5d7ad47c492efd Mon Sep 17 00:00:00 2001
 From: Pierre-Louis Bossart <pierre-louis.bossart@linux.intel.com>
 Date: Thu, 16 Jun 2016 16:01:00 +0530
 Subject: [PATCH] ALSA: pcm: conditionally avoid mmap of control data.

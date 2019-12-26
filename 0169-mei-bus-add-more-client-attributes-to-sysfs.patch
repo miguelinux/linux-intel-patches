@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3ac8f4e0da8773f1238a75f721f1cb25cc8d6505 Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Mon, 3 Sep 2018 14:37:27 +0300
 Subject: [PATCH] mei: bus: add more client attributes to sysfs

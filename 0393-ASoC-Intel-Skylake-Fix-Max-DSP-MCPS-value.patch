@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ff4dabc6651859fa7f6b4a5166696130434d5abb Mon Sep 17 00:00:00 2001
 From: "Shaik, Kareem M" <kareem.m.shaik@intel.com>
 Date: Thu, 6 Oct 2016 16:23:09 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Fix Max DSP MCPS value

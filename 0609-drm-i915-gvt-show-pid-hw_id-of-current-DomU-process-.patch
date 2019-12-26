@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6e82a6b94f935e849922e17a132a25b0028f1489 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Thu, 4 Jan 2018 21:48:47 +0800
 Subject: [PATCH] drm/i915/gvt: show pid/hw_id of current DomU process in

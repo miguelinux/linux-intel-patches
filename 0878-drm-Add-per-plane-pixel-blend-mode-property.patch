@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 702d282a946bc51096db62f3a100f19a35e4264e Mon Sep 17 00:00:00 2001
 From: Lowry LI <lowry.li@arm.com>
 Date: Thu, 23 Aug 2018 16:30:19 +0800
 Subject: [PATCH] drm: Add per-plane pixel blend mode property

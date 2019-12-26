@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ca90586bec72bb927703d986ff865c80c4bf3e39 Mon Sep 17 00:00:00 2001
 From: "Kareem,Shaik" <kareem.m.shaik@intel.com>
 Date: Thu, 15 Jun 2017 13:40:04 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Add support for always on CLK

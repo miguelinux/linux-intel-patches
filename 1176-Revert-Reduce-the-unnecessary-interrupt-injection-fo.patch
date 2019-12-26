@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 83d869932d551b12e8d7431b78205b9003ab65c1 Mon Sep 17 00:00:00 2001
 From: Zhao Yakui <yakui.zhao@intel.com>
 Date: Wed, 21 Aug 2019 11:43:50 +0800
 Subject: [PATCH] Revert "Reduce the unnecessary interrupt injection for small

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 06535cee32f6dcc8a72cba88ebcac5e794d6ed5c Mon Sep 17 00:00:00 2001
 From: Mousumi Jana <mousumix.jana@intel.com>
 Date: Tue, 4 Jul 2017 18:39:18 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Support for DSP exception record dump

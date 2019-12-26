@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ac973b948502baf3746d5d19a21e7690525de5a8 Mon Sep 17 00:00:00 2001
 From: Mingqiang Chi <mingqiang.chi@intel.com>
 Date: Fri, 31 Aug 2018 10:58:59 +0800
 Subject: [PATCH] vhm: modify mmio/memory map/unmap api

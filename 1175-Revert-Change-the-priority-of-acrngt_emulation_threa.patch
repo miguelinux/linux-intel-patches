@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 213208ca60d15640b4fb9e7e6900c12fd594b9bc Mon Sep 17 00:00:00 2001
 From: Zhao Yakui <yakui.zhao@intel.com>
 Date: Wed, 21 Aug 2019 11:16:30 +0800
 Subject: [PATCH] Revert "Change the priority of acrngt_emulation_thread on

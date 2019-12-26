@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From eff9e0bbb75cb541527e0002a4ae19df92d50d0f Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Tue, 27 Nov 2018 19:32:26 +0800
 Subject: [PATCH] media: ti964: add magna subdev for 2nd ti964

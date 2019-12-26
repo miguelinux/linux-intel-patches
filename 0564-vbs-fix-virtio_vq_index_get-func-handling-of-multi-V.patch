@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9bb6719dd76b6e535c5d68b6956ef33544b1d006 Mon Sep 17 00:00:00 2001
 From: Ong Hock Yu <ong.hock.yu@intel.com>
 Date: Fri, 31 Aug 2018 10:59:03 +0800
 Subject: [PATCH] vbs: fix virtio_vq_index_get func handling of multi VQ

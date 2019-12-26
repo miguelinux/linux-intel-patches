@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9fa53d038e4df637f6ef58c2a9068cd4b2b4d68d Mon Sep 17 00:00:00 2001
 From: Fei Jiang <fei.jiang@intel.com>
 Date: Fri, 29 Dec 2017 18:48:22 +0800
 Subject: [PATCH] drm/i915/gvt: add param disable_gvt_fw_loading to disable gvt

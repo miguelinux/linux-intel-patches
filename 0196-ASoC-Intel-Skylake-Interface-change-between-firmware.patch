@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From dd5738eb54e69674ae574c0e878f835d89027882 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 10 Mar 2016 11:32:51 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Interface change between firmware and

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e4738a8100b3b7bb13821c62e281f12e05524c96 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Tue, 6 Mar 2018 09:36:11 +0200
 Subject: [PATCH] tpm: move tpm1_pcr_extend to tpm1-cmd.c

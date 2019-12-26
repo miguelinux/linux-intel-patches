@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 1e35b9e7441be9d63e8d22f65168259e9b67cd6e Mon Sep 17 00:00:00 2001
 From: Ong Hock Yu <ong.hock.yu@intel.com>
 Date: Wed, 17 Oct 2018 21:27:36 +0000
 Subject: [PATCH] media: intel-ipu4: [VIRT] Add class_create for pipeline and

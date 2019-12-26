@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b5e42ce82aaccd10d1e948b9c5fadd3d6198bf63 Mon Sep 17 00:00:00 2001
 From: "R, Dharageswari" <dharageswari.r@intel.com>
 Date: Thu, 28 Dec 2017 08:31:45 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Implement recovery for cAVS platforms

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a0547736322e5763a256a09dff96cfcc421300ab Mon Sep 17 00:00:00 2001
 From: "Romli, Khairul Anuar" <khairul.anuar.romli@intel.com>
 Date: Wed, 19 Sep 2018 14:18:50 +0800
 Subject: [PATCH] drm/i915: Commit CP without modeset

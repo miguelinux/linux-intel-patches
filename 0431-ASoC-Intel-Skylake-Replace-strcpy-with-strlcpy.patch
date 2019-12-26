@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 76af35ee4c18158cc28eef580408e0da3ec19eea Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Wed, 28 Feb 2018 15:38:13 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Replace strcpy with strlcpy

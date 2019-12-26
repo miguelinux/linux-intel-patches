@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f16d097115d79538253c30e50d1cfbe821131873 Mon Sep 17 00:00:00 2001
 From: "Yew, Chang Ching" <chang.ching.yew@intel.com>
 Date: Thu, 17 Jan 2019 09:30:03 +0800
 Subject: [PATCH] media: intel-ipu4: [ICI] Reorder mutex lock of ipu css for

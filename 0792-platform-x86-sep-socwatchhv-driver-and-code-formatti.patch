@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f6b17f33d16779794e5e5ede96d8b32cf1358454 Mon Sep 17 00:00:00 2001
 From: Jon Moeller <jon.moeller@intel.com>
 Date: Sat, 15 Dec 2018 09:40:13 -0600
 Subject: [PATCH] platform/x86: sep, socwatchhv driver and code-formatting

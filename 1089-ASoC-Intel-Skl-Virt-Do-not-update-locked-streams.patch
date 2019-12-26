@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a33f46f682a87d35670ffd9c3c37dc1a63274279 Mon Sep 17 00:00:00 2001
 From: "Furtak, Pawel" <pawel.furtak@intel.com>
 Date: Thu, 21 Mar 2019 14:13:30 -0800
 Subject: [PATCH] ASoC: Intel: Skl: Virt: Do not update locked streams

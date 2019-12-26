@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 24e041b3d7c21b870c3ac2d99f79564cca893f2f Mon Sep 17 00:00:00 2001
 From: Puunithaaraj Gopal <puunithaaraj.gopal@intel.com>
 Date: Wed, 19 Jun 2019 00:46:52 +0800
 Subject: [PATCH] media: ici: Use IPU_FW_ISYS_SEND_TYPE_STREAM STOP when

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a465b67941f4c0cf8b8bb2af87e8e1a946b2a43a Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Thu, 10 Jan 2019 15:17:56 +0800
 Subject: [PATCH] drm/i915/gvt: Get Port ID from the encoder object instead of

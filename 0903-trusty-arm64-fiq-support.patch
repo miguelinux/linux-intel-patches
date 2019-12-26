@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9b5c9eaace653231c0efc9f5f2c48e824b526467 Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Mon, 14 Apr 2014 17:18:40 -0700
 Subject: [PATCH] trusty: arm64 fiq support

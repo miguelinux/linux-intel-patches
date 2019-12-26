@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From be0c463d54c50e640b2675edf2c2b09b80542fe6 Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Thu, 8 Mar 2018 00:35:50 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Read extended crash dump info from DSP

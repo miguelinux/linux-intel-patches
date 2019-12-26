@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 95a7d5cbe397f605b21d3a9ea9a36b56791983b7 Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Mon, 10 Dec 2018 04:34:57 -0500
 Subject: [PATCH] drm/i915: Allow user control over preempt timeout on their

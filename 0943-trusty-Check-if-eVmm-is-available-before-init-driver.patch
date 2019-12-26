@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 8f417d8788563b777e3a98403455dc6696afa269 Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Tue, 21 Nov 2017 14:13:27 +0800
 Subject: [PATCH] trusty: Check if eVmm is available before init driver

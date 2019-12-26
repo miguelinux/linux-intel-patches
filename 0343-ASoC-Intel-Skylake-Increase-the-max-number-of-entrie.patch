@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 8e632b28dce515cb59000acde7e3ca631d81e33f Mon Sep 17 00:00:00 2001
 From: Puneeth Prabhu <puneethx.prabhu@intel.com>
 Date: Wed, 17 May 2017 12:05:30 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Increase the max number of entries for

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f23eb7dc3ad4fe0f888675f266ea95ec3b5e6535 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 10 Mar 2016 13:00:27 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Add support for the SDW dai ops.

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a791a449471d83b980ba68dc16a10edfe368b96b Mon Sep 17 00:00:00 2001
 From: "Poluri, Sarat Chandra" <sarat.chandra.poluri@intel.com>
 Date: Fri, 12 Apr 2019 18:27:14 +0000
 Subject: [PATCH] media: ici: Fix warning when stream_start fails.

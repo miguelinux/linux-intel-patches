@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 5a3068ec89b4c59d0e1d517cd9b9dd123e19ab6d Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Sun, 20 Nov 2016 20:16:25 +0530
 Subject: [PATCH] SoundWire: Hardcoding in bus driver for SVFPGA PDM codec.

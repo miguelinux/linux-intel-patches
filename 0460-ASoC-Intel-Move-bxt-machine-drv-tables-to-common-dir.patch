@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c37f623d61bc8b919e0524e35d400b9d1e366a51 Mon Sep 17 00:00:00 2001
 From: Cezary Rojewski <cezary.rojewski@intel.com>
 Date: Tue, 14 Aug 2018 11:38:49 +0200
 Subject: [PATCH] ASoC: Intel: Move bxt machine drv tables to common directory.

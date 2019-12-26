@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c6c44ebdeb1259fa03cd08a8961bd515a75ed8a0 Mon Sep 17 00:00:00 2001
 From: "Li, Fei1" <fei1.li@intel.com>
 Date: Fri, 31 Aug 2018 10:58:57 +0800
 Subject: [PATCH] ACRNTrace: add acrn trace module

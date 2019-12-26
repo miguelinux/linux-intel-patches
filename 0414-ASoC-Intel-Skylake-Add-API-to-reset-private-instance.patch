@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 0e06866bfb4963051ab9b936a1304ebd8f3bf958 Mon Sep 17 00:00:00 2001
 From: "R, Dharageswari" <dharageswari.r@intel.com>
 Date: Mon, 25 Dec 2017 07:03:56 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Add API to reset private instance id of

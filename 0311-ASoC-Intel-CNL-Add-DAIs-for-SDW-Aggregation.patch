@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 68fe84978a262f370f81e7eac2ea66927c2d3b6b Mon Sep 17 00:00:00 2001
 From: "Jayanti, Satya Charitardha" <satya.charitardha.jayanti@intel.com>
 Date: Wed, 4 Jan 2017 20:41:55 +0530
 Subject: [PATCH] ASoC: Intel: CNL: Add DAIs for SDW Aggregation

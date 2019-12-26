@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 868e319a989f54ec6514c8ac8be99aa95a63ef22 Mon Sep 17 00:00:00 2001
 From: Szymon Mielczarek <szymonx.mielczarek@intel.com>
 Date: Tue, 11 Dec 2018 07:05:01 +0100
 Subject: [PATCH] Revert "ASoC: Intel: board: Add support for FE dynamic dai

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 860b7009ed14bad9650f26d8d7ded82152b96368 Mon Sep 17 00:00:00 2001
 From: "Gopal, Puunithaaraj" <puunithaaraj.gopal@intel.com>
 Date: Sat, 12 Jan 2019 00:05:13 +0800
 Subject: [PATCH] intel-ipu4: ici: Move empty list check into spinlock to avoid

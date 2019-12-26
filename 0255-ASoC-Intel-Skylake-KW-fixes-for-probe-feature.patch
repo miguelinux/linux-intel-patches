@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e35552c334c0599a96739d654bd04d2c95b5335a Mon Sep 17 00:00:00 2001
 From: G Kranthi <gudishax.kranthikumar@intel.com>
 Date: Tue, 10 May 2016 11:11:09 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: KW fixes for probe feature

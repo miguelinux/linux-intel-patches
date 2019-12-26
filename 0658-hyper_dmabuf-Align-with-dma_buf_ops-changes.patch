@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3a7e834aefcfe7840f73578fc9c6406f559c0665 Mon Sep 17 00:00:00 2001
 From: Mateusz Polrola <mateuszx.potrola@intel.com>
 Date: Thu, 20 Sep 2018 14:01:22 +0200
 Subject: [PATCH] hyper_dmabuf: Align with dma_buf_ops changes

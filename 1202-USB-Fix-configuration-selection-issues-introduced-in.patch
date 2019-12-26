@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e744be9187ba0f5aba66422ce42b18eee4139404 Mon Sep 17 00:00:00 2001
 From: Nikolay Yakimov <root@livid.pp.ru>
 Date: Tue, 15 Jan 2019 19:13:54 +0300
 Subject: [PATCH] USB: Fix configuration selection issues introduced in v4.20.0

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From fbc08a1ea0bd42df7a07ef2860d733d6b5a55d44 Mon Sep 17 00:00:00 2001
 From: "Gogineni, GiribabuX" <giribabux.gogineni@intel.com>
 Date: Tue, 2 Jan 2018 23:53:39 +0530
 Subject: [PATCH] ASoC: tdf8532: Add delay while reading a packet from I2C

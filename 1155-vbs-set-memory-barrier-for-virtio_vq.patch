@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c5b9f78fdaa79fbc3ec648a508cebda2df984578 Mon Sep 17 00:00:00 2001
 From: Gao Junhao <junhao.gao@intel.com>
 Date: Thu, 30 May 2019 11:22:02 +0000
 Subject: [PATCH] vbs: set memory barrier for virtio_vq

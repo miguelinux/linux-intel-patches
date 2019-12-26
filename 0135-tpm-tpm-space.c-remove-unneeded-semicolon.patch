@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 937b1fbff39c14e63836ee0c262fc5554b26f9c7 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Sat, 15 Sep 2018 22:08:18 +0300
 Subject: [PATCH] tpm: tpm-space.c remove unneeded semicolon

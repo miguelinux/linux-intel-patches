@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b3469f0ae5cb58a76f9d14dd7516ff8f0da4ecb4 Mon Sep 17 00:00:00 2001
 From: "Furtak, Pawel" <pawel.furtak@intel.com>
 Date: Wed, 20 Mar 2019 10:49:15 +0100
 Subject: [PATCH] ASoC: Intel: Skl: Virt: Handle FE notifications in separate

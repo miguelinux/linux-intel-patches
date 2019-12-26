@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2b35510416ed1755c473a332412524d27d24f771 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Mon, 5 Mar 2018 19:47:28 +0200
 Subject: [PATCH] tpm: sort objects in the Makefile

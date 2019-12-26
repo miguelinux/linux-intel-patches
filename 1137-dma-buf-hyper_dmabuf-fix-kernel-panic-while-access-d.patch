@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c2b16298a1332061305e2afcb248ec14e483aa6e Mon Sep 17 00:00:00 2001
 From: Liu Xinyun <xinyun.liu@intel.com>
 Date: Wed, 29 May 2019 22:33:45 +0800
 Subject: [PATCH] dma-buf/hyper_dmabuf: fix kernel panic while access dma_buf

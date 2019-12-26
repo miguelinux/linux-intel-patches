@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 7850e80f8a44227d9a9c6b884137932257712c10 Mon Sep 17 00:00:00 2001
 From: Jeremy Compostella <jeremy.compostella@intel.com>
 Date: Thu, 8 Nov 2018 11:11:00 +0530
 Subject: [PATCH] serial: 8250_dma: stop ongoing RX DMA on exception

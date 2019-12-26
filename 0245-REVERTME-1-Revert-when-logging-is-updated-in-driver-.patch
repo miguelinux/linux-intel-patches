@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From bc93aa9f36c25bc35378d376ba4478b58b50ef12 Mon Sep 17 00:00:00 2001
 From: "Panwar, Ashish" <ashish.panwar@intel.com>
 Date: Sat, 19 Mar 2016 08:44:11 +0530
 Subject: [PATCH] REVERTME-1: Revert when logging is updated in

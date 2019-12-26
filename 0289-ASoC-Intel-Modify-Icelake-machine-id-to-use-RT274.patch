@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From cc2b77eaf3657424de6ca4af8e44f9c25dba5817 Mon Sep 17 00:00:00 2001
 From: Dharageswari R <dharageswari.r@intel.com>
 Date: Fri, 15 Dec 2006 12:19:15 +0530
 Subject: [PATCH] ASoC: Intel: Modify Icelake machine id to use RT274

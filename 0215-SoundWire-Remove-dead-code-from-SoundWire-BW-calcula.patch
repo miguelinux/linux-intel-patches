@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3e9b59d3b8f88dfc6f9d47f753bd860784f296b5 Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Sun, 20 Nov 2016 20:18:36 +0530
 Subject: [PATCH] SoundWire: Remove dead code from SoundWire BW calculation

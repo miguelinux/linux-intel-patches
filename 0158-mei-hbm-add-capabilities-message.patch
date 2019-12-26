@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From db87ceee07ab125e3a6057716f1acf67ecefe22a Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Tue, 8 May 2018 11:08:19 +0300
 Subject: [PATCH] mei: hbm: add capabilities message

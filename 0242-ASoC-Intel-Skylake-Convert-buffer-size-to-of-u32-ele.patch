@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c8167150dfe323006dd78af5807f5ec3a9255b79 Mon Sep 17 00:00:00 2001
 From: "Panwar, Ashish" <ashish.panwar@intel.com>
 Date: Fri, 4 Mar 2016 11:20:00 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Convert buffer size to # of u32

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c96319e342a6d84120b75a4453e88929e8c21ec9 Mon Sep 17 00:00:00 2001
 From: Ong Hock Yu <ong.hock.yu@intel.com>
 Date: Wed, 21 Nov 2018 17:12:39 +0000
 Subject: [PATCH] media: intel-ipu4: [VIRT] Support for IPU ACRN

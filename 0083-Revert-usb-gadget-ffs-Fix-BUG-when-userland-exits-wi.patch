@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 5ac4c6056442f2ab5b9348453691dfd52dc2e16c Mon Sep 17 00:00:00 2001
 From: Shen Jing <jingx.shen@intel.com>
 Date: Thu, 1 Nov 2018 15:35:17 +0530
 Subject: [PATCH] Revert "usb: gadget: ffs: Fix BUG when userland exits with

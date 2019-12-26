@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2b8d53d33ad36c3a80a6a2df0783cce3150ad412 Mon Sep 17 00:00:00 2001
 From: "Gopal, Puunithaaraj" <puunithaaraj.gopal@intel.com>
 Date: Wed, 10 Oct 2018 10:38:55 +0700
 Subject: [PATCH] media: intel-ipu4: [VIRT] Add support for IPU_IOC_QCMD ioctl

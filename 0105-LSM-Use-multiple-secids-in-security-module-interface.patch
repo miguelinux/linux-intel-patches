@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 90c9c7a4dcaf0a436e470da1c628a1acb4b07660 Mon Sep 17 00:00:00 2001
 From: Casey Schaufler <casey@schaufler-ca.com>
 Date: Tue, 28 Aug 2018 11:40:43 -0700
 Subject: [PATCH] LSM: Use multiple secids in security module interfaces

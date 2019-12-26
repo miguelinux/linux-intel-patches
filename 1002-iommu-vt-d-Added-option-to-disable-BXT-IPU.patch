@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f1424c4a6b7ae11670b87cd5516e70131908fc3b Mon Sep 17 00:00:00 2001
 From: Mateusz Polrola <mateuszx.potrola@intel.com>
 Date: Tue, 19 Sep 2017 08:37:38 +0200
 Subject: [PATCH] iommu/vt-d: Added option to disable BXT IPU.

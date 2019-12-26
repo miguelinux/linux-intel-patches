@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 37fd64b92c9033f42ded7d9f9d3b05abc9f9a7fd Mon Sep 17 00:00:00 2001
 From: Zhi Jin <zhi.jin@intel.com>
 Date: Wed, 1 Aug 2018 14:58:50 +0800
 Subject: [PATCH] acrn: add hv_npk_log module

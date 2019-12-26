@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ac3676f44ebe9d3a77f1db345f1f2ea9ef58fd7f Mon Sep 17 00:00:00 2001
 From: "Lulko, KamilX" <kamilx.lulko@intel.com>
 Date: Wed, 10 Apr 2019 16:20:44 +0200
 Subject: [PATCH] ASoC: Intel: Read remainder of stack dump

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 0f71808f18175876e3602c00f8938236debcbb70 Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Thu, 4 Jan 2018 19:40:48 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: validate the downloaded firmware

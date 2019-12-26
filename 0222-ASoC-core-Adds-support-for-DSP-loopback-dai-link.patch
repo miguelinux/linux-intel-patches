@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From cd3e6523fe73d081226a251a84a1a9de76a0dc7e Mon Sep 17 00:00:00 2001
 From: Jeeja KP <jeeja.kp@intel.com>
 Date: Wed, 16 Sep 2015 01:56:54 +0530
 Subject: [PATCH] ASoC: core: Adds support for DSP loopback dai link

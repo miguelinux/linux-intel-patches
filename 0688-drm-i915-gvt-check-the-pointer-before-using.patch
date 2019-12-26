@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 891b7edb860e3e02544b8fbebe83f6318116ab73 Mon Sep 17 00:00:00 2001
 From: Xinyun Liu <xinyun.liu@intel.com>
 Date: Wed, 24 Oct 2018 19:50:08 +0800
 Subject: [PATCH] drm/i915/gvt: check the pointer before using

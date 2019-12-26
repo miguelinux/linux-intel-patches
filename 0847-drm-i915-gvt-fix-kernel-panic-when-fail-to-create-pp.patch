@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 07503495f4d7a0681cfcbaf057e5ef202e879118 Mon Sep 17 00:00:00 2001
 From: Zhipeng Gong <zhipeng.gong@intel.com>
 Date: Wed, 26 Dec 2018 14:04:37 +0800
 Subject: [PATCH] drm/i915/gvt: fix kernel panic when fail to create ppgtt

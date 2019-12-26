@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4382339102f07fe70f48b4050b627490d87e0a91 Mon Sep 17 00:00:00 2001
 From: "Yan, Like" <like.yan@intel.com>
 Date: Fri, 31 Aug 2018 10:58:59 +0800
 Subject: [PATCH] Cleanup Kconfig

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From cb4ad2dc39fe48ac29be0df9074832699ffedd20 Mon Sep 17 00:00:00 2001
 From: Casey Schaufler <cschaufler@localhost.localdomain>
 Date: Mon, 27 Aug 2018 13:49:28 -0700
 Subject: [PATCH] procfs: add smack subdir to attrs

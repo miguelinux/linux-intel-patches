@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 10e57a0d41ae9d6ac7c5808df4d4514584997f5b Mon Sep 17 00:00:00 2001
 From: Vinod Koul <vinod.koul@intel.com>
 Date: Mon, 31 Aug 2015 14:05:10 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Add NHLT override control

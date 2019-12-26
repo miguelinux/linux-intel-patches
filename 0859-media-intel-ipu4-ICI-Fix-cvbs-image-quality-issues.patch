@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 5345d2b098c8c30d6994520ebccdefb391d6736f Mon Sep 17 00:00:00 2001
 From: Yang Zhonghua <zhonghuax.yang@intel.com>
 Date: Fri, 28 Dec 2018 17:41:30 +0800
 Subject: [PATCH] media: intel-ipu4: [ICI] Fix cvbs image quality issues

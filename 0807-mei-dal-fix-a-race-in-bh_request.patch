@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d8280d12535b3955ad912f167afca7ec3c86a55c Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Tue, 27 Nov 2018 18:27:43 +0200
 Subject: [PATCH] mei: dal: fix a race in bh_request()

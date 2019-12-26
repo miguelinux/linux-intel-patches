@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 22615c1c4aa6905cde0d30358ebb4edc2a45b412 Mon Sep 17 00:00:00 2001
 From: Wojciech Jablonski <wojciech.jablonski@intel.com>
 Date: Tue, 26 Feb 2019 12:45:35 +0100
 Subject: [PATCH]  ASoC: Intel: Skl: Virt: Fix compilation BE and FE at once

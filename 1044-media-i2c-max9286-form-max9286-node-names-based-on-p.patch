@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4fc4f5f988cf225dfdde483cc4a492594e3c2c84 Mon Sep 17 00:00:00 2001
 From: kgopala2 <karthik.l.gopalakrishnan@intel.com>
 Date: Mon, 25 Feb 2019 22:07:53 +0800
 Subject: [PATCH] media: i2c: max9286: form max9286 node names based on pdata

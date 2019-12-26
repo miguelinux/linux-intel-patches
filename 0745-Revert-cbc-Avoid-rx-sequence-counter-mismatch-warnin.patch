@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9b0db38564cd83c22b7cce21aca76df84e966681 Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Mon, 26 Nov 2018 09:43:05 +0800
 Subject: [PATCH] Revert "cbc: Avoid rx sequence counter mismatch warnings"

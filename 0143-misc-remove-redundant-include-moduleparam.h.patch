@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 860907496933c067db2a5b47220dd0103da2aa43 Mon Sep 17 00:00:00 2001
 From: zhong jiang <zhongjiang@huawei.com>
 Date: Tue, 18 Sep 2018 16:59:34 +0800
 Subject: [PATCH] misc: remove redundant include moduleparam.h

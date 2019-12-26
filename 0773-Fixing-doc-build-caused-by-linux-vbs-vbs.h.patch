@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2bb1c0de5f26a414caee54e47f32ff263faa0ed2 Mon Sep 17 00:00:00 2001
 From: Zhao Yakui <yakui.zhao@intel.com>
 Date: Tue, 6 Nov 2018 08:25:41 +0800
 Subject: [PATCH] Fixing doc build caused by linux/vbs/vbs.h

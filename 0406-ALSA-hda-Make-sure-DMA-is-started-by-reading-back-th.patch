@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 034197f4cc1aa37f82897c1abb0ef6f987c427e3 Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Fri, 21 Jul 2017 02:08:12 +0530
 Subject: [PATCH] ALSA: hda: Make sure DMA is started by reading back the RUN

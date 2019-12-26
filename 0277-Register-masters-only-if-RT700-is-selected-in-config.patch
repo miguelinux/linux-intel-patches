@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 940d17e374c385eaf8a64962665643d9ed9a974a Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Mon, 24 Oct 2016 16:23:20 +0530
 Subject: [PATCH] Register masters only if RT700 is selected in config

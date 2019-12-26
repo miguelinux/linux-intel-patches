@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 028505acf489fdca13e719e77741ca60f39e18f9 Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Wed, 6 Sep 2017 14:04:58 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Fix error handling in

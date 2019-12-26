@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c83f63944f94009b16318c6dbf903c0e866ffbf0 Mon Sep 17 00:00:00 2001
 From: "Wu, Binbin" <binbin.wu@intel.com>
 Date: Wed, 6 Feb 2019 17:23:36 +0530
 Subject: [PATCH] mfd: intel-lpss: Set the device in reset state before init

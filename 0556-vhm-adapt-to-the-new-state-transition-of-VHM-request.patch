@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e6266e5483afdcf46616804558af973cd28a0163 Mon Sep 17 00:00:00 2001
 From: Junjie Mao <junjie.mao@intel.com>
 Date: Fri, 31 Aug 2018 10:59:03 +0800
 Subject: [PATCH] vhm: adapt to the new state transition of VHM requests

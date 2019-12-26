@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b4854a66df484d868a1a6e50f7150fc33954da83 Mon Sep 17 00:00:00 2001
 From: Shuo A Liu <shuo.a.liu@intel.com>
 Date: Thu, 10 Jan 2019 16:21:28 +0100
 Subject: [PATCH] vhm: fix audio backend module handle ioreq incorrectly

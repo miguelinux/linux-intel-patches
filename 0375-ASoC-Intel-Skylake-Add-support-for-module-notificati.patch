@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From aea44f845e0fb631258c4fdd9f5c297896354d11 Mon Sep 17 00:00:00 2001
 From: "Paul, Subhankar" <subhankar.paul@intel.com>
 Date: Tue, 8 Aug 2017 22:46:45 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Add support for module notifications

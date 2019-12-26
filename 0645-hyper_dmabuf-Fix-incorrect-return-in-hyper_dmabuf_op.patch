@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 91938f64949e8ad48d2ed52750a1e6cfdbc6b4b5 Mon Sep 17 00:00:00 2001
 From: Kuppuswamy Sathyanarayanan <sathyanarayanan.kuppuswamy@linux.intel.com>
 Date: Tue, 31 Jul 2018 14:39:38 -0700
 Subject: [PATCH] hyper_dmabuf: Fix incorrect return in

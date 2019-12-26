@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 130222d6066b26e7b09324c6c8c2560c3fc5c532 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Mon, 21 Jan 2019 14:31:35 +0800
 Subject: [PATCH] media: intel-ipu4: separated init seq for ox03a10 and ov495

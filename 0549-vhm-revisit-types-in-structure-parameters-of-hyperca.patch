@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a65e318551a509593197d72c18ac9407e6e7c1e0 Mon Sep 17 00:00:00 2001
 From: Junjie Mao <junjie.mao@intel.com>
 Date: Fri, 31 Aug 2018 10:59:02 +0800
 Subject: [PATCH] vhm: revisit types in structure parameters of hypercalls

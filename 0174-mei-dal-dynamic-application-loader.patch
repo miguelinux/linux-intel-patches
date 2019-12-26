@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4a9c596fb06c0a97207894c9f320a7d8c2e3196d Mon Sep 17 00:00:00 2001
 From: Yael Samet <yael.samet@intel.com>
 Date: Tue, 5 Sep 2017 12:21:49 +0300
 Subject: [PATCH] mei: dal: dynamic application loader

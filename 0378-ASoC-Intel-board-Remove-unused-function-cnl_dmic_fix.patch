@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 5d1f0e77d1bae617ea5ccf33c51526a8d7072081 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 7 Sep 2017 09:58:03 +0530
 Subject: [PATCH] ASoC: Intel: board: Remove unused function cnl_dmic_fixup

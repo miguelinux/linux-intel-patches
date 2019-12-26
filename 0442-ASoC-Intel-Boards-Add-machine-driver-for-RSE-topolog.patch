@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 0cc13907a0f1916fc01208b3de873b51c6b1ff43 Mon Sep 17 00:00:00 2001
 From: Puneeth Prabhu <puneethx.prabhu@intel.com>
 Date: Wed, 2 May 2018 12:55:39 +0530
 Subject: [PATCH] ASoC: Intel: Boards: Add machine driver for RSE topology

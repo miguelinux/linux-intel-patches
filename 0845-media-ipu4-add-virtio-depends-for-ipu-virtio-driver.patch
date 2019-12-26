@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 756a96bcdbc11e7581a098ffacc9f7cdbef22d04 Mon Sep 17 00:00:00 2001
 From: "Yang, Zhonghua" <zhonghuax.yang@intel.com>
 Date: Mon, 3 Dec 2018 20:18:47 -0500
 Subject: [PATCH] media: ipu4: add virtio depends for ipu virtio driver

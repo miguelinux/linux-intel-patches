@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2680088d3e7205148ab87ed084cb20b7c3a5cda6 Mon Sep 17 00:00:00 2001
 From: "Shaik, ShahinaX" <shahinax.shaik@intel.com>
 Date: Mon, 5 Feb 2018 20:12:17 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Update gain interface structure

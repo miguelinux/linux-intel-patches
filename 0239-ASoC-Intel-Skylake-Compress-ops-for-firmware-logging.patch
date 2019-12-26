@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d016c6c77a349ad6a33ea31e7f1df1c607009d27 Mon Sep 17 00:00:00 2001
 From: "Panwar, Ashish" <ashish.panwar@intel.com>
 Date: Wed, 20 Jan 2016 19:22:05 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Compress ops for firmware logging.

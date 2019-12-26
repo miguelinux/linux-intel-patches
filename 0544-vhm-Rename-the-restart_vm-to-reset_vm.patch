@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3a27c8966b632d54383f18e17c480ac29e61d061 Mon Sep 17 00:00:00 2001
 From: Yin Fengwei <fengwei.yin@intel.com>
 Date: Fri, 31 Aug 2018 10:59:01 +0800
 Subject: [PATCH] vhm: Rename the restart_vm to reset_vm

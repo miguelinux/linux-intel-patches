@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 1acd442f46fcebf3e52f85b16d350f303720f71c Mon Sep 17 00:00:00 2001
 From: Michael Ryleev <gmar@google.com>
 Date: Thu, 26 Mar 2015 19:31:25 -0700
 Subject: [PATCH] trusty: add couple non-secure memory related helper routines

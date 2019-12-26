@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c5be8a38ba2d9c188b2d93f3c27464ac5eddc3a7 Mon Sep 17 00:00:00 2001
 From: "Yan, Shaopu" <shaopu.yan@intel.com>
 Date: Mon, 13 Mar 2017 13:22:21 +0800
 Subject: [PATCH] trusty-ipc: change DEFAULT_MSG_BUF_SIZE to 68K

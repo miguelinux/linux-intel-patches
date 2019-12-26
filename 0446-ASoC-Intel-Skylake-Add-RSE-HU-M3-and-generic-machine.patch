@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d1f8bb8837e5ebdb2f2902dcdad786b7620bdf56 Mon Sep 17 00:00:00 2001
 From: Puneeth Prabhu <puneethx.prabhu@intel.com>
 Date: Mon, 7 May 2018 16:38:11 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Add RSE, HU, M3 and generic machine

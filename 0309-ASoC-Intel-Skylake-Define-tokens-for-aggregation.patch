@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ce217945448e8c000d283085d18779538af29ccc Mon Sep 17 00:00:00 2001
 From: Shreyas NC <shreyas.nc@intel.com>
 Date: Wed, 8 Mar 2017 03:08:18 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Define tokens for aggregation

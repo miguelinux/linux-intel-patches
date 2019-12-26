@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e4e4e2d68dfe74f9ed954a67aa55a4c88dce2879 Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Thu, 7 Feb 2019 12:10:28 +0100
 Subject: [PATCH] ASoC: Intel: Skl: Virt: Latency improvement

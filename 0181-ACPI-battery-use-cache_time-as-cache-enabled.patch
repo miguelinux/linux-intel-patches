@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From cb03e5d863944579b9a05048c2467ba44b821f12 Mon Sep 17 00:00:00 2001
 From: Lucas Rangit Magasweran <lucas.magasweran@ieee.org>
 Date: Sat, 14 Jul 2018 15:38:29 -0700
 Subject: [PATCH] ACPI: battery: use cache_time as cache "enabled"

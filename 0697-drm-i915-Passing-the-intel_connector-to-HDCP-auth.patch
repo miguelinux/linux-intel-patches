@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a417b30fed2cc5af0e049cfa0bf879c8db158981 Mon Sep 17 00:00:00 2001
 From: "Romli, Khairul Anuar" <khairul.anuar.romli@intel.com>
 Date: Tue, 9 Oct 2018 19:02:37 +0800
 Subject: [PATCH] drm/i915: Passing the intel_connector to HDCP auth

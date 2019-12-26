@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 396afae1f4ea2fc3fdc271247664bc5bbf695fbc Mon Sep 17 00:00:00 2001
 From: Vincent Cao <vincent.t.cao@intel.com>
 Date: Tue, 19 Jun 2018 16:49:01 -0700
 Subject: [PATCH] TEE/OPTEE: Adds a kernel internal TEE client interface

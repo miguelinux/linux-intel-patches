@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 39b752f47491a3bbfb9ac6e9c53ef80aae3460ec Mon Sep 17 00:00:00 2001
 From: Wojciech Jablonski <wojciech.jablonski@intel.com>
 Date: Fri, 22 Mar 2019 15:01:03 +0100
 Subject: [PATCH] ASoC: Intel: Skl: Virt: Load audio firmware over virtio

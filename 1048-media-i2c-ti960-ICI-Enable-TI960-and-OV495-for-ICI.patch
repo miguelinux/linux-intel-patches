@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 99e4e919067a3a4825ebfb1dc612d329efe692b4 Mon Sep 17 00:00:00 2001
 From: "Gopal, Puunithaaraj" <puunithaaraj.gopal@intel.com>
 Date: Thu, 31 Jan 2019 22:38:55 +0800
 Subject: [PATCH] media: i2c: ti960: [ICI] Enable TI960 and OV495 for ICI

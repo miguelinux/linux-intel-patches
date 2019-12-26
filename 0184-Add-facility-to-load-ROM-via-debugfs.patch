@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c0da6749b952a6c612d2c9b52fb1afab7ac095ec Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Tue, 17 Nov 2015 05:27:39 +0530
 Subject: [PATCH] Add facility to load ROM via debugfs

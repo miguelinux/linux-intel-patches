@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 7075430647a52419b4f31d6ab0717095ff0be5a9 Mon Sep 17 00:00:00 2001
 From: Hao Li <hao.l.li@intel.com>
 Date: Fri, 31 Aug 2018 10:58:58 +0800
 Subject: [PATCH] virtio framework: support ACRN virtio devices

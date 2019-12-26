@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 70ebd5a3774f7c05a32dd97cacb37032a729c38e Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Mon, 6 Mar 2017 09:47:50 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Split dais and add flag for dynamic

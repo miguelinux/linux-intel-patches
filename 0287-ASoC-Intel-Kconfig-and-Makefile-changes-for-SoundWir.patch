@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ddde7a9e153b0eceebfb21bb72adf5a933f7456b Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Tue, 13 Dec 2016 11:17:20 +0530
 Subject: [PATCH] ASoC: Intel: Kconfig and Makefile changes for SoundWire

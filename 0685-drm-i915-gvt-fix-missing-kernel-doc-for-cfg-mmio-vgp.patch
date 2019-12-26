@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 32a67be8bd78c337c4b8de120b4cb80e3e6f3a02 Mon Sep 17 00:00:00 2001
 From: Xinyun Liu <xinyun.liu@intel.com>
 Date: Mon, 22 Oct 2018 10:40:18 +0800
 Subject: [PATCH] drm/i915/gvt: fix missing kernel doc for cfg/mmio/vgpu/mpt

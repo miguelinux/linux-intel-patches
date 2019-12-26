@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f4c2a4b33556c24e3b761e9bcd8efe3c13584f28 Mon Sep 17 00:00:00 2001
 From: sys_oak <sys_oak@intel.com>
 Date: Fri, 9 Nov 2018 18:07:41 -0800
 Subject: [PATCH] test configs use for clean and android bare metal BAT testing

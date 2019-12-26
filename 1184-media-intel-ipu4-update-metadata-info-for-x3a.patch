@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 09af82a97bac45917d4f8ccd345d822dac368380 Mon Sep 17 00:00:00 2001
 From: qianmenx <qianx.meng@intel.com>
 Date: Thu, 9 May 2019 10:42:25 +0800
 Subject: [PATCH] media: intel-ipu4: update metadata info for x3a

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 7afec9a25e4d59a8cd2c20f4b28b3c7654e069c7 Mon Sep 17 00:00:00 2001
 From: qianmenx <qianx.meng@intel.com>
 Date: Tue, 21 May 2019 11:37:37 +0800
 Subject: [PATCH] media: intel-ipu4: ox03a10: change metadata set

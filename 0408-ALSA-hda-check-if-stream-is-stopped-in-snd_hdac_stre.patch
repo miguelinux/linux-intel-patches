@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From e01e457e80f76f671fcc0a7e90cd65992866667e Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Tue, 17 Oct 2017 23:01:00 +0530
 Subject: [PATCH] ALSA: hda: check if stream is stopped in

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 8c687c53c5de4117173fcb8663e881417d68d192 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Mon, 15 Oct 2018 14:03:26 +0300
 Subject: [PATCH] tpm: tpm_try_transmit() refactor error flow.

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 37537721b4891e1e5f9474b1ed3780a524b6448e Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Wed, 24 Feb 2016 17:04:30 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Support Pipeline Properties IPC

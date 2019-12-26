@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ae5ecbcd3ac1b41be43128188fb2f8d24b5bf26c Mon Sep 17 00:00:00 2001
 From: Yonghua Huang <yonghua.huang@intel.com>
 Date: Sat, 27 Oct 2018 02:10:21 +0800
 Subject: [PATCH] kernel: remove deprecated VHM IOCTLs

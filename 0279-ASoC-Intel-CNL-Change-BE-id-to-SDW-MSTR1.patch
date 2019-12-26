@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 30e247ba41f99fbeea4d9b524130ef2ab30a4b02 Mon Sep 17 00:00:00 2001
 From: Shreyas NC <shreyas.nc@intel.com>
 Date: Tue, 25 Oct 2016 13:04:39 +0530
 Subject: [PATCH] ASoC: Intel: CNL: Change BE id to SDW MSTR1

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4f38d98ddc133c81663b4ce5e5d1a1b340c7ff26 Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Fri, 23 Jan 2015 17:55:48 -0800
 Subject: [PATCH] trusty: Add smp support

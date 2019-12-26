@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6accc46609dfb0508af21d4992662e346c0b00a4 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Mon, 14 Jan 2019 10:29:40 +0800
 Subject: [PATCH] media: intel-ipu4: restore back ox03a init sequence

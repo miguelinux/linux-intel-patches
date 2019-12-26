@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c8ff0f7effc7742fed3ee4f51d6b9f750cd38278 Mon Sep 17 00:00:00 2001
 From: Senthilnathan Veppur <senthilnathanx.veppur@intel.com>
 Date: Wed, 23 Mar 2016 16:46:08 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Add check for buffer overflow

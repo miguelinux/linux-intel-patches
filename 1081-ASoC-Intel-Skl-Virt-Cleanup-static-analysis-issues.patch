@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ab7aa02f82cba38d026c501795479cdf1e7d11f2 Mon Sep 17 00:00:00 2001
 From: Marcin Pietraszko <marcin.pietraszko@intel.com>
 Date: Thu, 7 Mar 2019 15:06:13 +0100
 Subject: [PATCH] ASoC: Intel: Skl: Virt: Cleanup static analysis issues

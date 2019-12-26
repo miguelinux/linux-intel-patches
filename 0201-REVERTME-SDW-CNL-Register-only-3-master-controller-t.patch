@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f5600418c635ae6e9b862968002be8f41d47f834 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 17 Mar 2016 11:19:29 +0530
 Subject: [PATCH] REVERTME:SDW:CNL: Register only 3 master controller to bus.

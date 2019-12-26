@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From b4f6ce113bcf87f97c584b659bcb36f7571e0ef7 Mon Sep 17 00:00:00 2001
 From: Gustaw Lewandowski <gustaw.lewandowski@intel.com>
 Date: Tue, 30 Oct 2018 14:46:08 +0100
 Subject: [PATCH] Revert "ASoC: tdf8532: add crit sections"

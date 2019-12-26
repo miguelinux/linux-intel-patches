@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6da4c9f18325f4b62a99c7c5ad321a5ff0932af0 Mon Sep 17 00:00:00 2001
 From: Alexander Shishkin <alexander.shishkin@linux.intel.com>
 Date: Fri, 5 Oct 2018 15:43:01 +0300
 Subject: [PATCH] stm class: Document the MIPI SyS-T protocol usage

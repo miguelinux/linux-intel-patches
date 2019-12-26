@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a57c0f007bc06213d59f886edc78587571c20887 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Mon, 2 May 2016 15:09:22 +0530
 Subject: [PATCH] ASoC:CNL: Add support for aggregated gateways.

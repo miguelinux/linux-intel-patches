@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 181d2b669a20c7ab48cad037ffedf9145f9523fe Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Tue, 6 Mar 2018 10:58:06 +0200
 Subject: [PATCH] tpm: move tpm 1.x selftest code from tpm-interface.c

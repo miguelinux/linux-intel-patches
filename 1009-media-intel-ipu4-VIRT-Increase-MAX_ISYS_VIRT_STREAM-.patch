@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 65d743d543908e2b0b6f0227fa6a5aaf279d9177 Mon Sep 17 00:00:00 2001
 From: "Gopal, Puunithaaraj" <puunithaaraj.gopal@intel.com>
 Date: Wed, 30 Jan 2019 23:44:12 +0800
 Subject: [PATCH] media: intel-ipu4: [VIRT] Increase MAX_ISYS_VIRT_STREAM to 35

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d61d3cd7540afc5f7fb2725d9ba2d680bc303faa Mon Sep 17 00:00:00 2001
 From: Wei Liu <weix.w.liu@intel.com>
 Date: Thu, 20 Sep 2018 10:16:56 +0800
 Subject: [PATCH] vhm: enable -Werror while compiling vhm/vbs/hyper-dmabuf

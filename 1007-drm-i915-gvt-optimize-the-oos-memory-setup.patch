@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a7269ab0d00eb062b2f635077664f7efa0ff8ba0 Mon Sep 17 00:00:00 2001
 From: Feng Tang <feng.tang@intel.com>
 Date: Wed, 30 Jan 2019 13:39:58 +0800
 Subject: [PATCH] drm/i915/gvt: optimize the oos memory setup

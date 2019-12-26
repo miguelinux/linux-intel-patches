@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 34a874bb246ca9dbc3bb0e1c2a06d2f117d9f8a6 Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Mon, 18 Nov 2013 20:46:48 -0800
 Subject: [PATCH] trusty: Add trusty driver

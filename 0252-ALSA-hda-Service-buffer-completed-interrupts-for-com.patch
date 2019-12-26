@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 055f87596e2a186a2c0d63421be3ab83fa8569d1 Mon Sep 17 00:00:00 2001
 From: Divya Prakash <divya1.prakash@intel.com>
 Date: Wed, 20 Apr 2016 10:04:07 +0530
 Subject: [PATCH] ALSA: hda: Service buffer completed interrupts for compress

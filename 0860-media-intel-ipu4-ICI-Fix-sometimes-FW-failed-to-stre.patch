@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c06757df75dd8934281b41459c559f5d045adaab Mon Sep 17 00:00:00 2001
 From: Ong Hock Yu <ong.hock.yu@intel.com>
 Date: Wed, 2 Jan 2019 18:53:59 +0000
 Subject: [PATCH] media: intel-ipu4: [ICI] Fix sometimes FW failed to stream

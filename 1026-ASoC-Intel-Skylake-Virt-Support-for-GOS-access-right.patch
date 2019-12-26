@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f11b4f61d6a4b79d25a1d05242e20c1d31065eee Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Fri, 30 Nov 2018 08:38:19 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Virt: Support for GOS access rights

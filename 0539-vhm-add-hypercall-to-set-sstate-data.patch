@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 8d2b507f282b8966a16c34c2ccb0c350243a87ca Mon Sep 17 00:00:00 2001
 From: Victor Sun <victor.sun@intel.com>
 Date: Fri, 31 Aug 2018 10:59:01 +0800
 Subject: [PATCH] vhm: add hypercall to set sstate data

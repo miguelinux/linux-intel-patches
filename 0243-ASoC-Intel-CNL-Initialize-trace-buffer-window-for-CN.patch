@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6c3936a87747ca5f8b853b8a494549b5eccd0b8c Mon Sep 17 00:00:00 2001
 From: "Panwar, Ashish" <ashish.panwar@intel.com>
 Date: Fri, 18 Mar 2016 16:01:07 +0530
 Subject: [PATCH] ASoC: Intel: CNL: Initialize trace buffer window for CNL

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 94d2ad15dc5934adc898c2e8a5c0dd3c3c5bbfa3 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Sat, 23 Apr 2016 18:41:07 +0530
 Subject: [PATCH] ASoC:Codecs: Add support for SV FPGA SoundWire PDM Codec.

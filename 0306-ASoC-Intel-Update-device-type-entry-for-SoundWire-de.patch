@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c1949a8f705deb47b3761abe6034d6a74067ecef Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Fri, 17 Feb 2017 11:58:27 +0530
 Subject: [PATCH] ASoC: Intel: Update device type entry for SoundWire device

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From af739b553b03b30dcb867cd2a391e63e5e8632ce Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Mon, 10 Dec 2018 11:09:27 +0800
 Subject: [PATCH] media: intel-ipu4: adv7481_hdmi: Fix S3 resume

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From cb2c9ca245a1f1de7ecc627bc6258e5844c171d3 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 14 Apr 2016 12:02:14 +0530
 Subject: [PATCH] Load nhlt from firmware instead of debugfs

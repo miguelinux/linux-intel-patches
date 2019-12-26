@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From dfc65d0930ff83d319a0211fa697e8e7fbc01982 Mon Sep 17 00:00:00 2001
 From: Wei Liu <weix.w.liu@intel.com>
 Date: Wed, 19 Sep 2018 16:21:22 +0800
 Subject: [PATCH] hyper_dmabuf: fix compile warnings in hyper_dmabuf

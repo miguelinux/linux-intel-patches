@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 62c244be83eeb2ef3bb7f47ac9e9a799249ba95a Mon Sep 17 00:00:00 2001
 From: Mohit Sinha <mohit.sinha@intel.com>
 Date: Mon, 4 Sep 2017 23:31:17 +0530
 Subject: [PATCH] ASoC: Intel: Board: Add fixup for 32 bit masking

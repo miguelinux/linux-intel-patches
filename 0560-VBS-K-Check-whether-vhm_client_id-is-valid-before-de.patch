@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From fe6749f37a235082c39862d0c081d4131f046a1b Mon Sep 17 00:00:00 2001
 From: Jian Jun Chen <jian.jun.chen@intel.com>
 Date: Fri, 31 Aug 2018 10:59:03 +0800
 Subject: [PATCH] VBS-K: Check whether vhm_client_id is valid before deregister

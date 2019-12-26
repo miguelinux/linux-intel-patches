@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c0f77803292c1641edc7ed9aae4234aaca6b4f94 Mon Sep 17 00:00:00 2001
 From: Sameer Sharma <sameerx.sharma@intel.com>
 Date: Thu, 7 Jun 2018 17:28:42 +0530
 Subject: [PATCH] ASoC: Intel: board: Add support for FE dynamic dai for ULL

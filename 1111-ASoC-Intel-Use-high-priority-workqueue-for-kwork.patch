@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 57250894eb04edaca452416483cbec7ae2164e4d Mon Sep 17 00:00:00 2001
 From: Dominik Bozek <dominikx.bozek@intel.com>
 Date: Tue, 28 May 2019 10:12:19 +0200
 Subject: [PATCH] ASoC: Intel: Use high priority workqueue for kwork

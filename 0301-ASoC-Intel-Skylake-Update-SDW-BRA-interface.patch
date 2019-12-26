@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 95c4eca1d34d79ce6e02f4ad735831ecfd3d234e Mon Sep 17 00:00:00 2001
 From: Shreyas NC <shreyas.nc@intel.com>
 Date: Mon, 23 Jan 2017 05:43:58 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Update SDW BRA interface

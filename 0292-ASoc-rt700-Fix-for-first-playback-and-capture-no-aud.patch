@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6e39b1c0152309713be40dde502ac09dbbc3276c Mon Sep 17 00:00:00 2001
 From: bardliao <bardliao@realtek.com>
 Date: Tue, 10 Jan 2017 10:54:11 +0530
 Subject: [PATCH] ASoc: rt700: Fix for first playback and capture no audio

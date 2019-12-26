@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ca8c4e5382adc24e983e5d584f214519e295e311 Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Fri, 4 Jan 2019 08:42:57 +0800
 Subject: [PATCH] Security: improvement for depressing compile warning

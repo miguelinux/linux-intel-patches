@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f8e5c380d74a3d4912a4c2c513cfbfa6b721874d Mon Sep 17 00:00:00 2001
 From: Gustaw Lewandowski <gustaw.lewandowski@intel.com>
 Date: Tue, 24 Jul 2018 16:30:03 +0200
 Subject: [PATCH] Revert "ASoC: topology: Increase SND_SOC_TPLG_NUM_TEXTS to

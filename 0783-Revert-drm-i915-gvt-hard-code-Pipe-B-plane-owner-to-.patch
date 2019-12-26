@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 57d2674a6b12957b9020323b71bfec80a8804f45 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Wed, 28 Nov 2018 09:22:21 +0000
 Subject: [PATCH] Revert "drm/i915/gvt: hard code Pipe B plane owner to UOS"

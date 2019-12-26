@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From baa43756ed1711865512d89cb1c3d83a08f0715d Mon Sep 17 00:00:00 2001
 From: Jon Moeller <jon.moeller@intel.com>
 Date: Tue, 8 Jan 2019 20:29:09 -0600
 Subject: [PATCH] platform/x86: Change struct fields to 16-bit in sep,

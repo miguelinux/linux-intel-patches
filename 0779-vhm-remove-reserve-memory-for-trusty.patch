@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a52cad1eb24fb1bf5706d1ba48ade4c273557a24 Mon Sep 17 00:00:00 2001
 From: "Li, Fei1" <fei1.li@intel.com>
 Date: Wed, 28 Nov 2018 23:32:05 +0800
 Subject: [PATCH] vhm: remove "reserve memory for trusty"

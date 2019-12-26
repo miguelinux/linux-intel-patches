@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c60a4a1d0cb129f4d7b59c324a3bc1fab20c5379 Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Tue, 10 Apr 2018 23:46:48 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Add support to notify resource event

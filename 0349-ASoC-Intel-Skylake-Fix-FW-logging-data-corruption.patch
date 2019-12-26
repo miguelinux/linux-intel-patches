@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From efcf9e1d56526c1845b4e1389fd468f42e366364 Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Mon, 7 Nov 2016 13:38:52 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Fix FW logging data corruption

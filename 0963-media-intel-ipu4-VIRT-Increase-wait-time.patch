@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 66bed2c92f23110b61fdc09d4b296a3182637ccd Mon Sep 17 00:00:00 2001
 From: Ng Khai Wen <khai.wen.ng@intel.com>
 Date: Tue, 22 Jan 2019 18:02:57 +0800
 Subject: [PATCH] media: intel-ipu4: [VIRT] Increase wait time

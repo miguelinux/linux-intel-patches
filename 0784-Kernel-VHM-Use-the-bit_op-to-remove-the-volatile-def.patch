@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 26d8d653a0b65c1eb554bfdf520e9b2983de4885 Mon Sep 17 00:00:00 2001
 From: Zhao Yakui <yakui.zhao@intel.com>
 Date: Thu, 29 Nov 2018 13:58:07 +0800
 Subject: [PATCH] Kernel/VHM: Use the bit_op to remove the volatile definition

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f1d6d190dc1d472a2718207c3ba9fe49083a3ee0 Mon Sep 17 00:00:00 2001
 From: Vinicius Costa Gomes <vinicius.gomes@intel.com>
 Date: Fri, 28 Sep 2018 17:59:43 -0700
 Subject: [PATCH] tc: Add support for configuring the taprio scheduler

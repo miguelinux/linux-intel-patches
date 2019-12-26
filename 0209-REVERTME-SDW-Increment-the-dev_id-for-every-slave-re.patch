@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 170b8e57899b7db128488ea87656887a2465e814 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Fri, 29 Apr 2016 12:14:37 +0530
 Subject: [PATCH] REVERTME:SDW: Increment the dev_id for every slave register

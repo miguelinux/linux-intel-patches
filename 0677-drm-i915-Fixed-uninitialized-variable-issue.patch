@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d550b9342256a50758915cf326c73d8746697aa9 Mon Sep 17 00:00:00 2001
 From: Satyeshwar Singh <satyeshwar.singh@intel.com>
 Date: Sun, 14 Oct 2018 16:40:07 -0700
 Subject: [PATCH] drm/i915: Fixed uninitialized variable issue

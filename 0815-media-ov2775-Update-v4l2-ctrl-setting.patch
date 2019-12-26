@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 135836296aa4d5ec5afd8bd82aac8a7c63c9fb82 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Tue, 27 Nov 2018 19:31:50 +0800
 Subject: [PATCH] media: ov2775: Update v4l2 ctrl setting

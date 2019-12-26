@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4728c0e49409c8612a18be55fbba7210488d4c9e Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Thu, 2 Aug 2018 14:54:47 +0300
 Subject: [PATCH] mei: add connect with vtag ioctl

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 277af1f6118edde6a2b836bea273eb8999d65ecc Mon Sep 17 00:00:00 2001
 From: "Yang, Dong" <dong.yang@intel.com>
 Date: Tue, 23 Jul 2019 11:02:25 +0800
 Subject: [PATCH] drm/i915: Remove i915 ggtt WA since GT E

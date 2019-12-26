@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 684db6d09055daaa252615aabc8946ddfdccf8ad Mon Sep 17 00:00:00 2001
 From: "Zhang, Qi" <qi1.zhang@intel.com>
 Date: Wed, 28 Jun 2017 06:26:15 +0000
 Subject: [PATCH] check vmm signature for vmm dump

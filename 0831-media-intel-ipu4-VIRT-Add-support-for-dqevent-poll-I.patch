@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From cd0b8d4614396aafaa033c0e6d0b4e34159e500d Mon Sep 17 00:00:00 2001
 From: Ong Hock Yu <ong.hock.yu@intel.com>
 Date: Tue, 13 Nov 2018 00:54:11 +0000
 Subject: [PATCH] media: intel-ipu4: [VIRT] Add support for dqevent/poll IOCTL

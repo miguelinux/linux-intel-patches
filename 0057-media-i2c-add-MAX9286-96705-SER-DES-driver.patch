@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 7a448edb1a0b3593294cb2a115f64e73bccbd285 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Fri, 26 Oct 2018 09:52:52 +0800
 Subject: [PATCH] media: i2c: add MAX9286/96705 SER/DES driver

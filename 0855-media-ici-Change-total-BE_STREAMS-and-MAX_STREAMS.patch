@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 125694df71750b0653a87ee89fb8a750e633b2cf Mon Sep 17 00:00:00 2001
 From: "Gopal, Puunithaaraj" <puunithaaraj.gopal@intel.com>
 Date: Tue, 11 Dec 2018 23:31:18 +0800
 Subject: [PATCH] media: ici: Change total BE_STREAMS and MAX_STREAMS

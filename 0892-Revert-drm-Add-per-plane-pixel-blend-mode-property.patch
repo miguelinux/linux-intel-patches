@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 56b0329e9ed204e7eb214e6b10c1d3c14a89905c Mon Sep 17 00:00:00 2001
 From: "Pan, Kris" <kris.pan@intel.com>
 Date: Thu, 17 Jan 2019 01:02:59 -0800
 Subject: [PATCH] Revert "drm: Add per-plane pixel blend mode property"

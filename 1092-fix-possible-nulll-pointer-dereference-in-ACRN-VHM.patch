@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 4a0b345cd468fadd62fd66330879a38e2dd3e99a Mon Sep 17 00:00:00 2001
 From: Yonghua Huang <yonghua.huang@intel.com>
 Date: Tue, 23 Apr 2019 01:34:01 +0800
 Subject: [PATCH] fix possible nulll pointer dereference in ACRN VHM

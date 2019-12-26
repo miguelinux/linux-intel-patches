@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From ff849c847a0c810035632f37af42960f8d97cef4 Mon Sep 17 00:00:00 2001
 From: Chen Meng J <meng.j.chen@intel.com>
 Date: Mon, 3 Jun 2019 15:18:01 +0800
 Subject: [PATCH] media: intel-ipu4: ox03a10: 30 fps for mode 1920x1280

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 3f3d2553a0be1646dc34e20d9cbfb89b88a22d39 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Fri, 14 Sep 2018 16:10:22 +0800
 Subject: [PATCH] drm/i915: to limit the supported modifiers for plane

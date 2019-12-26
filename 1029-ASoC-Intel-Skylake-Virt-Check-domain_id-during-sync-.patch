@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 576094a8f0d963ff3648228f2ca9c814fa244a60 Mon Sep 17 00:00:00 2001
 From: Wojciech Jablonski <wojciech.jablonski@intel.com>
 Date: Fri, 14 Dec 2018 12:46:49 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Virt: Check domain_id during sync

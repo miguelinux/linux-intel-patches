@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From bec96913ec7e265b0420dbeb712d9a693367da09 Mon Sep 17 00:00:00 2001
 From: Piotr Maziarz <piotrx.maziarz@intel.com>
 Date: Wed, 13 Mar 2019 11:32:27 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: make function static inline

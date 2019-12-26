@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 354d4dca358b823b046927cfa6a5e3b6106ef569 Mon Sep 17 00:00:00 2001
 From: Dongwon Kim <dongwon.kim@intel.com>
 Date: Thu, 18 Oct 2018 11:43:57 -0700
 Subject: [PATCH] hyper_dmabuf: refine Kconfig and Makefile

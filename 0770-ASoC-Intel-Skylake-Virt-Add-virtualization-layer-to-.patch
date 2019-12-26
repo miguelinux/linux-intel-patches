@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f06a40b65633ae89a47accdb6d8d903848ea09fb Mon Sep 17 00:00:00 2001
 From: Pawel Furtak <pawel.furtak@intel.com>
 Date: Sun, 25 Nov 2018 18:05:54 +0100
 Subject: [PATCH] ASoC: Intel: Skylake: Virt: Add virtualization layer to skl

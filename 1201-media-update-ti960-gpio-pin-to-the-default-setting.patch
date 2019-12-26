@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 557a2345456968940cf954fac8c0807e9c6316eb Mon Sep 17 00:00:00 2001
 From: Yang Zhonghua <zhonghuax.yang@intel.com>
 Date: Thu, 5 Sep 2019 17:39:30 +0800
 Subject: [PATCH] media: update ti960 gpio pin to the default setting

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From d6b56974669e2a2ff7d2bddf0ef7057c9f89d599 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Tue, 27 Nov 2018 19:32:21 +0800
 Subject: [PATCH] media: ti964: pdata for AS_1140

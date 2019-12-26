@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 05c9ebb08dac52fec2d395175a9592d6b0ab3eaa Mon Sep 17 00:00:00 2001
 From: Anil Bhawangirkar <anil.k.bhawangirkar@intel.com>
 Date: Wed, 17 Aug 2016 12:19:51 +0530
 Subject: [PATCH] ASoC: Intel: CNL: Fetch ACPI data for SoundWire Master

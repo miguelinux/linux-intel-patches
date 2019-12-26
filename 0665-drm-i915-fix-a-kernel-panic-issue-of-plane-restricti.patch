@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From c6d7ffe092c7aee0437d73fe061e30ec882f681c Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Tue, 14 Aug 2018 02:24:22 +0000
 Subject: [PATCH] drm/i915: fix a kernel panic issue of plane restriction

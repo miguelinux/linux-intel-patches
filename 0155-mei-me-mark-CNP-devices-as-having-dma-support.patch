@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6d48c6b4eabf54cd9b36663036abc2e250fd1c59 Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Thu, 17 Nov 2016 13:00:41 +0200
 Subject: [PATCH] mei: me: mark CNP devices as having dma support

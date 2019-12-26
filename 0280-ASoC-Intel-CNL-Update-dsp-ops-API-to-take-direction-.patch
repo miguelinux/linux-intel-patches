@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From a2e5065e2210cff581edbcd868abf371cc8bc5ae Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Sun, 2 Jul 2017 11:30:20 +0530
 Subject: [PATCH] ASoC: Intel: CNL: Update dsp ops API to take direction as

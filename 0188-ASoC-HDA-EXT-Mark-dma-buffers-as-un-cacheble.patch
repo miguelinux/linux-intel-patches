@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 623ab9e72c9d1aecdadd3dd2b8f9678e873db3a4 Mon Sep 17 00:00:00 2001
 From: Ramesh Babu <ramesh.babu@intel.com>
 Date: Tue, 17 Nov 2015 02:33:39 +0530
 Subject: [PATCH] ASoC: HDA: EXT: Mark dma buffers as un-cacheble

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 6aab3ddf808016da8027e71058d0d38b53245601 Mon Sep 17 00:00:00 2001
 From: Shreyas NC <shreyas.nc@intel.com>
 Date: Tue, 25 Oct 2016 13:03:36 +0530
 Subject: [PATCH] Add #if for platform/codec name in cnl_rt700 machine

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 8d9e802aae1532fe8aa09fe0a9dbd86f12ce367c Mon Sep 17 00:00:00 2001
 From: Jeeja KP <jeeja.kp@intel.com>
 Date: Wed, 6 Dec 2006 11:28:06 +0530
 Subject: [PATCH] ASoC: Intel: Add support for Icelake IDs

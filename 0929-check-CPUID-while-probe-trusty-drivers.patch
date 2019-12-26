@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From cf0d0c78d8951815116606021675808c77bf4b53 Mon Sep 17 00:00:00 2001
 From: yingbinx <yingbinx.zeng@intel.com>
 Date: Mon, 27 Mar 2017 12:24:04 +0800
 Subject: [PATCH] check CPUID while probe trusty drivers.

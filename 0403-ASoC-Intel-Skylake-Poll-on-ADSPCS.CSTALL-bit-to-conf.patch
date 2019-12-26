@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 590bcaf60d20f9e6830d89361ed6cf3d8022c19f Mon Sep 17 00:00:00 2001
 From: Mohit Sinha <mohit.sinha@intel.com>
 Date: Thu, 16 Nov 2017 21:35:07 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Poll on ADSPCS.CSTALL bit to confirm

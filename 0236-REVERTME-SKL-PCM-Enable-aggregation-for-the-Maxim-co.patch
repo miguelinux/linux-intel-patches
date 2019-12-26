@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 927d4a83e7ff96478ba24c8f1d8d949b8381450b Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Fri, 20 May 2016 15:02:36 +0530
 Subject: [PATCH] REVERTME:SKL:PCM: Enable aggregation for the Maxim codec.

@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From bd833aae04788c840b6518d627dd1fdb2964ebf4 Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Fri, 17 Feb 2017 12:08:49 +0530
 Subject: [PATCH] ASoC: Intel: Skylake: Use device type to determine SoundWire

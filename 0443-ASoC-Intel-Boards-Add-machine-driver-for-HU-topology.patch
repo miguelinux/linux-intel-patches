@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From f63767aea731dfebf5c2a97ced34b73319c4070a Mon Sep 17 00:00:00 2001
 From: Puneeth Prabhu <puneethx.prabhu@intel.com>
 Date: Mon, 7 May 2018 17:22:32 +0530
 Subject: [PATCH] ASoC: Intel: Boards: Add machine driver for HU topology

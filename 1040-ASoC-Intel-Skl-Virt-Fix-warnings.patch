@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 9778c9b658e35c89b53bd6093460e9070216ff86 Mon Sep 17 00:00:00 2001
 From: Wojciech Jablonski <wojciech.jablonski@intel.com>
 Date: Tue, 26 Feb 2019 19:35:46 +0100
 Subject: [PATCH] ASoC: Intel: Skl: Virt: Fix warnings

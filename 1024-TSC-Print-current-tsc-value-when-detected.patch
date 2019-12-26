@@ -1,4 +1,4 @@
-From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From 2cab91d7c661c72990d49237ea7e7a5666b1fb6e Mon Sep 17 00:00:00 2001
 From: Wang Chaox <chaox.m.wang@intel.com>
 Date: Fri, 22 Feb 2019 15:18:23 +0800
 Subject: [PATCH] TSC: Print current tsc value when detected
