@@ -1,4 +1,4 @@
-From 8c18c989bbe21f130c1999dc3bbf9987cc3adb10 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Casey Schaufler <casey@schaufler-ca.com>
 Date: Mon, 27 Aug 2018 15:16:06 -0700
 Subject: [PATCH] LSM: Infrastructure management of the cred security blob
@@ -70,10 +70,10 @@ index 97a020c616ad..0bef312efd45 100644
 +
  #endif /* ! __LINUX_LSM_HOOKS_H */
 diff --git a/kernel/cred.c b/kernel/cred.c
-index ecf03657e71c..fa2061ee4955 100644
+index a9f0f8b21d8c..ec0413389723 100644
 --- a/kernel/cred.c
 +++ b/kernel/cred.c
-@@ -704,19 +704,6 @@ bool creds_are_invalid(const struct cred *cred)
+@@ -730,19 +730,6 @@ bool creds_are_invalid(const struct cred *cred)
  {
  	if (cred->magic != CRED_MAGIC)
  		return true;
@@ -116,10 +116,10 @@ index d9aa521b5206..0447d9d8c875 100644
  	bool "Enable the securityfs filesystem"
  	help
 diff --git a/security/apparmor/domain.c b/security/apparmor/domain.c
-index 08c88de0ffda..726910bba84b 100644
+index bdf9e4cefe25..4fca9dac4345 100644
 --- a/security/apparmor/domain.c
 +++ b/security/apparmor/domain.c
-@@ -975,7 +975,7 @@ int apparmor_bprm_set_creds(struct linux_binprm *bprm)
+@@ -979,7 +979,7 @@ int apparmor_bprm_set_creds(struct linux_binprm *bprm)
  	}
  	aa_put_label(cred_label(bprm->cred));
  	/* transfer reference, released when cred is freed */
@@ -271,7 +271,7 @@ index c6b78a14da91..4551110f0496 100644
  	/* clear exec && prev information when restoring to previous context */
  	aa_clear_task_ctx_trans(ctx);
 diff --git a/security/security.c b/security/security.c
-index 3dfe75d0d373..ff7df14f6db1 100644
+index fb75d362ff48..b491c504af03 100644
 --- a/security/security.c
 +++ b/security/security.c
 @@ -41,6 +41,8 @@ struct security_hook_heads security_hook_heads __lsm_ro_after_init;
@@ -381,7 +381,7 @@ index 3dfe75d0d373..ff7df14f6db1 100644
  /*
   * Hook list operation macros.
   *
-@@ -998,17 +1079,36 @@ void security_task_free(struct task_struct *task)
+@@ -998,7 +1079,15 @@ void security_task_free(struct task_struct *task)
  
  int security_cred_alloc_blank(struct cred *cred, gfp_t gfp)
  {
@@ -398,7 +398,9 @@ index 3dfe75d0d373..ff7df14f6db1 100644
  }
  
  void security_cred_free(struct cred *cred)
- {
+@@ -1011,11 +1100,22 @@ void security_cred_free(struct cred *cred)
+ 		return;
+ 
  	call_void_hook(cred_free, cred);
 +
 +	kfree(cred->security);
@@ -421,7 +423,7 @@ index 3dfe75d0d373..ff7df14f6db1 100644
  
  void security_transfer_creds(struct cred *new, const struct cred *old)
 diff --git a/security/selinux/hooks.c b/security/selinux/hooks.c
-index 9d6cdd21acb6..9b49698754a7 100644
+index e7f402903ccc..6e485d1ba2a4 100644
 --- a/security/selinux/hooks.c
 +++ b/security/selinux/hooks.c
 @@ -213,12 +213,9 @@ static void cred_init_security(void)
@@ -439,7 +441,7 @@ index 9d6cdd21acb6..9b49698754a7 100644
  }
  
  /*
-@@ -3898,53 +3895,17 @@ static int selinux_task_alloc(struct task_struct *task,
+@@ -3934,53 +3931,17 @@ static int selinux_task_alloc(struct task_struct *task,
  			    sid, sid, SECCLASS_PROCESS, PROCESS__FORK, NULL);
  }
  
@@ -496,7 +498,7 @@ index 9d6cdd21acb6..9b49698754a7 100644
  	return 0;
  }
  
-@@ -6894,6 +6855,10 @@ static void selinux_bpf_prog_free(struct bpf_prog_aux *aux)
+@@ -6940,6 +6901,10 @@ static void selinux_bpf_prog_free(struct bpf_prog_aux *aux)
  }
  #endif
  
@@ -507,7 +509,7 @@ index 9d6cdd21acb6..9b49698754a7 100644
  static struct security_hook_list selinux_hooks[] __lsm_ro_after_init = {
  	LSM_HOOK_INIT(binder_set_context_mgr, selinux_binder_set_context_mgr),
  	LSM_HOOK_INIT(binder_transaction, selinux_binder_transaction),
-@@ -6976,8 +6941,6 @@ static struct security_hook_list selinux_hooks[] __lsm_ro_after_init = {
+@@ -7022,8 +6987,6 @@ static struct security_hook_list selinux_hooks[] __lsm_ro_after_init = {
  	LSM_HOOK_INIT(file_open, selinux_file_open),
  
  	LSM_HOOK_INIT(task_alloc, selinux_task_alloc),
@@ -516,7 +518,7 @@ index 9d6cdd21acb6..9b49698754a7 100644
  	LSM_HOOK_INIT(cred_prepare, selinux_cred_prepare),
  	LSM_HOOK_INIT(cred_transfer, selinux_cred_transfer),
  	LSM_HOOK_INIT(cred_getsecid, selinux_cred_getsecid),
-@@ -7133,11 +7096,19 @@ static struct security_hook_list selinux_hooks[] __lsm_ro_after_init = {
+@@ -7179,11 +7142,19 @@ static struct security_hook_list selinux_hooks[] __lsm_ro_after_init = {
  
  static __init int selinux_init(void)
  {
@@ -583,7 +585,7 @@ index 0b55d6a55b26..0c6dce446825 100644
  /*
   * Use IPv6 port labeling if IPv6 is enabled and secmarks
 diff --git a/security/smack/smack_lsm.c b/security/smack/smack_lsm.c
-index 68ee3ae8f25c..a06ea8aa89c4 100644
+index 9d5d5584d2fa..8e093cda01b3 100644
 --- a/security/smack/smack_lsm.c
 +++ b/security/smack/smack_lsm.c
 @@ -309,29 +309,20 @@ static struct inode_smack *new_inode_smack(struct smack_known *skp)
@@ -620,7 +622,7 @@ index 68ee3ae8f25c..a06ea8aa89c4 100644
  }
  
  /**
-@@ -1958,14 +1949,7 @@ static int smack_file_open(struct file *file)
+@@ -1966,14 +1957,7 @@ static int smack_file_open(struct file *file)
   */
  static int smack_cred_alloc_blank(struct cred *cred, gfp_t gfp)
  {
@@ -636,7 +638,7 @@ index 68ee3ae8f25c..a06ea8aa89c4 100644
  	return 0;
  }
  
-@@ -1982,10 +1966,6 @@ static void smack_cred_free(struct cred *cred)
+@@ -1990,10 +1974,6 @@ static void smack_cred_free(struct cred *cred)
  	struct list_head *l;
  	struct list_head *n;
  
@@ -647,7 +649,7 @@ index 68ee3ae8f25c..a06ea8aa89c4 100644
  	smk_destroy_label_list(&tsp->smk_relabel);
  
  	list_for_each_safe(l, n, &tsp->smk_rules) {
-@@ -1993,7 +1973,6 @@ static void smack_cred_free(struct cred *cred)
+@@ -2001,7 +1981,6 @@ static void smack_cred_free(struct cred *cred)
  		list_del(&rp->list);
  		kfree(rp);
  	}
@@ -655,7 +657,7 @@ index 68ee3ae8f25c..a06ea8aa89c4 100644
  }
  
  /**
-@@ -2008,14 +1987,10 @@ static int smack_cred_prepare(struct cred *new, const struct cred *old,
+@@ -2016,14 +1995,10 @@ static int smack_cred_prepare(struct cred *new, const struct cred *old,
  			      gfp_t gfp)
  {
  	struct task_smack *old_tsp = smack_cred(old);
@@ -672,7 +674,7 @@ index 68ee3ae8f25c..a06ea8aa89c4 100644
  
  	rc = smk_copy_rules(&new_tsp->smk_rules, &old_tsp->smk_rules, gfp);
  	if (rc != 0)
-@@ -2023,10 +1998,7 @@ static int smack_cred_prepare(struct cred *new, const struct cred *old,
+@@ -2031,10 +2006,7 @@ static int smack_cred_prepare(struct cred *new, const struct cred *old,
  
  	rc = smk_copy_relabel(&new_tsp->smk_relabel, &old_tsp->smk_relabel,
  				gfp);
@@ -684,7 +686,7 @@ index 68ee3ae8f25c..a06ea8aa89c4 100644
  }
  
  /**
-@@ -4652,6 +4624,10 @@ static int smack_dentry_create_files_as(struct dentry *dentry, int mode,
+@@ -4668,6 +4640,10 @@ static int smack_dentry_create_files_as(struct dentry *dentry, int mode,
  	return 0;
  }
  
@@ -695,7 +697,7 @@ index 68ee3ae8f25c..a06ea8aa89c4 100644
  static struct security_hook_list smack_hooks[] __lsm_ro_after_init = {
  	LSM_HOOK_INIT(ptrace_access_check, smack_ptrace_access_check),
  	LSM_HOOK_INIT(ptrace_traceme, smack_ptrace_traceme),
-@@ -4830,23 +4806,35 @@ static __init void init_smack_known_list(void)
+@@ -4846,23 +4822,35 @@ static __init void init_smack_known_list(void)
   */
  static __init int smack_init(void)
  {
@@ -738,7 +740,7 @@ index 68ee3ae8f25c..a06ea8aa89c4 100644
  	smack_enabled = 1;
  
  	pr_info("Smack:  Initializing.\n");
-@@ -4860,20 +4848,9 @@ static __init int smack_init(void)
+@@ -4876,20 +4864,9 @@ static __init int smack_init(void)
  	pr_info("Smack:  IPv6 Netfilter enabled.\n");
  #endif
  
