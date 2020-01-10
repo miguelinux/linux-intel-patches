@@ -1,4 +1,4 @@
-From a5d23def797ba01126a428f688680eb4b0e26aae Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Fri, 26 Oct 2018 09:52:15 +0800
 Subject: [PATCH] v4l: subdev: Add [GS]_ROUTING subdev ioctls and operations
@@ -125,10 +125,10 @@ index 222653915699..1fbb67714312 100644
  	if (err)
  		return err;
 diff --git a/drivers/media/v4l2-core/v4l2-ioctl.c b/drivers/media/v4l2-core/v4l2-ioctl.c
-index 54afc9c7ee6e..41bfb83665ef 100644
+index 7675b645db2e..558d47d21698 100644
 --- a/drivers/media/v4l2-core/v4l2-ioctl.c
 +++ b/drivers/media/v4l2-core/v4l2-ioctl.c
-@@ -2924,6 +2924,22 @@ static int check_array_args(unsigned int cmd, void *parg, size_t *array_size,
+@@ -2929,6 +2929,22 @@ static int check_array_args(unsigned int cmd, void *parg, size_t *array_size,
  		}
  		break;
  	}

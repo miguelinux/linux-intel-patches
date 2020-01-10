@@ -1,4 +1,4 @@
-From ef04b8b4b56e7320ad7fbbe727a96df9cac4e135 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Fri, 26 Oct 2018 09:52:36 +0800
 Subject: [PATCH] v4l2-ctrl: Add platform specific v4l2 control

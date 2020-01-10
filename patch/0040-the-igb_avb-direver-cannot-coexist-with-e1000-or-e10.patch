@@ -1,4 +1,4 @@
-From 37085ee011b19c3b4aa909a748630a000ad83b70 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: "Gross, Mark" <mark.gross@intel.com>
 Date: Fri, 14 Sep 2018 13:16:02 -0700
 Subject: [PATCH] the igb_avb direver cannot coexist with e1000 or e1000e

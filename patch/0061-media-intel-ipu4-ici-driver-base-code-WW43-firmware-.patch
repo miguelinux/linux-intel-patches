@@ -1,4 +1,4 @@
-From c706c7244b0b9075746f7f96873321a88a60af81 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: "Yew, Chang Ching" <chang.ching.yew@intel.com>
 Date: Tue, 23 Oct 2018 13:23:05 +0800
 Subject: [PATCH] media: intel-ipu4: ici driver base code; WW43 firmware

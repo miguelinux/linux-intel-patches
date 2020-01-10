@@ -1,4 +1,4 @@
-From e42eecf0a0590f74ce4b593912783ecbffc8b826 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: "Vyas, Tarun" <tarun.vyas@intel.com>
 Date: Mon, 17 Sep 2018 01:16:08 +0000
 Subject: [PATCH] staging: igb_avb: Add PCI dependency to igb_avb Kconfig

@@ -1,4 +1,4 @@
-From 872b1bb97ac55a011f24ce19e0fc5a065bccecea Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Tue, 29 Mar 2016 16:14:01 +0300
 Subject: [PATCH] block: export block_class to be used by class interfaces
@@ -13,10 +13,10 @@ Signed-off-by: Tomas Winkler <tomas.winkler@intel.com>
  1 file changed, 1 insertion(+)
 
 diff --git a/block/genhd.c b/block/genhd.c
-index be5bab20b2ab..4c777e1b3bd9 100644
+index 2b2a936cf848..19acb969f408 100644
 --- a/block/genhd.c
 +++ b/block/genhd.c
-@@ -1284,6 +1284,7 @@ static void disk_release(struct device *dev)
+@@ -1303,6 +1303,7 @@ static void disk_release(struct device *dev)
  struct class block_class = {
  	.name		= "block",
  };

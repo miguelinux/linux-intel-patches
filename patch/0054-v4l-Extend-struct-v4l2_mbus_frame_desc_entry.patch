@@ -1,4 +1,4 @@
-From e9f06530a15c255188216f7dfaaafce49d9632af Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Fri, 26 Oct 2018 09:52:40 +0800
 Subject: [PATCH] v4l: Extend struct v4l2_mbus_frame_desc_entry

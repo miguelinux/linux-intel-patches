@@ -1,4 +1,4 @@
-From ca819334b50ae10bad0a57c68f10075efdb4b63e Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Sun, 13 Mar 2016 13:36:52 +0200
 Subject: [PATCH] rpmb: add sysfs-class ABI documentation
@@ -48,10 +48,10 @@ index 000000000000..a9d45aa77f77
 +		The /sys/class/rpmb/rpmbN directory is created for
 +		each RPMB registered device.
 diff --git a/MAINTAINERS b/MAINTAINERS
-index 3c99a53c4590..070cb20bcf78 100644
+index 8dec8dfa5c4b..d5d94a63db31 100644
 --- a/MAINTAINERS
 +++ b/MAINTAINERS
-@@ -12533,6 +12533,7 @@ L:	linux-kernel@vger.kernel.org
+@@ -12539,6 +12539,7 @@ L:	linux-kernel@vger.kernel.org
  S:	Supported
  F:	drivers/char/rpmb/*
  F:	include/linux/rpmb.h

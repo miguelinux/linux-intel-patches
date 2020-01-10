@@ -1,4 +1,4 @@
-From 3003eb134054ba35db057ff3b34ccc44ca903b8a Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: "Pottratz, Dwane" <dwane.pottratz@intel.com>
 Date: Fri, 27 Jan 2017 10:18:38 -0800
 Subject: [PATCH] greybus: Remove android make file

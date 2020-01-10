@@ -1,4 +1,4 @@
-From af554cf39399a7649dca7c311c4b0712fb06c0ad Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: "G Jaya Kumaran, Vineetha" <vineetha.g.jaya.kumaran@intel.com>
 Date: Fri, 25 May 2018 14:24:11 +0800
 Subject: [PATCH] cbc: Avoid rx sequence counter mismatch warnings

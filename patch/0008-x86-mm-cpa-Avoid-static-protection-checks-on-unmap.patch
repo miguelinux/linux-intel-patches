@@ -1,4 +1,4 @@
-From 47a59a421d55d53e42ec147ee53ad37ab24fca19 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Thomas Gleixner <tglx@linutronix.de>
 Date: Mon, 17 Sep 2018 16:29:13 +0200
 Subject: [PATCH] x86/mm/cpa: Avoid static protection checks on unmap
@@ -42,7 +42,7 @@ Signed-off-by: Lili Li <lili.li@intel.com>
  1 file changed, 7 insertions(+)
 
 diff --git a/arch/x86/mm/pageattr.c b/arch/x86/mm/pageattr.c
-index cdf52eb86f3a..8f9083eb21ac 100644
+index 98e5c709ba7f..67e77576f678 100644
 --- a/arch/x86/mm/pageattr.c
 +++ b/arch/x86/mm/pageattr.c
 @@ -526,6 +526,13 @@ static inline pgprot_t static_protections(pgprot_t prot, unsigned long start,

@@ -1,4 +1,4 @@
-From 2e55333953acfc22d3cede6823741694a949ffb3 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Saranya Gopal <saranya.gopal@intel.com>
 Date: Fri, 5 Oct 2018 15:20:15 +0530
 Subject: [PATCH] roles: Enable static DRD mode for role switch in Intel

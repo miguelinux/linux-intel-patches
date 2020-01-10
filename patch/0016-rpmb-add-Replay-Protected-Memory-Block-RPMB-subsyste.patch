@@ -1,4 +1,4 @@
-From 5e6b62b8766a5027fb06dfee1e372e509952d265 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Sun, 1 Feb 2015 10:17:24 +0200
 Subject: [PATCH] rpmb: add Replay Protected Memory Block (RPMB) subsystem
@@ -64,10 +64,10 @@ Tested-by: Avri Altman <avri.altman@sandisk.com>
  create mode 100644 include/linux/rpmb.h
 
 diff --git a/MAINTAINERS b/MAINTAINERS
-index b2f710eee67a..3c99a53c4590 100644
+index d735500d3dad..8dec8dfa5c4b 100644
 --- a/MAINTAINERS
 +++ b/MAINTAINERS
-@@ -12527,6 +12527,13 @@ F:	include/net/rose.h
+@@ -12533,6 +12533,13 @@ F:	include/net/rose.h
  F:	include/uapi/linux/rose.h
  F:	net/rose/
  
@@ -82,7 +82,7 @@ index b2f710eee67a..3c99a53c4590 100644
  M:	Antti Palosaari <crope@iki.fi>
  L:	linux-media@vger.kernel.org
 diff --git a/drivers/char/Kconfig b/drivers/char/Kconfig
-index 40728491f37b..26a2da8dde63 100644
+index 1df9cb8e659e..1780743c5d11 100644
 --- a/drivers/char/Kconfig
 +++ b/drivers/char/Kconfig
 @@ -552,6 +552,8 @@ config ADI

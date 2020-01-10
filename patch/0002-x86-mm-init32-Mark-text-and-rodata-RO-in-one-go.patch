@@ -1,4 +1,4 @@
-From c8c149202f3e8a29eb7d650650a5563ab19f3e44 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Thomas Gleixner <tglx@linutronix.de>
 Date: Mon, 17 Sep 2018 16:29:07 +0200
 Subject: [PATCH] x86/mm/init32: Mark text and rodata RO in one go

@@ -1,4 +1,4 @@
-From dcbf1ab0016608b06a6ac8a3d7af55fde2c1c65e Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: padmarao edapalapati <padmarao.edapalapati@intel.com>
 Date: Thu, 6 Sep 2018 10:38:22 +0530
 Subject: [PATCH] Fix for cbc kernel driver crash during warm reboot

@@ -1,4 +1,4 @@
-From 0871f25bb3a3f4f04d3f3a806c2a8bc9eb0fb15a Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: "Vyas, Tarun" <tarun.vyas@intel.com>
 Date: Wed, 5 Sep 2018 08:14:21 -0700
 Subject: [PATCH] staging: Add AVnu based Intel IGB driver

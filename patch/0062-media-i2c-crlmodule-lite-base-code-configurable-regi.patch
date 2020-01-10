@@ -1,4 +1,4 @@
-From 56c075d6b2978a0841aaaffaf978874be5295ba8 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: "Yew, Chang Ching" <chang.ching.yew@intel.com>
 Date: Tue, 23 Oct 2018 13:23:51 +0800
 Subject: [PATCH] media: i2c: crlmodule-lite: base code (configurable register
@@ -71,10 +71,10 @@ Signed-off-by: Yew, Chang Ching <chang.ching.yew@intel.com>
  create mode 100644 include/media/lm3643.h
 
 diff --git a/drivers/media/i2c/Kconfig b/drivers/media/i2c/Kconfig
-index dbcb2131ddf7..bb03546ab566 100644
+index 5dda368ad88c..4d3ee27b80ba 100644
 --- a/drivers/media/i2c/Kconfig
 +++ b/drivers/media/i2c/Kconfig
-@@ -946,6 +946,7 @@ config VIDEO_S5K5BAF
+@@ -949,6 +949,7 @@ config VIDEO_S5K5BAF
  source "drivers/media/i2c/smiapp/Kconfig"
  source "drivers/media/i2c/et8ek8/Kconfig"
  source "drivers/media/i2c/crlmodule/Kconfig"
@@ -83,7 +83,7 @@ index dbcb2131ddf7..bb03546ab566 100644
  config VIDEO_S5C73M3
  	tristate "Samsung S5C73M3 sensor support"
 diff --git a/drivers/media/i2c/Makefile b/drivers/media/i2c/Makefile
-index 4ad43e933238..5860426e9400 100644
+index b23bd05aab9c..f1e412a8ca89 100644
 --- a/drivers/media/i2c/Makefile
 +++ b/drivers/media/i2c/Makefile
 @@ -115,3 +115,4 @@ obj-$(CONFIG_VIDEO_CRLMODULE) += crlmodule/

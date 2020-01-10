@@ -1,4 +1,4 @@
-From c3b4f684fdd0ed43b52d4d8d719b4b9f4a16d121 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: "Yew, Chang Ching" <chang.ching.yew@intel.com>
 Date: Tue, 23 Oct 2018 13:25:38 +0800
 Subject: [PATCH] media: platform: intel: platform driver to be used by ICI and

@@ -1,4 +1,4 @@
-From 4c4e69e94cc17da8f8f727f4e982ef8113c541cf Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Fri, 26 Oct 2018 09:52:57 +0800
 Subject: [PATCH] media: i2c: add TI960/953 SER/DES driver
@@ -21,10 +21,10 @@ Signed-off-by: Meng Wei <wei.meng@intel.com>
  create mode 100644 include/media/ti960.h
 
 diff --git a/drivers/media/i2c/Kconfig b/drivers/media/i2c/Kconfig
-index be954b4d9425..dbcb2131ddf7 100644
+index fe620388ad6a..5dda368ad88c 100644
 --- a/drivers/media/i2c/Kconfig
 +++ b/drivers/media/i2c/Kconfig
-@@ -1078,6 +1078,12 @@ config VIDEO_MAX9286
+@@ -1081,6 +1081,12 @@ config VIDEO_MAX9286
  	---help---
  	This is a MAXIM 96705 Serializer and MAXIM 9286 CSI-2 Deserializer driver.
  
@@ -38,7 +38,7 @@ index be954b4d9425..dbcb2131ddf7 100644
  
  menu "Sensors used on soc_camera driver"
 diff --git a/drivers/media/i2c/Makefile b/drivers/media/i2c/Makefile
-index 96ec00673960..4ad43e933238 100644
+index 8f906f7b599b..b23bd05aab9c 100644
 --- a/drivers/media/i2c/Makefile
 +++ b/drivers/media/i2c/Makefile
 @@ -114,3 +114,4 @@ obj-$(CONFIG_SDR_MAX2175) += max2175.o

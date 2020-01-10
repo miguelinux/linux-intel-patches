@@ -1,4 +1,4 @@
-From e28ff3bdff33f2987591bc3701f6b39f26f86cbc Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: "Huang, Yang" <yang.huang@intel.com>
 Date: Tue, 24 Jul 2018 13:52:54 +0800
 Subject: [PATCH] rpmb: add rpmb multiplexor kernel module

@@ -1,4 +1,4 @@
-From ca9957ec20ef26e269e29e8ba61e00e1a3a2b25e Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Saranya Gopal <saranya.gopal@intel.com>
 Date: Wed, 12 Sep 2018 01:03:57 +0530
 Subject: [PATCH] usbcore: Select UAC3 configuration for audio if present

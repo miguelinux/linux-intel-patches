@@ -1,4 +1,4 @@
-From 84e657744e7199d1d2b2a54e069eb2afacae0743 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Tue, 23 Dec 2014 17:18:37 +0200
 Subject: [PATCH] mei: spd: storage proxy driver

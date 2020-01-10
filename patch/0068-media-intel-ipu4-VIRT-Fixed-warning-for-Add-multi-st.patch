@@ -1,4 +1,4 @@
-From 3f0123feea94203c78a2ea622b93d30d8235ab41 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Ong Hock Yu <ong.hock.yu@intel.com>
 Date: Tue, 6 Nov 2018 18:59:34 +0000
 Subject: [PATCH] media: intel-ipu4: [VIRT] Fixed warning for "Add multi

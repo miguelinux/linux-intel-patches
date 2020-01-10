@@ -1,4 +1,4 @@
-From 97ce35085e4efa3196df726775c68474599100fb Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Meng Wei <wei.meng@intel.com>
 Date: Fri, 26 Oct 2018 09:52:28 +0800
 Subject: [PATCH] media:entity: graph walk starting from pad

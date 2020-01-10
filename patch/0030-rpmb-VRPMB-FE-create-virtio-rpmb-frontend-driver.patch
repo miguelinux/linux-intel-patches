@@ -1,4 +1,4 @@
-From 90f8b6af1a0cc1e33fe7223bac5c01c893cf941e Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Thu, 24 May 2018 14:57:02 +0300
 Subject: [PATCH] rpmb: VRPMB-FE create virtio rpmb frontend driver
