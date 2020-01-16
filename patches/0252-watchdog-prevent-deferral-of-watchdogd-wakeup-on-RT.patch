@@ -1,7 +1,7 @@
-From 1a6947443058c0374db28d38e92671731ce32711 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Julia Cartwright <julia@ni.com>
 Date: Fri, 28 Sep 2018 21:03:51 +0000
-Subject: [PATCH 252/290] watchdog: prevent deferral of watchdogd wakeup on RT
+Subject: [PATCH] watchdog: prevent deferral of watchdogd wakeup on RT
 
 When PREEMPT_RT_FULL is enabled, all hrtimer expiry functions are
 deferred for execution into the context of ktimersoftd unless otherwise
@@ -36,7 +36,7 @@ Signed-off-by: Sebastian Andrzej Siewior <bigeasy@linutronix.de>
  1 file changed, 4 insertions(+), 4 deletions(-)
 
 diff --git a/drivers/watchdog/watchdog_dev.c b/drivers/watchdog/watchdog_dev.c
-index 4b89333e8eb4..ed12734e1e8c 100644
+index 4b89333e8..ed12734e1 100644
 --- a/drivers/watchdog/watchdog_dev.c
 +++ b/drivers/watchdog/watchdog_dev.c
 @@ -146,7 +146,7 @@ static inline void watchdog_update_worker(struct watchdog_device *wdd)
@@ -76,5 +76,5 @@ index 4b89333e8eb4..ed12734e1e8c 100644
  			pr_info("watchdog%d running and kernel based pre-userspace handler disabled\n",
  				wdd->id);
 -- 
-2.24.1
+https://clearlinux.org
 

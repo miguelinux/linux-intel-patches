@@ -1,7 +1,7 @@
-From ebba085e584e2dafd1d06328a5d4f3b3f3fc0269 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Thomas Gleixner <tglx@linutronix.de>
 Date: Wed, 26 Jun 2019 13:35:36 +0200
-Subject: [PATCH 281/290] futex: Delay deallocation of pi_state
+Subject: [PATCH] futex: Delay deallocation of pi_state
 
 [ Upstream commit d7c7cf8cb68b7df17e6e50be1f25f35d83e686c7 ]
 
@@ -17,7 +17,7 @@ Signed-off-by: Steven Rostedt (VMware) <rostedt@goodmis.org>
  1 file changed, 44 insertions(+), 11 deletions(-)
 
 diff --git a/kernel/futex.c b/kernel/futex.c
-index a9d9283605e5..0b8cff8d9162 100644
+index a9d928360..0b8cff8d9 100644
 --- a/kernel/futex.c
 +++ b/kernel/futex.c
 @@ -825,13 +825,13 @@ static void get_pi_state(struct futex_pi_state *pi_state)
@@ -178,5 +178,5 @@ index a9d9283605e5..0b8cff8d9162 100644
  	} else {
  		struct rt_mutex *pi_mutex;
 -- 
-2.24.1
+https://clearlinux.org
 

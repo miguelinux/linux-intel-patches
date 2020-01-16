@@ -1,7 +1,7 @@
-From 99c5293588e06d70bf0da65917ba3f7ab80dcf30 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Thomas Gleixner <tglx@linutronix.de>
 Date: Thu, 12 Oct 2017 17:17:03 +0200
-Subject: [PATCH 144/290] rtmutex: add mutex implementation based on rtmutex
+Subject: [PATCH] rtmutex: add mutex implementation based on rtmutex
 
 Signed-off-by: Thomas Gleixner <tglx@linutronix.de>
 Signed-off-by: Sebastian Andrzej Siewior <bigeasy@linutronix.de>
@@ -14,7 +14,7 @@ Signed-off-by: Sebastian Andrzej Siewior <bigeasy@linutronix.de>
 
 diff --git a/include/linux/mutex_rt.h b/include/linux/mutex_rt.h
 new file mode 100644
-index 000000000000..3fcb5edb1d2b
+index 000000000..3fcb5edb1
 --- /dev/null
 +++ b/include/linux/mutex_rt.h
 @@ -0,0 +1,130 @@
@@ -150,7 +150,7 @@ index 000000000000..3fcb5edb1d2b
 +#endif
 diff --git a/kernel/locking/mutex-rt.c b/kernel/locking/mutex-rt.c
 new file mode 100644
-index 000000000000..4f81595c0f52
+index 000000000..4f81595c0
 --- /dev/null
 +++ b/kernel/locking/mutex-rt.c
 @@ -0,0 +1,223 @@
@@ -378,5 +378,5 @@ index 000000000000..4f81595c0f52
 +}
 +EXPORT_SYMBOL(atomic_dec_and_mutex_lock);
 -- 
-2.24.1
+https://clearlinux.org
 

@@ -1,8 +1,8 @@
-From 06003e1c96291d4d372f2e31c988999c2ef34f31 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Sebastian Andrzej Siewior <bigeasy@linutronix.de>
 Date: Wed, 21 Aug 2013 17:48:46 +0200
-Subject: [PATCH 097/290] genirq: Do not invoke the affinity callback via a
- workqueue on RT
+Subject: [PATCH] genirq: Do not invoke the affinity callback via a workqueue
+ on RT
 
 Joe Korty reported, that __irq_set_affinity_locked() schedules a
 workqueue while holding a rawlock which results in a might_sleep()
@@ -16,7 +16,7 @@ Signed-off-by: Sebastian Andrzej Siewior <bigeasy@linutronix.de>
  2 files changed, 49 insertions(+), 3 deletions(-)
 
 diff --git a/include/linux/interrupt.h b/include/linux/interrupt.h
-index 315f852b4981..a943c07b54ba 100644
+index 315f852b4..a943c07b5 100644
 --- a/include/linux/interrupt.h
 +++ b/include/linux/interrupt.h
 @@ -13,6 +13,7 @@
@@ -48,7 +48,7 @@ index 315f852b4981..a943c07b54ba 100644
  	void (*release)(struct kref *ref);
  };
 diff --git a/kernel/irq/manage.c b/kernel/irq/manage.c
-index 3c26d0708709..eadcbfbd434a 100644
+index 3c26d0708..eadcbfbd4 100644
 --- a/kernel/irq/manage.c
 +++ b/kernel/irq/manage.c
 @@ -285,7 +285,12 @@ int irq_set_affinity_locked(struct irq_data *data, const struct cpumask *mask,
@@ -137,5 +137,5 @@ index 3c26d0708709..eadcbfbd434a 100644
  	}
  
 -- 
-2.24.1
+https://clearlinux.org
 

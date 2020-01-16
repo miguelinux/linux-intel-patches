@@ -1,8 +1,7 @@
-From cd5771603fe1942769706821fac18040226fec7c Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Julia Cartwright <julia@ni.com>
 Date: Mon, 7 May 2018 08:58:57 -0500
-Subject: [PATCH 174/290] squashfs: make use of local lock in multi_cpu
- decompressor
+Subject: [PATCH] squashfs: make use of local lock in multi_cpu decompressor
 
 Currently, the squashfs multi_cpu decompressor makes use of
 get_cpu_ptr()/put_cpu_ptr(), which unconditionally disable preemption
@@ -26,7 +25,7 @@ Signed-off-by: Sebastian Andrzej Siewior <bigeasy@linutronix.de>
  1 file changed, 12 insertions(+), 4 deletions(-)
 
 diff --git a/fs/squashfs/decompressor_multi_percpu.c b/fs/squashfs/decompressor_multi_percpu.c
-index 23a9c28ad8ea..6a73c4fa88e7 100644
+index 23a9c28ad..6a73c4fa8 100644
 --- a/fs/squashfs/decompressor_multi_percpu.c
 +++ b/fs/squashfs/decompressor_multi_percpu.c
 @@ -10,6 +10,7 @@
@@ -67,5 +66,5 @@ index 23a9c28ad8ea..6a73c4fa88e7 100644
  	if (res < 0)
  		ERROR("%s decompression failed, data probably corrupt\n",
 -- 
-2.24.1
+https://clearlinux.org
 

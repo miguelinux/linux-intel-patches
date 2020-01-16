@@ -1,7 +1,7 @@
-From 575aa1d2041b59a87bb62ae844b43779bb1114e6 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Thomas Gleixner <tglx@linutronix.de>
 Date: Wed, 29 Jun 2011 19:34:01 +0200
-Subject: [PATCH 138/290] spinlock: Split the lock types header
+Subject: [PATCH] spinlock: Split the lock types header
 
 Split raw_spinlock into its own file and the remaining spinlock_t into
 its own non-RT header. The non-RT header will be replaced later by sleeping
@@ -18,7 +18,7 @@ Signed-off-by: Thomas Gleixner <tglx@linutronix.de>
  create mode 100644 include/linux/spinlock_types_raw.h
 
 diff --git a/include/linux/rwlock_types.h b/include/linux/rwlock_types.h
-index 857a72ceb794..c21683f3e14a 100644
+index 857a72ceb..c21683f3e 100644
 --- a/include/linux/rwlock_types.h
 +++ b/include/linux/rwlock_types.h
 @@ -1,6 +1,10 @@
@@ -33,7 +33,7 @@ index 857a72ceb794..c21683f3e14a 100644
   * include/linux/rwlock_types.h - generic rwlock type definitions
   *				  and initializers
 diff --git a/include/linux/spinlock_types.h b/include/linux/spinlock_types.h
-index 24b4e6f2c1a2..5c8664d57fb8 100644
+index 24b4e6f2c..5c8664d57 100644
 --- a/include/linux/spinlock_types.h
 +++ b/include/linux/spinlock_types.h
 @@ -9,76 +9,9 @@
@@ -117,7 +117,7 @@ index 24b4e6f2c1a2..5c8664d57fb8 100644
  
 diff --git a/include/linux/spinlock_types_nort.h b/include/linux/spinlock_types_nort.h
 new file mode 100644
-index 000000000000..f1dac1fb1d6a
+index 000000000..f1dac1fb1
 --- /dev/null
 +++ b/include/linux/spinlock_types_nort.h
 @@ -0,0 +1,33 @@
@@ -156,7 +156,7 @@ index 000000000000..f1dac1fb1d6a
 +#endif
 diff --git a/include/linux/spinlock_types_raw.h b/include/linux/spinlock_types_raw.h
 new file mode 100644
-index 000000000000..822bf64a61d3
+index 000000000..822bf64a6
 --- /dev/null
 +++ b/include/linux/spinlock_types_raw.h
 @@ -0,0 +1,55 @@
@@ -216,5 +216,5 @@ index 000000000000..822bf64a61d3
 +
 +#endif
 -- 
-2.24.1
+https://clearlinux.org
 

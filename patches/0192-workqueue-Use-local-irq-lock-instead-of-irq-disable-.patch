@@ -1,8 +1,7 @@
-From 670717ab259111dcf589c98670ff74a206bf87d3 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Thomas Gleixner <tglx@linutronix.de>
 Date: Sun, 17 Jul 2011 21:42:26 +0200
-Subject: [PATCH 192/290] workqueue: Use local irq lock instead of irq disable
- regions
+Subject: [PATCH] workqueue: Use local irq lock instead of irq disable regions
 
 Use a local_irq_lock as a replacement for irq off regions. We keep the
 semantic of irq-off in regard to the pool->lock and remain preemptible.
@@ -13,7 +12,7 @@ Signed-off-by: Thomas Gleixner <tglx@linutronix.de>
  1 file changed, 30 insertions(+), 15 deletions(-)
 
 diff --git a/kernel/workqueue.c b/kernel/workqueue.c
-index 544007905706..0efb8d25d940 100644
+index 544007905..0efb8d25d 100644
 --- a/kernel/workqueue.c
 +++ b/kernel/workqueue.c
 @@ -49,6 +49,7 @@
@@ -181,5 +180,5 @@ index 544007905706..0efb8d25d940 100644
  }
  
 -- 
-2.24.1
+https://clearlinux.org
 

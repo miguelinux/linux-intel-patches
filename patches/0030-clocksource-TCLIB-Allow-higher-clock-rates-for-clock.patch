@@ -1,8 +1,7 @@
-From 45b7375a7348d45d17515da0b294d479805fd855 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Benedikt Spranger <b.spranger@linutronix.de>
 Date: Mon, 8 Mar 2010 18:57:04 +0100
-Subject: [PATCH 030/290] clocksource: TCLIB: Allow higher clock rates for
- clock events
+Subject: [PATCH] clocksource: TCLIB: Allow higher clock rates for clock events
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
@@ -20,7 +19,7 @@ Signed-off-by: Thomas Gleixner <tglx@linutronix.de>
  2 files changed, 31 insertions(+), 17 deletions(-)
 
 diff --git a/drivers/clocksource/tcb_clksrc.c b/drivers/clocksource/tcb_clksrc.c
-index de6baf564dfe..ba15242a6066 100644
+index de6baf564..ba15242a6 100644
 --- a/drivers/clocksource/tcb_clksrc.c
 +++ b/drivers/clocksource/tcb_clksrc.c
 @@ -25,8 +25,7 @@
@@ -135,7 +134,7 @@ index de6baf564dfe..ba15242a6066 100644
  		goto err_unregister_clksrc;
  
 diff --git a/drivers/misc/Kconfig b/drivers/misc/Kconfig
-index 3726eacdf65d..0900dec7ec04 100644
+index 3726eacdf..0900dec7e 100644
 --- a/drivers/misc/Kconfig
 +++ b/drivers/misc/Kconfig
 @@ -69,8 +69,7 @@ config ATMEL_TCB_CLKSRC
@@ -165,5 +164,5 @@ index 3726eacdf65d..0900dec7ec04 100644
  	tristate "Dummy IRQ handler"
  	default n
 -- 
-2.24.1
+https://clearlinux.org
 

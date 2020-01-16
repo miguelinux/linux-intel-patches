@@ -1,8 +1,7 @@
-From 6657c7f6ea61fd3fea378532fcae38776afc9fc1 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Sebastian Andrzej Siewior <bigeasy@linutronix.de>
 Date: Wed, 13 Sep 2017 12:32:34 +0200
-Subject: [PATCH 172/290] fs/dcache: bring back explicit INIT_HLIST_BL_HEAD
- init
+Subject: [PATCH] fs/dcache: bring back explicit INIT_HLIST_BL_HEAD init
 
 Commit 3d375d78593c ("mm: update callers to use HASH_ZERO flag") removed
 INIT_HLIST_BL_HEAD and uses the ZERO flag instead for the init. However
@@ -15,7 +14,7 @@ Signed-off-by: Sebastian Andrzej Siewior <bigeasy@linutronix.de>
  1 file changed, 11 insertions(+)
 
 diff --git a/fs/dcache.c b/fs/dcache.c
-index 6e0022326afe..10225a9135fb 100644
+index 6e0022326..10225a913 100644
 --- a/fs/dcache.c
 +++ b/fs/dcache.c
 @@ -3060,6 +3060,8 @@ __setup("dhash_entries=", set_dhash_entries);
@@ -56,5 +55,5 @@ index 6e0022326afe..10225a9135fb 100644
  }
  
 -- 
-2.24.1
+https://clearlinux.org
 

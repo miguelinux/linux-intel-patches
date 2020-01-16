@@ -1,7 +1,7 @@
-From a848373d9df624fd8692e4419ae43107453a6ee5 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Sebastian Andrzej Siewior <bigeasy@linutronix.de>
 Date: Tue, 26 Feb 2019 16:56:02 +0100
-Subject: [PATCH 140/290] rbtree: don't include the rcu header
+Subject: [PATCH] rbtree: don't include the rcu header
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
@@ -30,7 +30,7 @@ Signed-off-by: Sebastian Andrzej Siewior <bigeasy@linutronix.de>
  create mode 100644 include/linux/rcu_assign_pointer.h
 
 diff --git a/include/linux/rbtree.h b/include/linux/rbtree.h
-index fcbeed4053ef..2aa2aec354c2 100644
+index fcbeed405..2aa2aec35 100644
 --- a/include/linux/rbtree.h
 +++ b/include/linux/rbtree.h
 @@ -31,7 +31,7 @@
@@ -44,7 +44,7 @@ index fcbeed4053ef..2aa2aec354c2 100644
  	unsigned long  __rb_parent_color;
 diff --git a/include/linux/rcu_assign_pointer.h b/include/linux/rcu_assign_pointer.h
 new file mode 100644
-index 000000000000..7066962a4379
+index 000000000..7066962a4
 --- /dev/null
 +++ b/include/linux/rcu_assign_pointer.h
 @@ -0,0 +1,54 @@
@@ -103,7 +103,7 @@ index 000000000000..7066962a4379
 +
 +#endif
 diff --git a/include/linux/rcupdate.h b/include/linux/rcupdate.h
-index 027c58cdbb6e..e6733d7911e9 100644
+index 027c58cdb..e6733d791 100644
 --- a/include/linux/rcupdate.h
 +++ b/include/linux/rcupdate.h
 @@ -42,6 +42,7 @@
@@ -170,5 +170,5 @@ index 027c58cdbb6e..e6733d7911e9 100644
   * rcu_swap_protected() - swap an RCU and a regular pointer
   * @rcu_ptr: RCU pointer
 -- 
-2.24.1
+https://clearlinux.org
 

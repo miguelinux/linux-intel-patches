@@ -1,7 +1,7 @@
-From 1c3cb84e399e50f312537ee0399deefc5557d1ea Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Clark Williams <williams@redhat.com>
 Date: Sat, 30 Jul 2011 21:55:53 -0500
-Subject: [PATCH 215/290] sysfs: Add /sys/kernel/realtime entry
+Subject: [PATCH] sysfs: Add /sys/kernel/realtime entry
 
 Add a /sys/kernel entry to indicate that the kernel is a
 realtime kernel.
@@ -19,7 +19,7 @@ Signed-off-by: Peter Zijlstra <a.p.zijlstra@chello.nl>
  1 file changed, 12 insertions(+)
 
 diff --git a/kernel/ksysfs.c b/kernel/ksysfs.c
-index 46ba853656f6..9a23632b6294 100644
+index 46ba85365..9a23632b6 100644
 --- a/kernel/ksysfs.c
 +++ b/kernel/ksysfs.c
 @@ -140,6 +140,15 @@ KERNEL_ATTR_RO(vmcoreinfo);
@@ -49,5 +49,5 @@ index 46ba853656f6..9a23632b6294 100644
  	NULL
  };
 -- 
-2.24.1
+https://clearlinux.org
 

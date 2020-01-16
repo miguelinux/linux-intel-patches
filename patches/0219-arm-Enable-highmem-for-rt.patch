@@ -1,7 +1,7 @@
-From 5fc0ce79ee0183b4033b86d6824ee0463b6cfa3f Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Thomas Gleixner <tglx@linutronix.de>
 Date: Wed, 13 Feb 2013 11:03:11 +0100
-Subject: [PATCH 219/290] arm: Enable highmem for rt
+Subject: [PATCH] arm: Enable highmem for rt
 
 fixup highmem for ARM.
 
@@ -13,7 +13,7 @@ Signed-off-by: Thomas Gleixner <tglx@linutronix.de>
  3 files changed, 57 insertions(+), 8 deletions(-)
 
 diff --git a/arch/arm/include/asm/switch_to.h b/arch/arm/include/asm/switch_to.h
-index d3e937dcee4d..6ab96a2ce1f8 100644
+index d3e937dce..6ab96a2ce 100644
 --- a/arch/arm/include/asm/switch_to.h
 +++ b/arch/arm/include/asm/switch_to.h
 @@ -4,6 +4,13 @@
@@ -39,7 +39,7 @@ index d3e937dcee4d..6ab96a2ce1f8 100644
  } while (0)
  
 diff --git a/arch/arm/mm/highmem.c b/arch/arm/mm/highmem.c
-index eb4b225d28c9..542692dbd40a 100644
+index eb4b225d2..542692dbd 100644
 --- a/arch/arm/mm/highmem.c
 +++ b/arch/arm/mm/highmem.c
 @@ -34,6 +34,11 @@ static inline pte_t get_fixmap_pte(unsigned long vaddr)
@@ -167,7 +167,7 @@ index eb4b225d28c9..542692dbd40a 100644
 +}
 +#endif
 diff --git a/include/linux/highmem.h b/include/linux/highmem.h
-index 1ac89e4718bf..eaa2ef9bc10e 100644
+index 1ac89e471..eaa2ef9bc 100644
 --- a/include/linux/highmem.h
 +++ b/include/linux/highmem.h
 @@ -8,6 +8,7 @@
@@ -179,5 +179,5 @@ index 1ac89e4718bf..eaa2ef9bc10e 100644
  #include <asm/cacheflush.h>
  
 -- 
-2.24.1
+https://clearlinux.org
 

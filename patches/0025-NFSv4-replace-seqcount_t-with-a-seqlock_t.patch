@@ -1,7 +1,7 @@
-From 78cfba1f8655c35ecd538b02a09000d4d7d18af9 Mon Sep 17 00:00:00 2001
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
 From: Sebastian Andrzej Siewior <bigeasy@linutronix.de>
 Date: Fri, 28 Oct 2016 23:05:11 +0200
-Subject: [PATCH 025/290] NFSv4: replace seqcount_t with a seqlock_t
+Subject: [PATCH] NFSv4: replace seqcount_t with a seqlock_t
 
 The raw_write_seqcount_begin() in nfs4_reclaim_open_state() bugs me
 because it maps to preempt_disable() in -RT which I can't have at this
@@ -26,7 +26,7 @@ Signed-off-by: Sebastian Andrzej Siewior <bigeasy@linutronix.de>
  4 files changed, 21 insertions(+), 11 deletions(-)
 
 diff --git a/fs/nfs/delegation.c b/fs/nfs/delegation.c
-index 74ff459b75ef..6b422d1b5ae1 100644
+index 74ff459b7..6b422d1b5 100644
 --- a/fs/nfs/delegation.c
 +++ b/fs/nfs/delegation.c
 @@ -162,11 +162,11 @@ static int nfs_delegation_claim_opens(struct inode *inode,
@@ -44,7 +44,7 @@ index 74ff459b75ef..6b422d1b5ae1 100644
  		mutex_unlock(&sp->so_delegreturn_mutex);
  		put_nfs_open_context(ctx);
 diff --git a/fs/nfs/nfs4_fs.h b/fs/nfs/nfs4_fs.h
-index 5b61520dce88..2771aafaca19 100644
+index 5b61520dc..2771aafac 100644
 --- a/fs/nfs/nfs4_fs.h
 +++ b/fs/nfs/nfs4_fs.h
 @@ -114,7 +114,7 @@ struct nfs4_state_owner {
@@ -57,7 +57,7 @@ index 5b61520dce88..2771aafaca19 100644
  };
  
 diff --git a/fs/nfs/nfs4proc.c b/fs/nfs/nfs4proc.c
-index 792f8821b5d6..041d235cf5ef 100644
+index 792f8821b..041d235cf 100644
 --- a/fs/nfs/nfs4proc.c
 +++ b/fs/nfs/nfs4proc.c
 @@ -2870,7 +2870,7 @@ static int _nfs4_open_and_get_state(struct nfs4_opendata *opendata,
@@ -79,7 +79,7 @@ index 792f8821b5d6..041d235cf5ef 100644
  	}
  
 diff --git a/fs/nfs/nfs4state.c b/fs/nfs/nfs4state.c
-index b3086e99420c..c9bf1eb7e1b2 100644
+index b3086e994..c9bf1eb7e 100644
 --- a/fs/nfs/nfs4state.c
 +++ b/fs/nfs/nfs4state.c
 @@ -515,7 +515,7 @@ nfs4_alloc_state_owner(struct nfs_server *server,
@@ -131,5 +131,5 @@ index b3086e99420c..c9bf1eb7e1b2 100644
  }
  
 -- 
-2.24.1
+https://clearlinux.org
 
